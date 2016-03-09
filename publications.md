@@ -5,4 +5,8 @@ image:
   feature: plains.jpg
 ---
 
-This is a test of the emergency broadcast system
+## Journal articles
+{% bibliography --query @article %}
+
+## Conference Papers
+{% bibliography --query @inproceedings %}
