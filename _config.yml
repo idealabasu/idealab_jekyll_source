@@ -25,5 +25,25 @@ menu:
     link: test1
   - name: Test2
     link: test2
+  - name: Publications
+    link: publications
     
 tags: a,b,c,d
+
+
+scholar:
+  style: assets/ieee.csl
+  locale: en
+  sort_by: year
+  order: descending
+  source: assets
+  bibliography: bibliography.bib
+  bibliography_template: bibtemplate
+  replace_strings: true
+  join_strings: true
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+  query: "@*"
+
+gems: [jekyll-paginate]
