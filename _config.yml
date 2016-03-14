@@ -1,3 +1,16 @@
+organization_name: IDEAlab
+title: IDEAlab -- Integrating Design, Engineering, and Analysis
+email: contact@idealabasu.com
+# description: > # this means to ignore newlines until "baseurl:"
+  # Integrating Design, Engineering, and Analysis
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://idealab.asu.edu" # the base hostname & protocol for your site
+# url: "http://idealabasu.com" # the base hostname & protocol for your site
+# url: "localhost:4000" # the base hostname & protocol for your site
+
+include: 
+  - .nojekyll
+
 defaults:
   -
     scope:
@@ -17,14 +30,20 @@ kramdown:
   auto_ids: true
 highlighter: pygments
 
-organization_name: IDEAlab
-title: IDEAlab -- Integrating Design, Engineering, and Analysis
 
 menu:
-  - name: Publications
-    link: publications
   - name: Research
     link: research
+  - name: People
+    link: people
+  - name: Publications
+    link: publications
+  - name: News
+    link: news
+  - name: Visit
+    link: visit
+  - name: Contact
+    link: contact
     
 tags: a,b,c,d
 
@@ -45,3 +64,8 @@ scholar:
   query: "@*"
 
 gems: [jekyll-paginate]
+
+form_redirect: /submitted/
+permalink: ordinal
+markdown: kramdown
+show_drafts: false
