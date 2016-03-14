@@ -1,6 +1,6 @@
 ---
 title: Publications
-layout: default
+layout: page
 ---
 
 ## Journal articles

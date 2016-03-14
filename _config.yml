@@ -21,12 +21,10 @@ organization_name: IDEAlab
 title: IDEAlab -- Integrating Design, Engineering, and Analysis
 
 menu:
-  - name: Test1
-    link: test1
-  - name: Test2
-    link: test2
   - name: Publications
     link: publications
+  - name: Research
+    link: research
     
 tags: a,b,c,d
 

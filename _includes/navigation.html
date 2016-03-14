@@ -7,6 +7,7 @@
       <span class="fa fa-home hidden-xs hidden-sm" aria-hidden="true"></span><span class="hidden-md hidden-lg">Home</span>
     </a>
   </li>
+{% comment %}
   <li class="menu-item dropdown">
     <a title="Categories" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Categories <span class="caret"></span>
     </a>
@@ -30,6 +31,8 @@
         </ul>
       </li>
     {% endunless %}{% endfor %}
+  {% endcomment %}
+    
   </li>
   {% for item in site.menu %}
     <li class="menu-item">
