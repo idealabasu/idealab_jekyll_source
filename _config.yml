@@ -8,6 +8,13 @@ url: "http://idealab.asu.edu" # the base hostname & protocol for your site
 # url: "http://idealabasu.com" # the base hostname & protocol for your site
 # url: "localhost:4000" # the base hostname & protocol for your site
 
+address: 
+  - Technology Building, Room 152
+  - 6075 S. Innovation Way West
+  - Mesa, AZ 85212
+
+phone: 480-727-1894  
+
 include: 
   - .nojekyll
 
