@@ -5,7 +5,7 @@ layout: page
 
 <div class="row">
   <div class="col-md-3">
-    <img class="img-fluid" src="{{site.baseurl}}/assets/images/headshot-small.jpg" height="200px">
+    <img class="img-fluid" src="{{site.base_path}}/assets/images/headshot-small.jpg" height="200px">
   </div>
 
 <h2> Daniel M. Aukes, Ph.D.</h2>

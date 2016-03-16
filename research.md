@@ -11,7 +11,7 @@ We are reimagining how to make robots
 ### [popupCAD](http://www.popupcad.org)
 <div class="row">
   <div class="col-md-4">
-    <img class="img-responsive" src="{{site.baseurl}}/assets/images/popupcad.jpg">
+    <img class="img-responsive" src="{{site.base_path}}/assets/images/popupcad.jpg">
   </div>
   <div class="col-md-8">
     popupCAD is a design tool which makes it incredibly easy to develop multi-material, origami-inspired laminate devices.
@@ -34,7 +34,7 @@ asfda l;kajsd ;flkjdsa f;ljkasd f;ljkas ;lkjldskfjakl;sjdklsjdflkajhsdfkla hsldk
 
 </div>
   <div class="col-md-4">
-      <img class="img-fluid img-thumbnail" src="{{site.baseurl}}/assets/images/640x480.png">
+      <img class="img-fluid img-thumbnail" src="{{site.base_path}}/assets/images/640x480.png">
       <p class="text-right">Here is a caption</p>
   </div>
 </div>
