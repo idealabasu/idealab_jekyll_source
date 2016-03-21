@@ -72,7 +72,7 @@ scholar:
 
 gems: [jekyll-paginate]
 
-form_redirect: /submitted/
+form_redirect: /submitted
 permalink: ordinal
 markdown: kramdown
 show_drafts: false
