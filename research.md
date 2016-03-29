@@ -50,14 +50,10 @@ Analysis
 ---------
 We seek to tighten the design experience by embedding various analysis tools directly into the design process.  Here is a summary of some of our past and current work in the area.
 
-### Pynamics
+{% comment %}
+### Underactuated System Design
+{% endcomment %}
 
-We have developed a symbolic toolkit for generating dynamic equations of motion in python.
+We use simulation to improve our understanding of how the design of complex systems -- such as underactuated robotic hands -- can be improved.  These systems bend, flex, and deform in uncontrollable ways; only by characterizing their freedom and flexibility can we create smarter, more robust designs.
 
-### Design of Underactuated Robotic Hands
-
-We use dynamic simulation to improve our understanding of how the design of complex systems such as underactuated robotic hands -- hands that bend, flex, and conform around objects in uncontrollable ways -- can be improved.
-
-### FEA & Stiffness analysis
-
-Due to the soft, informal nature of many of the devices we build, we must also understand how the parts of our device will bend and flex during use.  We seek to embed that knowledge directly in the design tools we develop.
+Due to the soft, informal nature of many of the devices we build, we must also understand how the parts of our device will bend and flex during use.  We seek to embed that knowledge directly in the design tools we develop.  Tools like FEA and dynamic analysis must be treated as part of that solution throughout the design and prototyping phases.
