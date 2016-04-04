@@ -4,16 +4,13 @@ layout: page
 ---
 
 ## Journal articles
-{% bibliography --file papers_journal %}
+{% bibliography --file papers-mine-journal %}
 
-## Refereed Conference Papers
-{% bibliography --file papers_conference_refereed %}
-
-## Other Conference Papers
-{% bibliography --file papers_conference_unrefereed %}
+## Conference Papers
+{% bibliography --file papers-mine-conference %}
 
 ## Workshops
-{% bibliography --file papers_workshop %}
+{% bibliography --file papers-mine-workshops %}
 
 ## Patents & Applications
-{% bibliography --file papers_patents %}
+{% bibliography --file papers-mine-patents %}
