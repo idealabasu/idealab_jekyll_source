@@ -4,7 +4,16 @@ layout: page
 ---
 
 ## Journal articles
-{% bibliography --query @article %}
+{% bibliography --file papers_journal %}
 
-## Conference Papers
-{% bibliography --query @inproceedings %}
+## Refereed Conference Papers
+{% bibliography --file papers_conference_refereed %}
+
+## Other Conference Papers
+{% bibliography --file papers_conference_unrefereed %}
+
+## Workshops
+{% bibliography --file papers_workshop %}
+
+## Patents & Applications
+{% bibliography --file papers_patents %}

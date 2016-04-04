@@ -56,21 +56,36 @@ tags: a,b,c,d
 
 
 scholar:
-  style: assets/ieee.csl
+  style: assets/ieee-dan-mod.csl
   locale: en
+
   sort_by: year
   order: descending
-  source: assets
-  bibliography: bibliography.bib
+  
+  group_by: none
+  group_order: ascending
+  
+  source: assets/bibliographies
+  bibliography: papers_journal.bib
   bibliography_template: bibtemplate
+
   replace_strings: true
   join_strings: true
+
+  use_raw_bibtex_entry: false
+  bibtex_filters:
+  - superscript
+  - latex
+  
   details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
+#  details_layout: bib-details.html
+  details_layout: none.html
+  details_link:   more...
+  
   query: "@*"
 
 gems: [jekyll-paginate]
+#gems: [jekyll-paginate, jekyll-scholar]
 
 form_redirect: /submitted
 permalink: ordinal
