@@ -2,7 +2,8 @@
 title: Contact
 layout: page
 ---
-
+Contact
+=======
 <form class="form-horizontal" action="//formspree.io/contact@idealabasu.com" method="POST">
 
   <div class="form-group">
@@ -19,9 +20,11 @@ layout: page
     <label for="message">Message</label>
     <textarea name="message" id="message" class="form-control" placeholder="Your message..."></textarea>
   </div>
-  
+
     <input type='hidden' name='_next' value='{{ site.form_redirect }}' />
     <input type='hidden' name='_subject' value='[idealab submission] contact form' />
     <input type='text' name='_gotcha' value='' style="display:none"/>
   <button type="submit" class="btn btn-default">Submit</button>
-</form> 
+</form>
+
+Or you can send us an email at [{{site.email}}](mailto:{{site.email}})
