@@ -4,13 +4,13 @@ layout: page
 ---
 
 ## Journal articles
-{% bibliography --file papers-mine-journal %}
+{% bibliography --file mypapers-journal %}
 
 ## Conference Papers
-{% bibliography --file papers-mine-conference %}
+{% bibliography --file mypapers-conference %}
 
 ## Workshops
-{% bibliography --file papers-mine-workshops %}
+{% bibliography --file mypapers-workshops %}
 
 ## Patents & Applications
-{% bibliography --file papers-mine-patents %}
+{% bibliography --file mypapers-patents %}
