@@ -22,7 +22,7 @@ defaults:
   - scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "default"
+      layout: "page"
   - scope:
       path: "" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
@@ -51,7 +51,9 @@ menu:
     link: visit
   - name: Contact
     link: contact
-
+  - name: Jobs
+    link: jobs
+    
 tags: a,b,c,d
 
 
