@@ -4,7 +4,7 @@ title: Jobs
 PhD Position
 ============
 
-The [IDEAlab](idealab.asu.edu) at ASU is hiring PhD students in the field of robotics, design, and manufacturing.  We are looking for students interested in the following topics:
+The [IDEAlab](http://idealab.asu.edu) at ASU is hiring PhD students in the field of robotics, design, and manufacturing.  We are looking for students interested in the following topics:
 
 * Developing new ways to make low-cost robots using non-traditional materials and methods.
 * Building new design tools(CAD/CAM) for emerging manufacturing methods and rapid prototyping, with a focus on STEM education.
