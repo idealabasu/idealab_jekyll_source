@@ -1,7 +1,7 @@
 #!/bin/bash
-sudo apt-get update
-sudo apt-get install -y git jekyll ruby-dev
-sudo gem install jekyll-scholar
+#sudo apt-get update
+#sudo apt-get install -y git ruby-dev
+#sudo gem install jekyll jekyll-scholar
 #git config --global user.name "Travis CI"
 #git config --global user.email "idealab@asu.edu"
 #cd ~

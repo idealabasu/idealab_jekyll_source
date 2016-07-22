@@ -1,4 +1,6 @@
-language: generic # don't install any environment
+language: ruby # don't install any environment
+rvm:
+- 2.1
 sudo: required
 env:
   global:
@@ -6,7 +8,11 @@ env:
   - COMMIT_AUTHOR_EMAIL: "idealab@asu.edu"
   - SOURCE_BRANCH: "stable"
   - TARGET_BRANCH: "master"
-install:
+
+install: 
+  - gem install jekyll jekyll-scholar
+  
+before_script:
   - chmod +rx deploy.sh
   - chmod +rx compile.sh
 
