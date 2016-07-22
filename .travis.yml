@@ -10,7 +10,7 @@ env:
   - TARGET_BRANCH: "master"
 
 install: 
-  - gem install jekyll jekyll-scholar
+  - gem install jekyll jekyll-scholar jekyll-paginate
   
 before_script:
   - chmod +rx deploy.sh
