@@ -17,6 +17,10 @@ phone: 480-727-1894
 
 include:
   - .nojekyll
+  
+exclude:
+  - compile.sh
+  - deploy.sh
 
 defaults:
   - scope:
