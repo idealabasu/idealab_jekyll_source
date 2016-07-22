@@ -1,0 +1,10 @@
+language: generic # don't install any environment
+sudo: required
+env:
+  global:
+  - ENCRYPTION_LABEL: "encrypted_6e80fb8f9d7f"
+  - COMMIT_AUTHOR_EMAIL: "idealab@asu.edu"
+  - SOURCE_BRANCH: "stable"
+  - TARGET_BRANCH: "master"
+script: bash ./deploy.sh
+
