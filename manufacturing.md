@@ -1,0 +1,39 @@
+---
+title: Manufacturing
+---
+Manufacturing
+=============
+
+We seek to ask several questions:
+
+* What new problems could be solved with a $20 robot?
+* Wow can we facilitate mass-customization of robots through new digital fabrication techniques?
+
+To solve those problems we have outfitted our lab with (and have access to) a variety of tools which can help produce low-cost, yet highly functional robots.
+
+### Cutting Processes
+<img class="img-fluid" src="{{site.base_path}}/assets/images/vinyl cutter.jpg" height="200px">
+
+* Shapeoko 3
+* Vinyl Cutter
+* CO2/Fiber Laser Cutter (arriving Fall 2016)
+
+### Laminating
+<img class="img-fluid" src="{{site.base_path}}/assets/images/t-shirt press.jpg" height="200px"> <img class="img-fluid" src="{{site.base_path}}/assets/images/impulse sealer.jpg" height="200px">
+
+* 24" Roll Laminator
+* T-shirt Press()
+* Impulse Sealer(for sealing fabric, setting adhesives)
+* Small craft irons for small jobs
+
+### 3D Printing
+<img class="img-fluid " src="{{site.base_path}}/assets/images/3d printer.jpg" height="200px">
+
+* Makergear M2
+* Objet Connex 350*
+* Many other (FDM)3D Printers*
+
+### Casting
+* Shape Deposition Manufacturing capabilities(arriving winter 2016)
+
+*available in the Startup Lab

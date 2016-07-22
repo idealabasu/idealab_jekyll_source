@@ -23,6 +23,13 @@ Robotic Applications
 
 Only through the design and fabrication of application-driven devices can we understand the complex set of interactions which is the design process.  We have experience building a variety of robotic devices
 
+<img class="img-fluid img-thumbnail" src="{{site.base_path}}/assets/images/arm-h_hand.jpg">
+The Stanford/Meka/SRI underactuated hand
+
+<img class="img-fluid img-thumbnail" src="{{site.base_path}}/assets/images/flying-monkey.png">
+The Flying Monkey
+
+
 {% comment %}
 ### Laminate Robots
 <div class="row">

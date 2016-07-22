@@ -4,16 +4,18 @@ title: Jobs
 PhD Position
 ============
 
-The [IDEAlab](http://idealab.asu.edu) at ASU is hiring PhD students in the field of robotics, design, and manufacturing.  We are looking for students interested in the following topics:
+The [IDEAlab](idealab.asu.edu) at ASU is hiring PhD students in the field of robotics, design, and manufacturing. We are looking for students interested in the following topics:
 
 * Developing new ways to make low-cost robots using non-traditional materials and methods.
 * Building new design tools(CAD/CAM) for emerging manufacturing methods and rapid prototyping, with a focus on STEM education.
 * Integrating analysis methods more closely with design and manufacturing; for example, adding dynamics, kinematics, simulation, and FEA alongside design software tailored to specific material systems.
-* Solving tough robotic challenges by applying the lab's strengths in design, analysis, and manufacturing.
+* Solving tough robotic challenges by applying the lab’s strengths in design, analysis, and manufacturing.
 
-Interested applicants should hold a Masters(MS) in Mechanical Engineering or a similar topic.  Applicants must demonstrate a strong theoretical and applied background in design, analysis, mechatronics, robotics, and manufacturing.  Applicants should be proficient programmers(Python, C, C++), debuggers(electronics and code), and makers(rapid prototyping and machining).  
+Interested applicants should hold a Masters(MS) in Mechanical Engineering or a similar topic. Applicants must demonstrate a strong theoretical and applied background in design, kinematics, dynamics, mechatronics, robotics, and manufacturing. Applicants should be proficient programmers(Python, C, C++), debuggers(electronics and code), and makers(rapid prototyping and machining).
 
-If you are interested in these topics, please attach a CV and one-page summary of your research interests to [{{site.email}}](mailto:{{site.email}}).  We will also be at ICRA2016 to speak with prospective students and to discuss our work in more detail.
+If you are interested in these topics, please attach a CV and one-page summary of your research interests to [{{site.email}}](mailto:{{site.email}}).
+
+(Due to the large number of requests, I may not be able to respond individually to each email, but I will review each one carefully.)
 
 <hr>
 

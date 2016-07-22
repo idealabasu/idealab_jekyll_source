@@ -14,7 +14,7 @@ layout: page
     </p>
     <h2>Lab Location</h2>
     <p>
-      Technology Building, Room TBA<br>
+      Technology Building<br>
       6075 S. Innovation Way West<br>
       Mesa, AZ 85212
     </p>
