@@ -4,7 +4,7 @@ rvm:
 sudo: required
 env:
   global:
-  - ENCRYPTION_LABEL: "encrypted_6e80fb8f9d7f"
+  - ENCRYPTION_LABEL: "6e80fb8f9d7f"
   - COMMIT_AUTHOR_EMAIL: "idealab@asu.edu"
   - SOURCE_BRANCH: "stable"
   - TARGET_BRANCH: "master"
