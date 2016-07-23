@@ -11,6 +11,7 @@ env:
 
 install: 
   - gem install jekyll jekyll-scholar jekyll-paginate
+  - gem list
   
 before_script:
   - chmod +rx deploy.sh
