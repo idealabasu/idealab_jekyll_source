@@ -19,13 +19,11 @@ jekyll build
 echo "I am in"
 pwd
 echo "home is $HOME"
-cd _site
 ls -la
-cd ../out
-ls -la
-cd ../
+ls -la _site
+ls -la out
+mv _site/* out/
 
-cp _site/* out
 #cd idealabasu.github.io/
 #if [ -z `git diff --exit-code` ]; then
 #    echo "No changes to the output on this push; exiting."
