@@ -2,4 +2,4 @@
 title: Applications
 ---
 
-With low-cost, modular, and often soft systems
+With low-cost, modular, and often soft systems that
