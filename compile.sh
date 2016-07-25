@@ -16,7 +16,16 @@ jekyll build
 #cd ~
 #git clone https://github.com/idealabasu/idealabasu.github.io
 #rm -rf idealabasu.github.io/*
-mv _site/* out/
+echo "I am in"
+pwd
+echo "home is $HOME"
+cd _site
+ls -la
+cd ../out
+ls -la
+cd ../
+
+cp _site/* out
 #cd idealabasu.github.io/
 #if [ -z `git diff --exit-code` ]; then
 #    echo "No changes to the output on this push; exiting."
