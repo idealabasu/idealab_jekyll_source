@@ -3,8 +3,8 @@ title: IDEAlab -- Integrating Design, Engineering, and Analysis
 email: idealab@asu.edu
 # description: > # this means to ignore newlines until "baseurl:"
   # Integrating Design, Engineering, and Analysis
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://idealab.asu.edu" # the base hostname & protocol for your site
+#url: "http://idealab.asu.edu" # the base hostname & protocol for your site
+#url: "http://www.public.asu.edu" # the base hostname & protocol for your site
 # url: "http://idealabasu.com" # the base hostname & protocol for your site
 # url: "localhost:4000" # the base hostname & protocol for your site
 
@@ -17,7 +17,7 @@ phone: 480-727-1894
 
 include:
   - .nojekyll
-  
+
 exclude:
   - compile.sh
   - deploy.sh
@@ -31,7 +31,7 @@ defaults:
       path: "" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
-      layout: "post_custom"      
+      layout: "post_custom"
 #      show_title: true
 
 base_path: ""
@@ -57,7 +57,7 @@ menu:
     link: contact
   - name: Jobs
     link: jobs
-    
+
 tags: a,b,c,d
 
 
