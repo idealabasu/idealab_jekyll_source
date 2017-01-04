@@ -7,16 +7,17 @@ layout: page
   <div class="col-md-4">
     <h2>Office Location</h2>
     <p>
-      Technology Building, Room 152<br>
+      Technology Center, Room 152<br>
       6075 S. Innovation Way West<br>
       Mesa, AZ 85212<br>
       Phone: 480-727-1894
     </p>
     <h2>Lab Location</h2>
     <p>
-      Technology Building<br>
+      Technology Center, Room 180<br>
       6075 S. Innovation Way West<br>
-      Mesa, AZ 85212
+      Mesa, AZ 85212<br>
+      Phone: 480-727-1573
     </p>
   </div>
   <div class="col-md-8">

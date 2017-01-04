@@ -3,17 +3,20 @@ title: IDEAlab -- Integrating Design, Engineering, and Analysis
 email: idealab@asu.edu
 # description: > # this means to ignore newlines until "baseurl:"
   # Integrating Design, Engineering, and Analysis
-#url: "http://idealab.asu.edu" # the base hostname & protocol for your site
+url: "http://idealab.asu.edu" # the base hostname & protocol for your site
 #url: "http://www.public.asu.edu" # the base hostname & protocol for your site
 # url: "http://idealabasu.com" # the base hostname & protocol for your site
-# url: "localhost:4000" # the base hostname & protocol for your site
+#url: "localhost:4000" # the base hostname & protocol for your site
+
+#base_path: "/~daukes"
+base_path: ""
 
 address:
-  - Technology Building, Room 152
+  - Technology Center, Room 180
   - 6075 S. Innovation Way West
   - Mesa, AZ 85212
 
-phone: 480-727-1894
+phone: 480-727-1573
 
 include:
   - .nojekyll
@@ -27,6 +30,9 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "page"
+      image:
+        feature: image1.jpg
+      show_title: true
   - scope:
       path: "" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
@@ -34,7 +40,6 @@ defaults:
       layout: "post_custom"
 #      show_title: true
 
-base_path: ""
 
 kramdown:
   input: GFM
