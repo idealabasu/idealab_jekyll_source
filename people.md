@@ -79,6 +79,7 @@ layout: page
   <div class="col-sm-2">
     <img class="img-responsive" src="{{site.base_path}}/assets/images/alex-thiel.jpg">
     <h3>Alex Thiel</h3>
+    <p><a href="{{site.base_path}}/assets/Alexander Thiel Resume.pdf">Resume</a></p>
   </div>
   <div class="col-sm-2">
     <img class="img-responsive" src="{{site.base_path}}/assets/images/unknown.svg">
