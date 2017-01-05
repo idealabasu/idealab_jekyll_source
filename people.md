@@ -24,8 +24,9 @@ layout: page
       Teaching
     </h3>
     <ul>
-      <li>Spring 2016: EGR202</li>
+    <li>Spring 2017: EGR202</li>
       <li>Fall 2016: EGR598: Foldable Robotics</li>
+      <li>Spring 2016: EGR202</li>
     </ul>
     <p><a href="{{site.base_path}}/aukes_calendar">View Calendar</a></p>
   </div>
@@ -35,7 +36,7 @@ layout: page
 </h2>
 <div class="row">
   <div class="col-sm-3">
-  <img class="img-responsive" src="{{site.base_path}}/assets/images/unknown.svg">
+  <img class="img-responsive" src="{{site.base_path}}/assets/images/roozbeh-k.png">
   </div>
   <div class="col-sm-9">
     <h3>
@@ -86,7 +87,8 @@ layout: page
     <h3>Jacob Knaup</h3>
   </div>
   <div class="col-sm-2">
-    <img class="img-responsive" src="{{site.base_path}}/assets/images/unknown.svg">
+    <img class="img-responsive" src="{{site.base_path}}/assets/images/ben-shuch.jpg">
     <h3>Benjamin Shuch</h3>
+    <p><a href="{{site.base_path}}/assets/ben-s-resume.pdf">Resume</a></p>
   </div>
 </div>
