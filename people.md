@@ -55,7 +55,7 @@ layout: page
 </div>
 <div class="row">
   <div class="col-sm-3">
-  <img class="img-responsive" src="{{site.base_path}}/assets/images/unknown.svg">
+  <img class="img-responsive" src="{{site.base_path}}/assets/images/mohammad-sharifzadeh.jpg">
   </div>
   <div class="col-sm-9">
     <h3>
@@ -69,7 +69,7 @@ layout: page
     <p>
     Human-Robot Interaction (HRI), Parallel Mechanisms, Dynamic and Position Control of mechanisms, System Identification, Haptic and Analytic Control.
     </p>
-   <p><a href="{{site.base_path}}/assets/mohammad-sharifzadeh-resume.pdf">Resume</a>
+   <p><a href="{{site.base_path}}/assets/mohammad-sharifzadeh-cv.pdf">Resume</a>
    </p>
     </div>
 </div>
