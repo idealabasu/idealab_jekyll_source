@@ -1,9 +1,11 @@
 ---
-title: Lab Meeting Agenda
+#title: Lab Meeting Agenda
+#date: 2017-01-05
+description: Lab meeting agenda for Friday, Jan 6
 ---
 
 Topics
--------
+------------
 
 * Wiki / CMS / Slack / collaboration tools
 * reference management
