@@ -55,20 +55,23 @@ layout: page
 </div>
 <div class="row">
   <div class="col-sm-3">
-  <img class="img-responsive" src="{{site.base_path}}/assets/images/unknown.svg">
+  <img class="img-responsive" src="{{site.base_path}}/assets/images/mohammad-sharifzadeh.jpg">
   </div>
   <div class="col-sm-9">
     <h3>
       Mohammad Sharifzadeh
     </h3>
     <p>
-    </p>
+    Mohammad is a System Engineering Ph.D. student at ASU. He graduated his MSc. in Mechatronics Engineering from University of Tehran. He was a member of TaarLab in his MSc. He worked on “Dynamical Control & Identification of 3-DOF Decouple Parallel Mechanism (Tripteron) by Constructing a Human-Robot Interaction Interface” as MSc. thesis under supervision of Dr. Tale Masouleh and Dr. Kalhor. He has finished his BSc. as an Electrical Engineer (Control filed) at Electrical and Computer Engineering Department of Shiraz University. His bachelor thesis was about voltage controlling of a (0-50 volt) Buck-Boost converter.    </p>
     <h3>
       Research Interests
     </h3>
     <p>
+    Human-Robot Interaction (HRI), Parallel Mechanisms, Dynamic and Position Control of mechanisms, System Identification, Haptic and Analytic Control.
     </p>
-  </div>
+   <p><a href="{{site.base_path}}/assets/mohammad-sharifzadeh-cv.pdf">Resume</a>
+   </p>
+    </div>
 </div>
 
 
@@ -83,8 +86,9 @@ layout: page
     <p><a href="{{site.base_path}}/assets/Alexander Thiel Resume.pdf">Resume</a></p>
   </div>
   <div class="col-sm-2">
-    <img class="img-responsive" src="{{site.base_path}}/assets/images/unknown.svg">
+    <img class="img-responsive" src="{{site.base_path}}/assets/images/jacob-knaup.jpg">
     <h3>Jacob Knaup</h3>
+    <p><a href="{{site.base_path}}/assets/jacob-knaup-resume.pdf">Resume</a></p>
   </div>
   <div class="col-sm-2">
     <img class="img-responsive" src="{{site.base_path}}/assets/images/ben-shuch.jpg">
