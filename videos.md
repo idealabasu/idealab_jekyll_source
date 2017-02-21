@@ -2,7 +2,7 @@
 title: Videos
 layout: page
 videos:
-  - link: http://video.pbs.org/widget/partnerplayer/2365955827/?w=680&amp;h=430.2397&amp;chapterbar=true&amp;endscreen=false&amp;topbar=true&amp;wmode=transparent
+  - link: http://player.pbs.org/widget/partnerplayer/2365955827/
     caption: "Nova: The Origami Code"
   - link: https://player.vimeo.com/video/204797330
     caption: Night of the Open Door 2017
