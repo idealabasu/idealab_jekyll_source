@@ -1,7 +1,8 @@
 language: ruby # don't install any environment
+dist: trusty
 rvm:
-- 2.1
-sudo: required
+- 2.2
+#sudo: required
 env:
   global:
   - ENCRYPTION_LABEL: "6e80fb8f9d7f"
