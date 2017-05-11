@@ -1,9 +1,4 @@
 ---
-test: asdf
-asdf:
-  - 1
-  - 2
-  - 3
 ---
 
 ## Informal Robotics

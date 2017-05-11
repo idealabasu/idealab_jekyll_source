@@ -34,65 +34,52 @@ layout: page
 <h2>
   Ph.D. Students
 </h2>
+{% for student in site.data.students %}
+{% if student.type == "phd" %}
 <div class="row">
   <div class="col-sm-3">
-  <img class="img-responsive" src="{{site.base_path}}/assets/images/roozbeh-k.png">
+  <img class="img-responsive" src="{{site.base_path}}{{student.img_link}}">
   </div>
   <div class="col-sm-9">
     <h3>
-      Roozbeh Khodambashi
+      {{student.name}}
     </h3>
     <p>
-      I am a Mechanical engineer by education and an Electrical engineer by practice. Before I join the Systems engineering Ph.D. program at ASU, I was a masters student at Georgia Tech working in the area of prosthetics and human augmentation for musical applications under Prof. Weinberg. I received an M.Sc. in Biomedical Engineering from Amirkabir University of Technology focusing the area of tactile sensing in robotics and minimally invasive surgery under Prof. Najarian. My B.Sc. is in Mechanical engineering from Shahrekord University.
+      {{research.description}}
     </p>
     <h3>
       Research Interests
     </h3>
     <p>
-      Prosthetics, Micro-Robotics, Soft Robotics, Robot Learning
+      {{student.interests}}
     </p>
+    {% if student.resume_link %}
+    <p>
+      <a href="{{site.base_path}}{{student.resume_link}}">Resume</a>
+    </p>
+    {% endif %}
   </div>
 </div>
-<div class="row">
-  <div class="col-sm-3">
-  <img class="img-responsive" src="{{site.base_path}}/assets/images/mohammad-sharifzadeh.jpg">
-  </div>
-  <div class="col-sm-9">
-    <h3>
-      Mohammad Sharifzadeh
-    </h3>
-    <p>
-    Mohammad is a System Engineering Ph.D. student at ASU. He graduated his MSc. in Mechatronics Engineering from University of Tehran. He was a member of TaarLab in his MSc. He worked on “Dynamical Control & Identification of 3-DOF Decouple Parallel Mechanism (Tripteron) by Constructing a Human-Robot Interaction Interface” as MSc. thesis under supervision of Dr. Tale Masouleh and Dr. Kalhor. He has finished his BSc. as an Electrical Engineer (Control filed) at Electrical and Computer Engineering Department of Shiraz University. His bachelor thesis was about voltage controlling of a (0-50 volt) Buck-Boost converter.    </p>
-    <h3>
-      Research Interests
-    </h3>
-    <p>
-    Human-Robot Interaction (HRI), Parallel Mechanisms, Dynamic and Position Control of mechanisms, System Identification, Haptic and Analytic Control.
-    </p>
-   <p><a href="{{site.base_path}}/assets/mohammad-sharifzadeh-cv.pdf">Resume</a>
-   </p>
-    </div>
-</div>
+{% endif %}
+{% endfor %}
+
 
 
 ## Undergraduate Students
 
 <div class="row">
-<div class="col-sm-3">
+{% for student in site.data.students %}
+{% if student.type == "undergraduate" %}
+  <div class="col-sm-2">
+    <h3>{{student.name}}</h3>
+    <img class="img-responsive" src="{{site.base_path}}{{student.img_link}}">
+    {% if student.resume_link %}
+    <p>
+      <a href="{{site.base_path}}{{student.resume_link}}">Resume</a>
+    </p>
+    {% endif %}
+  </div>
+{% endif %}
+{% endfor %}
 </div>
-  <div class="col-sm-2">
-    <img class="img-responsive" src="{{site.base_path}}/assets/images/alex-thiel.jpg">
-    <h3>Alex Thiel</h3>
-    <p><a href="{{site.base_path}}/assets/Alexander Thiel Resume.pdf">Resume</a></p>
-  </div>
-  <div class="col-sm-2">
-    <img class="img-responsive" src="{{site.base_path}}/assets/images/jacob-knaup.jpg">
-    <h3>Jacob Knaup</h3>
-    <p><a href="{{site.base_path}}/assets/jacob-knaup-resume.pdf">Resume</a></p>
-  </div>
-  <div class="col-sm-2">
-    <img class="img-responsive" src="{{site.base_path}}/assets/images/ben-shuch.jpg">
-    <h3>Benjamin Shuch</h3>
-    <p><a href="{{site.base_path}}/assets/ben-s-resume.pdf">Resume</a></p>
-  </div>
-</div>
+
