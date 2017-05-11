@@ -2,13 +2,14 @@
 layout: page
 ---
 {{ content }}
-{% assign ii = 0 %}
+{% capture ii %}{{ forloop.index0 | modulo: 3 }}{% endcapture %}
 
 <h2>Projects</h2>
+<div class="row">
 {% for item in site.data.projects %}
 {% if item.category == page.category %}
-<div class="row">
-<div class="col-sm-6">
+<div class="col-sm-4">
+  <div class="thumbnail">
 <h3> {{item.name}} </h3>
 {% if item.person1 %}
 <h4> Team </h4>
@@ -21,8 +22,6 @@ layout: page
 </p>
 {% endif %}
 <p>{{item.description}}</p>
-</div>
-<div class="col-sm-6">
 {% if item.youtube_link %}
 <div class="embed-responsive embed-responsive-16by9">
   <iframe src="{{item.youtube_link}}" allowfullscreen></iframe>
@@ -30,6 +29,7 @@ layout: page
 {% endif %}
 </div>
 </div>
-<p></p>
 {% endif %}
 {% endfor %}
+</div>
+<p></p>

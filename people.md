@@ -73,9 +73,9 @@ layout: page
 <div class="row">
 {% for student in site.data.students %}
 {% if student.type == "undergraduate" %}
-  <div class="col-sm-2">
+  <div class="col-sm-3">
+    <div class="thumbnail">
     <h3>{{student.name}}</h3>
-    <img class="img-responsive" src="{{site.base_path}}{{student.img_link}}">
     <p>
     {% if student.email %}
       <a href="mailto://{{student.email}}">{{student.email}}</a><br>
@@ -84,7 +84,8 @@ layout: page
       <a href="{{site.base_path}}{{student.resume_link}}">Resume</a>
     {% endif %}
     </p>
-
+    <img class="img-responsive" src="{{site.base_path}}{{student.img_link}}">
+    </div>
   </div>
 {% endif %}
 {% endfor %}
