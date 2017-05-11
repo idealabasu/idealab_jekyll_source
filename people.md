@@ -45,6 +45,14 @@ layout: page
       {{student.name}}
     </h3>
     <p>
+    {% if student.email %}
+      <a href="mailto://{{student.email}}">{{student.email}}</a><br>
+      {% endif %}
+    {% if student.resume_link %}
+      <a href="{{site.base_path}}{{student.resume_link}}">Resume</a>
+    {% endif %}
+    </p>
+    <p>
       {{research.description}}
     </p>
     <h3>
@@ -53,11 +61,6 @@ layout: page
     <p>
       {{student.interests}}
     </p>
-    {% if student.resume_link %}
-    <p>
-      <a href="{{site.base_path}}{{student.resume_link}}">Resume</a>
-    </p>
-    {% endif %}
   </div>
 </div>
 {% endif %}
@@ -73,13 +76,16 @@ layout: page
   <div class="col-sm-2">
     <h3>{{student.name}}</h3>
     <img class="img-responsive" src="{{site.base_path}}{{student.img_link}}">
-    {% if student.resume_link %}
     <p>
+    {% if student.email %}
+      <a href="mailto://{{student.email}}">{{student.email}}</a><br>
+      {% endif %}
+    {% if student.resume_link %}
       <a href="{{site.base_path}}{{student.resume_link}}">Resume</a>
-    </p>
     {% endif %}
+    </p>
+
   </div>
 {% endif %}
 {% endfor %}
 </div>
-
