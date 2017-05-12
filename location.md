@@ -1,6 +1,5 @@
 ---
-title: Visit
-layout: page
+title: Location
 ---
 
 <div class="row">

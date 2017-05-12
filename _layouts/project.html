@@ -1,0 +1,45 @@
+---
+layout: page
+---
+{% assign ii = 0 %}
+
+{{ content }}
+
+<h2>Projects</h2>
+<div class="row">
+{% for item in site.data.projects %}
+{% if item.category == page.category %}
+
+<div class="col-md-4">
+  <div class="thumbnail">
+<h3> {{item.name}} </h3>
+{% if item.person1 %}
+<h4> Team </h4>
+<p>
+  {% if item.person1 %}{{item.person1}}{% endif %}
+  {% if item.person2 %}, {{item.person2}}{% endif %}
+  {% if item.person3 %}, {{item.person3}}{% endif %}
+  {% if item.person4 %}, {{item.person4}}{% endif %}
+  {% if item.person5 %}, {{item.person5}}{% endif %}
+</p>
+{% endif %}
+<p>{{item.description}}</p>
+{% if item.youtube_link %}
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe src="{{item.youtube_link}}" allowfullscreen></iframe>
+</div>
+{% endif %}
+</div>
+</div>
+
+{% assign ii = ii | plus: 1 %}
+
+{% if ii == 3 %}
+{% assign ii = 0 %}
+</div>
+<div class="row">
+  {% endif %}
+  {% endif %}
+{% endfor %}
+</div>
+<p></p>
