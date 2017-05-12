@@ -1,14 +1,16 @@
 ---
 layout: page
 ---
+{% assign ii = 0 %}
+
 {{ content }}
-{% capture ii %}{{ forloop.index0 | modulo: 3 }}{% endcapture %}
 
 <h2>Projects</h2>
 <div class="row">
 {% for item in site.data.projects %}
 {% if item.category == page.category %}
-<div class="col-sm-4">
+
+<div class="col-md-4">
   <div class="thumbnail">
 <h3> {{item.name}} </h3>
 {% if item.person1 %}
@@ -29,7 +31,15 @@ layout: page
 {% endif %}
 </div>
 </div>
-{% endif %}
+
+{% assign ii = ii | plus: 1 %}
+
+{% if ii == 3 %}
+{% assign ii = 0 %}
+</div>
+<div class="row">
+  {% endif %}
+  {% endif %}
 {% endfor %}
 </div>
 <p></p>

@@ -35,8 +35,25 @@
     
   </li>
   {% for item in site.menu %}
-    <li class="menu-item">
-      <a href="{{site.base_path}}/{{item.link}}" title="{{item.name}}">{{item.name}}</a>
-    </li>
+    {% if item.links %}
+      <li class="menu-item dropdown">
+        {% if item.link %}
+        <a href="{{site.base_path}}/{{item.link}}" title="{{item.name}}">{{item.name}}</a>
+        {% else %}
+        <a title="{{item.name}}">{{item.name}}</a>
+        {% endif %}
+        <ul role="menu" class="dropdown-menu">
+        {% for item2 in item.links %}
+          <li class="menu-item">
+            <a href="{{site.base_path}}/{{item2.link}}" title="{{item2.name}}">{{item2.name}}</a>
+          </li>
+        {% endfor %}
+        </ul>
+      </li>
+    {% else %}
+      <li class="menu-item">
+        <a href="{{site.base_path}}/{{item.link}}" title="{{item.name}}">{{item.name}}</a>
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>

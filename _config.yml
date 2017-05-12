@@ -50,20 +50,31 @@ highlighter: pygments
 menu:
   - name: Research
     link: research
-  - name: People
-    link: people
+    links:
+    - name: Design
+      link: design-tools
+    - name: Manufacturing
+      link: manufacturing
+    - name: Analysis
+      link: analysis
   - name: Publications
     link: publications
-  - name: Teaching
-    link: teaching
   - name: Videos
     link: videos
-  - name: Visit
-    link: visit
-  - name: Contact
-    link: contact
-  - name: Jobs
-    link: jobs
+  - name: Lab Info
+    links:
+    - name: People
+      link: people
+    - name: Location
+      link: location
+    - name: Contact
+      link: contact
+    - name: Equipment
+      link: equipment
+    - name: Jobs
+      link: jobs
+  - name: Teaching
+    link: teaching
 
 tags: a,b,c,d
 
