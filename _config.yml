@@ -51,7 +51,7 @@ menu:
   - name: Research
     link: research
     links:
-    - name: Design
+    - name: Design Tools
       link: design-tools
     - name: Manufacturing
       link: manufacturing
@@ -73,6 +73,10 @@ menu:
       link: equipment
     - name: Jobs
       link: jobs
+    - name: Press
+      link: press
+    - name: News
+      link: news
   - name: Teaching
     link: teaching
 
