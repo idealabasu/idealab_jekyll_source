@@ -71,6 +71,8 @@ menu:
       link: contact
     - name: Equipment
       link: equipment
+    - name: Lab Meetings
+      link: lab-meetings
     - name: Jobs
       link: jobs
     - name: Press
