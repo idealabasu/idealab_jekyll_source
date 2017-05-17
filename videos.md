@@ -19,11 +19,13 @@ videos:
 <div class="row">
   {%for video in page.videos %}
   <div class="col-sm-6">
+    <div class="thumbnail">
     <div class="embed-responsive embed-responsive-16by9">
       <iframe src="{{video.link}}" allowfullscreen></iframe>
     </div>
     <div class="caption">
       {{video.caption}}
+    </div>
     </div>
   </div>
   {%endfor%}
