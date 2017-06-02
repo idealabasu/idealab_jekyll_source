@@ -32,7 +32,3 @@ videos:
   </div>
   {%endfor%}
 </div>
-
-
-<iframe src="https://player.vimeo.com/video/216728625" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/216728625">Robotic C-Turtle</a> from <a href="https://vimeo.com/asunow">ASU Now</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
