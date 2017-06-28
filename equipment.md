@@ -6,9 +6,9 @@ We have  a variety of tools which can help produce low-cost, yet highly function
 ### Cutting Processes
 <img class="img-fluid" src="{{site.base_path}}/assets/images/vinyl cutter.jpg" height="200px">
 
+* CO2/Fiber Laser Cutter
 * Shapeoko 3
 * Vinyl Cutter
-* CO2/Fiber Laser Cutter (arriving Fall 2016)
 
 ### Laminating
 <img class="img-fluid" src="{{site.base_path}}/assets/images/t-shirt press.jpg" height="200px"> <img class="img-fluid" src="{{site.base_path}}/assets/images/impulse sealer.jpg" height="200px">

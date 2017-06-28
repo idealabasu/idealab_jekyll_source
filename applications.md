@@ -1,5 +1,4 @@
 ---
 title: Applications
+permalink: applications/
 ---
-
-With low-cost, modular, and often soft systems that

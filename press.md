@@ -2,16 +2,74 @@
 title: Press
 description: all the IDEAlab news that's fit to print.
 permalink: press/
+categories:
+- category: C-Turtle
+  items:
+  - date: June 5, 2017
+    link: http://www.azfamily.com/story/35595946/asu-robotics-turns-to-nature-for-inspiration
+    source: CBS5
+    title: ASU Robotics turns to nature for inspiration
+
+  - date: June 1, 2017
+    link: http://theshow.kjzz.org/content/483772/using-turtles-robot-inspiration
+    source: KJZZ
+    title: Using Turtles For Robot Inspiration
+
+  - date: May 26, 2017
+    link: https://www.inverse.com/article/32219-cturtle-robot-sea-turtle-mines
+    source: Inverse
+    title: This Crawling C-Turtle Robot Could Hunt For Landmines
+
+  - date: May 25, 2017
+    link: http://nypost.com/2017/05/25/these-robotic-turtles-could-save-your-life/
+    source: New York Post
+    title: These robotic turtles could save your life
+
+  - date: May 24, 2017
+    link: http://bgr.com/2017/05/24/minesweeping-robots-asu-landmines/
+    source: BGR
+    title: Researchers want these robotic turtles to sweep for landmines in war zones
+
+  - date: May 24, 2017
+    link: https://www.newscientist.com/article/mg23431274-200-robotic-turtles-can-be-used-to-detect-landmines-in-the-desert/
+    source: New Scientist
+    title: Robotic turtles can be used to detect landmines in the desert
+
+- category: Origami-Inspired Robotics
+  items:
+
+  - date: February 15, 2017
+    link: http://www.pbs.org/wgbh/nova/physics/origami-revolution.html
+    source: Nova
+    title: The Origami Revolution
+
+  - date: 2016
+    link: https://app.curiositystream.com/video/1573
+    title: The Origami Code
+
+  - date: September 9, 2015
+    link: http://www.betaboston.com/news/2015/09/29/flat-packed-foldable-3-d-printed-robots-could-teach-kids-to-code/
+    source: Boston Globe
+    title: Flat-packed, foldable 3-D-printed robots could teach kids to code
+
+- category: Misc
+  items:
+
+  - date: May 7, 2017
+    link: https://ktar.com/story/1562617/arizona-state-university-makes-top-10-alumni-working-silicon-valley-tech-industry/
+    source: KTAR
+    title: Arizona State University makes top-10 for alumni working in Silicon Valley
+
+  - date: July 11, 2011
+    link: http://www.nytimes.com/2011/07/12/science/12robot.html
+    source: New York Times
+    title: In Search of a Robot More Like Us
+
 ---
 
-* [CBS5: ASU Robotics turns to nature for inspiration](http://www.azfamily.com/story/35595946/asu-robotics-turns-to-nature-for-inspiration) *June 5, 2017*
-* [KJZZ: Using Turtles For Robot Inspiration](http://theshow.kjzz.org/content/483772/using-turtles-robot-inspiration) *June 1, 2017*
-* [Inverse: This Crawling C-Turtle Robot Could Hunt For Landmines](https://www.inverse.com/article/32219-cturtle-robot-sea-turtle-mines) *May 26, 2017*
-* [New York Post: These robotic turtles could save your life](http://nypost.com/2017/05/25/these-robotic-turtles-could-save-your-life/) *May 25, 2017*
-* [BGR: Researchers want these robotic turtles to sweep for landmines in war zones](http://bgr.com/2017/05/24/minesweeping-robots-asu-landmines/) *May 24, 2017*
-* [New Scientist: Robotic turtles can be used to detect landmines in the desert](https://www.newscientist.com/article/mg23431274-200-robotic-turtles-can-be-used-to-detect-landmines-in-the-desert/) *May 24, 2017*
-* [KTAR: Arizona State University makes top-10 for alumni working in Silicon Valley](https://ktar.com/story/1562617/arizona-state-university-makes-top-10-alumni-working-silicon-valley-tech-industry/) *May 7, 2017*
-* [Nova: The Origami Revolution](http://www.pbs.org/wgbh/nova/physics/origami-revolution.html) *February 15, 2017*
-* [The Origami Code](https://app.curiositystream.com/video/1573) *2016*
-* [Boston Globe: Flat-packed, foldable 3-D-printed robots could teach kids to code](http://www.betaboston.com/news/2015/09/29/flat-packed-foldable-3-d-printed-robots-could-teach-kids-to-code/) *September 9, 2015*
-* [New York Times: In Search of a Robot More Like Us](http://www.nytimes.com/2011/07/12/science/12robot.html) *July 11, 2011*
+{% for category in page.categories %}
+## {{category.category}}
+{% for item in category.items %}
+[{{item.title}}]({{item.link}}) {% if item.source %}{{item.source}}, {% endif %} *{{item.date}}*
+{% endfor %}
+{% endfor %}
