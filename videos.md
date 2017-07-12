@@ -12,7 +12,7 @@ videos:
     caption:  The Flying Monkey
   - link: https://www.youtube.com/embed/yEy4twgUw6w
     caption:  Two Years of Informal Robotics
-  - link: https://www.youtube.com/embed/ionC1toDJZI
+  - link: https://www.youtube.com/embed/jZbGNv95LSY
     caption:  Harvard Informal Robotics
   - link: https://www.youtube.com/embed/sDRwwuim6B4
     caption:  The Stanford/SRI/Meka Underactuated Hand
