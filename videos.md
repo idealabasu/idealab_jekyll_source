@@ -10,9 +10,9 @@ videos:
     caption: Night of the Open Door 2017
   - link: https://www.youtube.com/embed/m9Aa8BevJwg
     caption:  The Flying Monkey
-  - link: https://www.youtube.com/embed/yEy4twgUw6w
-    caption:  Two Years of Informal Robotics
   - link: https://www.youtube.com/embed/jZbGNv95LSY
+    caption:  Two Years of Informal Robotics
+  - link: https://www.youtube.com/embed/ionC1toDJZI
     caption:  Harvard Informal Robotics
   - link: https://www.youtube.com/embed/sDRwwuim6B4
     caption:  The Stanford/SRI/Meka Underactuated Hand
