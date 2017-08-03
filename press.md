@@ -5,6 +5,16 @@ permalink: press/
 categories:
 - category: C-Turtle
   items:
+  - date: July 28, 2017
+    link: http://spectrum.ieee.org/automaton/robotics/industrial-robots/video-friday-boston-dynamics-spotmini-soft-inflatable-robots-japan-space-int-ball
+    source: IEEE Spectrum
+    title: "Video Friday: Boston Dynamics, Inflatable Robots, and Japan's Space Ball"
+
+  - date: July 22, 2017
+    link: http://www.bbc.com/news/av/technology-40598887/c-turtle-the-landmine-detecting-robot-turtle
+    source: BBC NEws
+    title: "C-Turtle: The landmine-detecting robot 'turtle'"
+
   - date: June 5, 2017
     link: http://www.azfamily.com/story/35595946/asu-robotics-turns-to-nature-for-inspiration
     source: CBS5
