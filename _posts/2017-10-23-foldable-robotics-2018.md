@@ -1,10 +1,10 @@
 ---
-title: Foldable Robotics
-description: EGR 598 -- Fall 2016 -- Course 30113
+title: EGR598:Foldable Robotics
+description: Professor Aukes will be teaching Foldable Robotics in Spring 2018
 show_title: true
 ---
 
-Professor Aukes will be teaching a new EGR598 class this fall called *Foldable Robotics*.
+Professor Aukes will be teaching an EGR598 class this Spring called *Foldable Robotics*.
 
 Description
 -----------
@@ -24,7 +24,6 @@ Prerequisites
 
 There are no formal prerequisites, but students should have a familiarity with programming.  We will be programming in Python, which is easy to learn especially if you have programmed in something else.
 
-
 Details
 -------
 
@@ -36,4 +35,4 @@ Tu,Th 10:30-11:45
 
 ### [Register](https://webapp4.asu.edu/catalog/course?t=2181&r=30113)
 
-<a href="{{site.base_path}}/assets/images/poster2.pdf"><img class="img-responsive center-block" src="{{site.base_path}}/assets/images/poster2.png" style="max-width:50%;" alt="IdeaLab"></a>
+<a href="{{site.base_path}}/assets/images/poster2018.pdf"><img class="img-responsive center-block" src="{{site.base_path}}/assets/images/poster2018.png" style="max-width:50%;" alt="IdeaLab"></a>
