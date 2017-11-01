@@ -13,7 +13,9 @@ layout: page
 <div class="col-md-4">
   <div class="thumbnail">
 <h3> {{item.name}} </h3>
+{% comment %}
 {% if item.person1 %}
+
 <h4> Team </h4>
 <p>
   {% if item.person1 %}{{item.person1}}{% endif %}
@@ -23,6 +25,7 @@ layout: page
   {% if item.person5 %}, {{item.person5}}{% endif %}
 </p>
 {% endif %}
+{% endcomment %}
 <p>{{item.description}}</p>
 {% if item.youtube_link %}
 <div class="embed-responsive embed-responsive-16by9">
