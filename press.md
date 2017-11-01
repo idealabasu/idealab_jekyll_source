@@ -48,7 +48,7 @@ categories:
 - category: Origami-Inspired Robotics
   items:
 
-  - date: 
+  - date: October 24, 2017
 	link: http://www.12news.com/news/education/asu-students-are-using-robots-to-solve-problems-from-health-to-public-safety/485714639
 	source: 12 News
 	title: ASU students are using robots to solve problems from health to public safety
