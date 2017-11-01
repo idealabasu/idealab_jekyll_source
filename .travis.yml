@@ -1,4 +1,7 @@
 language: ruby # don't install any environment
+branches:
+  only:
+  - stable
 dist: trusty
 rvm:
 - 2.2
