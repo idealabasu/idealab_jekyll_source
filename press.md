@@ -47,6 +47,11 @@ categories:
 
 - category: Origami-Inspired Robotics
   items:
+  - date: November 2, 2017
+    link: http://www.statepress.com/article/2017/11/spscience-asu-poly-idea-lab-works-with-small-cheap-robots
+    source: The State Press
+    title: ASU Polytechnic researchers are developing small robots from plastic
+
   - date: October 24, 2017
     link: http://www.12news.com/news/education/asu-students-are-using-robots-to-solve-problems-from-health-to-public-safety/485714639
     source: 12 News
