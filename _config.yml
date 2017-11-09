@@ -118,7 +118,7 @@ scholar:
   query: "@*"
 
 #gems: [jekyll-paginate]
-gems: [jekyll-paginate, jekyll/scholar]
+plugins: [jekyll-paginate, jekyll/scholar]
 
 form_redirect: /submitted
 permalink: ordinal
