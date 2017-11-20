@@ -3,6 +3,37 @@ title: Press
 description: all the IDEAlab news that's fit to print.
 permalink: press/
 categories:
+- category: Origami-Inspired Robotics
+  items:
+  - date: November 12, 2017
+    link: http://www.eastvalleytribune.com/news/polytechnic-students-try-robots-on-real-world-problems/article_357fade4-c66d-11e7-b650-0744c54791c6.html
+    source: The State Press
+    title: Polytechnic students try robots on real-world problems
+
+  - date: November 2, 2017
+    link: http://www.statepress.com/article/2017/11/spscience-asu-poly-idea-lab-works-with-small-cheap-robots
+    source: The State Press
+    title: ASU Polytechnic researchers are developing small robots from plastic
+
+  - date: October 24, 2017
+    link: http://www.12news.com/news/education/asu-students-are-using-robots-to-solve-problems-from-health-to-public-safety/485714639
+    source: 12 News
+    title: ASU students are using robots to solve problems from health to public safety
+
+  - date: February 15, 2017
+    link: http://www.pbs.org/wgbh/nova/physics/origami-revolution.html
+    source: Nova
+    title: The Origami Revolution
+
+  - date: 2016
+    link: https://app.curiositystream.com/video/1573
+    title: The Origami Code
+
+  - date: September 9, 2015
+    link: http://www.betaboston.com/news/2015/09/29/flat-packed-foldable-3-d-printed-robots-could-teach-kids-to-code/
+    source: Boston Globe
+    title: Flat-packed, foldable 3-D-printed robots could teach kids to code
+
 - category: C-Turtle
   items:
   - date: July 28, 2017
@@ -44,32 +75,6 @@ categories:
     link: https://www.newscientist.com/article/mg23431274-200-robotic-turtles-can-be-used-to-detect-landmines-in-the-desert/
     source: New Scientist
     title: Robotic turtles can be used to detect landmines in the desert
-
-- category: Origami-Inspired Robotics
-  items:
-  - date: November 2, 2017
-    link: http://www.statepress.com/article/2017/11/spscience-asu-poly-idea-lab-works-with-small-cheap-robots
-    source: The State Press
-    title: ASU Polytechnic researchers are developing small robots from plastic
-
-  - date: October 24, 2017
-    link: http://www.12news.com/news/education/asu-students-are-using-robots-to-solve-problems-from-health-to-public-safety/485714639
-    source: 12 News
-    title: ASU students are using robots to solve problems from health to public safety
-
-  - date: February 15, 2017
-    link: http://www.pbs.org/wgbh/nova/physics/origami-revolution.html
-    source: Nova
-    title: The Origami Revolution
-
-  - date: 2016
-    link: https://app.curiositystream.com/video/1573
-    title: The Origami Code
-
-  - date: September 9, 2015
-    link: http://www.betaboston.com/news/2015/09/29/flat-packed-foldable-3-d-printed-robots-could-teach-kids-to-code/
-    source: Boston Globe
-    title: Flat-packed, foldable 3-D-printed robots could teach kids to code
 
 - category: Misc
   items:
