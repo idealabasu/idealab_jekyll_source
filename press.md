@@ -5,9 +5,14 @@ permalink: press/
 categories:
 - category: Origami-Inspired Robotics
   items:
+  - date: November 21, 2017
+    link: http://www.abc15.com/news/region-southeast-valley/mesa/robotic-fish-could-help-solve-problem-in-arizona-canals
+    source: ABC15
+    title: Robotic fish could help solve problem in Arizona canals
+
   - date: November 12, 2017
     link: http://www.eastvalleytribune.com/news/polytechnic-students-try-robots-on-real-world-problems/article_357fade4-c66d-11e7-b650-0744c54791c6.html
-    source: The State Press
+    source: East Valley Tribune
     title: Polytechnic students try robots on real-world problems
 
   - date: November 2, 2017
