@@ -41,6 +41,12 @@ categories:
 
 - category: C-Turtle
   items:
+
+  - date: August 25, 2017
+    link: http://mashable.france24.com/videos/20170825-c-turtle-robot-tortue-carton-exploration-mars
+    source: France 24
+    title: "C-Turtle, le robot tortue en carton qui doit un jour explorer Mars"
+
   - date: July 28, 2017
     link: http://spectrum.ieee.org/automaton/robotics/industrial-robots/video-friday-boston-dynamics-spotmini-soft-inflatable-robots-japan-space-int-ball
     source: IEEE Spectrum
