@@ -4,7 +4,7 @@ branches:
   - stable
 dist: trusty
 rvm:
-- 2.2
+- 2.3
 #sudo: required
 env:
   global:
