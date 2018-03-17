@@ -1,11 +1,16 @@
+dist: trusty
+
 language: ruby # don't install any environment
+
 branches:
   only:
   - stable
-dist: trusty
+
 rvm:
 - 2.3
+
 #sudo: required
+
 env:
   global:
   - ENCRYPTION_LABEL: "6e80fb8f9d7f"
@@ -16,10 +21,11 @@ env:
 install: 
   - gem install jekyll unicode jekyll-scholar jekyll-paginate
   - gem list
-  
+
 before_script:
   - chmod +rx deploy.sh
   - chmod +rx compile.sh
 
-script: bash ./deploy.sh
+script:
+  - bash ./deploy.sh
 
