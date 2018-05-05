@@ -1,7 +1,12 @@
 ---
 title: People
 layout: page
+image:
+  feature: lab-2017.jpg
 ---
+
+
+<p style="text-align:center;"><img src="{{site.base_path}}/assets/images/lab-2017-2.jpg" style="width:66%;"></p>
 
 <div class="row">
   <div class="col-sm-3">
