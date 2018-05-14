@@ -49,15 +49,7 @@ highlighter: pygments
 
 menu:
   - name: Research
-    links:
-    - name: Design Tools
-      link: design-tools
-    - name: Manufacturing
-      link: manufacturing
-    - name: Analysis
-      link: analysis
-    - name: Applications
-      link: applications
+    link: projects/
   - name: Publications
     link: publications
   - name: Videos
@@ -72,12 +64,8 @@ menu:
       link: contact
     - name: Equipment
       link: equipment
-    - name: Lab Meetings
-      link: lab-meetings
     - name: Jobs
       link: jobs
-    - name: Research Opportunities
-      link: research-opportunities
     - name: Press
       link: press
     - name: News
