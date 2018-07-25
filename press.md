@@ -5,7 +5,17 @@ permalink: press/
 categories:
 - category: Origami-Inspired Robotics
   items:
-  - date: November 21, 2017
+  - date: July 11, 2018
+    link: https://azpbs.org/catalyst/2018/07/catalyst-robotic-fish/
+    source: Arizona PBS
+    title: Catalyst: Keeping the water flowing with robotic fish
+
+  - date: April 11, 2018
+    link:https://kjzz.org/content/633316/lifeblood-desert-salt-river-project-teams-turn-asu-robots-maintain-canal-system
+    source: KJZZ
+    title: Lifeblood Of The Desert: Salt River Project Teams Turn To ASU Robots To Maintain Canal System
+
+    - date: November 21, 2017
     link: http://www.abc15.com/news/region-southeast-valley/mesa/robotic-fish-could-help-solve-problem-in-arizona-canals
     source: ABC15
     title: Robotic fish could help solve problem in Arizona canals
