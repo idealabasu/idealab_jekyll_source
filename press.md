@@ -5,6 +5,10 @@ permalink: press/
 categories:
 - category: Origami-Inspired Robotics
   items:
+  - date: November 7, 2018
+    link: https://fullcircle.asu.edu/research/burrowing-sensor-robots-could-unearth-natures-subterranean-secrets/
+    source: ASU Full Circle
+    title: "BURROWING SENSOR ROBOTS COULD UNEARTH NATURE’S SUBTERRANEAN SECRETS"
   - date: July 11, 2018
     link: https://azpbs.org/catalyst/2018/07/catalyst-robotic-fish/
     source: Arizona PBS
@@ -39,6 +43,7 @@ categories:
 
   - date: 2016
     link: https://app.curiositystream.com/video/1573
+	source: Documentary
     title: The Origami Code
 
   - date: September 9, 2015
@@ -112,6 +117,6 @@ categories:
 {% for category in page.categories %}
 ## {{category.category}}
 {% for item in category.items %}
-[{{item.title}}]({{item.link}}) {% if item.source %}{{item.source}}, {% endif %} *{{item.date}}*
+[{{item.title}}]({{item.link}}) {% if item.source %}, {{item.source}}, {% endif %} *{{item.date}}*
 {% endfor %}
 {% endfor %}
