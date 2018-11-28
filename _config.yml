@@ -70,6 +70,8 @@ menu:
       link: press
     - name: News
       link: news
+    - name: Conferences
+      link: conferences
   - name: Teaching
     link: teaching
 
