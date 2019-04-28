@@ -2,8 +2,9 @@
 ---
 ## Foldable Robotics
 
-* [EGR 598: Foldable Robotics 2017-2018](foldable-robotics-2018)
-* [EGR 598: Foldable Robotics 2016-2017](foldable-robotics-2016)
+* [EGR 494/598: Foldable Robotics 2019](foldable-robotics-2019)
+* [EGR 494/598: Foldable Robotics 2018](foldable-robotics-2018)
+* [EGR 598: Foldable Robotics 2016](foldable-robotics-2016)
 
 The focus of this class is to teach the engineering of foldable robotics to graduate students.  We cover several aspects of foldable robotics development, such as the governing kinematic equations which govern two and three-dimensional motion of laminate mechanisms.  We cover manufacturing aspects, such as laminate fabrication methods, design techniques, and computation using the Python programming language.  And finally, students spend the last five weeks of the class developing a foldable robot which combines bio-inspired motion, sensing, and analysis in order to produce an improved design every week.  
 
