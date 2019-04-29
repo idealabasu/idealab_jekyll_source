@@ -1,4 +1,6 @@
 ---
+title: Conferences
+layout: page
 ---
 
 ## 2019 Conferences
