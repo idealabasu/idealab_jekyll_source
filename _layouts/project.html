@@ -11,27 +11,27 @@ layout: page
 {% if item.category == page.category %}
 
 <div class="col-md-4">
-  <div class="thumbnail">
-<h3> {{item.name}} </h3>
-<p><em>{{item.description}}</em></p>
+<div class="thumbnail">
 
-{% if item.person1 %}
-
-<p>
-{% if item.person1 %}{{item.person1}}{% endif %}
-{% if item.person2 %}, {{item.person2}}{% endif %}
-{% if item.person3 %}, {{item.person3}}{% endif %}
-{% if item.person4 %}, {{item.person4}}{% endif %}
-{% if item.person5 %}, {{item.person5}}{% endif %}
-</p>
-{% endif %}
-{% comment %}
-{% endcomment %}
 {% if item.youtube_link %}
 <div class="embed-responsive embed-responsive-16by9">
   <iframe src="{{item.youtube_link}}" allowfullscreen></iframe>
 </div>
+{% elsif item.image %}
+<img class="img-responsive" src="{{site.base_path}}{{item.image}}" alt="image">
 {% endif %}
+<div class="caption">
+<h3> {{item.name}} </h3>
+<p><em>{{item.description}}</em></p>
+
+{% if item.person1 %}
+<p>
+{% if item.person1 %}{{item.person1}}{% endif %}{% if item.person2 %}, {{item.person2}}{% endif %}{% if item.person3 %}, {{item.person3}}{% endif %}{% if item.person4 %}, {{item.person4}}{% endif %}{% if item.person5 %}, {{item.person5}}{% endif %}
+</p>
+{% endif %}
+{% comment %}
+{% endcomment %}
+</div>
 </div>
 </div>
 

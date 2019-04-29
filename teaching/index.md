@@ -2,17 +2,23 @@
 ---
 ## Foldable Robotics
 
-* [EGR 494/598: Foldable Robotics 2019](foldable-robotics-2019)
-* [EGR 494/598: Foldable Robotics 2018](foldable-robotics-2018)
-* [EGR 598: Foldable Robotics 2016](foldable-robotics-2016)
+* [EGR 494/598: Foldable Robotics (Spring 2019)](foldable-robotics-s-2019)
+* [EGR 494/598: Foldable Robotics (Spring 2018)](foldable-robotics-s-2018)
+* [EGR 598: Foldable Robotics (Fall 2016)](foldable-robotics-f-2016)
 
 The focus of this class is to teach the engineering of foldable robotics to graduate students.  We cover several aspects of foldable robotics development, such as the governing kinematic equations which govern two and three-dimensional motion of laminate mechanisms.  We cover manufacturing aspects, such as laminate fabrication methods, design techniques, and computation using the Python programming language.  And finally, students spend the last five weeks of the class developing a foldable robot which combines bio-inspired motion, sensing, and analysis in order to produce an improved design every week.  
 
+## Embedded Systems I & II
+
+* [EGR 304: Embedded Systems I (Fall 2018)](embedded-systems-I-f-2018)
+* [EGR 314: Embedded Systems II (Spring 2018)](embedded-systems-II-s-2019)
+
+Applies design principles to conceptualize, implement, and characterize an embedded electromechanical system in a project setting. Project emphasizes communication with project stakeholders; applying a human-centered design approach in the context of an electrical system; critical thinking in developing system specifications and evaluating a prototype relative to these specifications; and increasing technical competence.
 
 ## Use-Inspired Design
 
-* [EGR 202: Use-Inspired Design 2017](egr202-2017)
-* [EGR 202: Use-Inspired Design 2016](egr202-2016)  
+* [EGR 202: Use-Inspired Design (Spring 2017)](egr202-s-2017)
+* [EGR 202: Use-Inspired Design (Spring 2016)](egr202-s-2016)  
 
 This class teaches the design process to sophomore-level students in the Polytechnic School, covering topics including  opportunity identification, user needs identification, specification development, concept generation & selection, prototyping, modeling & analysis, experimental design, detailed design, business planning, design for manufacturing, and failure analysis.
 
