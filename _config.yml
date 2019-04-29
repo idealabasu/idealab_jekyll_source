@@ -64,8 +64,6 @@ menu:
       link: contact
     - name: Equipment
       link: equipment
-    - name: Jobs
-      link: jobs
     - name: Press
       link: press
     - name: News
@@ -75,6 +73,10 @@ menu:
   - name: Teaching
     link: teaching
 
+#    - name: Jobs
+#      link: jobs
+    
+    
 tags: a,b,c,d
 
 

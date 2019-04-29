@@ -1,4 +1,5 @@
 ---
+title: Teaching
 ---
 ## Foldable Robotics
 

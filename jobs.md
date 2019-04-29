@@ -1,6 +1,10 @@
 ---
 title: Jobs
 ---
+
+We are not currently seeking students
+
+{% comment %}
 PhD Position
 ============
 
@@ -24,3 +28,4 @@ The IDEAlab is part of the Polytechnic School of Engineering, the newest school 
 [ASU is #1 in the U.S. for innovation](https://asunow.asu.edu/content/asu-tops-us-news-world-report-list-most-innovative-schools)
 
 U.S. News & World Report ranked ASU No. 1 among the “Most Innovative Schools” in America for 2016, ahead of Stanford at No. 2, MIT at No. 3, as well as Duke, Harvard and Cornell. The top rating was conferred by leading college officials across the country based on ASU’s curriculum, faculty, students, campus life, technology and facilities.
+{% endcomment %}

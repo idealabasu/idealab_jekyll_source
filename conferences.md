@@ -1,6 +1,9 @@
+---
+---
+
 ## 2019 Conferences
 
-| Name                                          | Date              | Deadline (RA-L) [Posters] | Location              |
+| Name                                          | Date              | Deadline (Journal) [Posters] | Location              |
 |:----------------------------------------------|:------------------|:--------------------------|:----------------------|
 | [ICRA 2019]                                   | May 20-24, 2019   | Sept. 15, 2018 (Sept. 1)  | Montreal, Canada      |
 | [RoboSoft]                                    | April 14-18, 2019 | Nov. 1, 2018              | Seoul, South Korea    |
@@ -9,7 +12,7 @@
 | [IDETC/CIE]                                   | August            | Feb. 25, 2019             | Anaheim, California   |
 | [Living Machines]                             | July 10-12, 2019  | March 23                  | Nara, Japan           |
 | [Symposium on Computational Fabrication]      | June 16-18, 2019  | April 19, 2019 [June 3]   | Pittsburgh, PA, USA   |
-| RoboSoft                                      | April             |                           |                       |
+| RoboSoft                                      |              |                           |                       |
 | SMASIS                                        |                   |                           |                       |
 | BioRob                                        |                   |                           |                       |
 | RoBio                                         |                   |                           |                       |
