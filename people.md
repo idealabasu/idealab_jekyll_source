@@ -6,16 +6,17 @@ image:
 ---
 
 
-<p style="text-align:center;"><img src="{{site.base_path}}/assets/images/lab-2017-2.jpg" style="width:66%;"></p>
+{% comment %}<p style="text-align:center;"><img src="{{site.base_path}}/assets/images/lab-2017-2.jpg" style="width:66%;"></p>{% endcomment %}
 
+<h2>
+Daniel M. Aukes, Ph.D.
+</h2>
+<div class="thumbnail">
 <div class="row">
   <div class="col-sm-3">
     <img class="img-responsive" src="{{site.base_path}}/assets/images/headshot-small.jpg">
   </div>
   <div class="col-sm-9">
-    <h2>
-      Daniel M. Aukes, Ph.D.
-    </h2>
     <p>
       <a href="mailto://danaukes@asu.edu">danaukes@asu.edu</a><br>
       <a href="{{site.base_path}}/assets/dan_cv.pdf">CV</a><br>
@@ -37,17 +38,23 @@ Dr. Aukes' current research includes origami-inspired design techniques, foldabl
       Teaching
     </h3>
     <ul>
-    <li>Spring 2017: EGR202</li>
-      <li>Fall 2016: EGR598: Foldable Robotics</li>
+      <li>Spring 2019: EGR314, EGR494, EGR598</li>
+      <li>Fall 2018: EGR304, ASU101</li>
+      <li>Spring 2018: EGR598</li>
+      <li>Spring 2017: EGR202</li>
+      <li>Fall 2016: EGR598</li>
       <li>Spring 2016: EGR202</li>
     </ul>
   </div>
 </div>
+</div>
+
 <h2>
   Ph.D. Students
 </h2>
 {% for student in site.data.students %}
-{% if student.type == "phd" %}
+{% if student.PhD %}
+<div class="thumbnail">
 <div class="row">
   <div class="col-sm-3">
   <img class="img-responsive" src="{{site.base_path}}{{student.img_link}}">
@@ -56,43 +63,61 @@ Dr. Aukes' current research includes origami-inspired design techniques, foldabl
     <h3>
       {{student.name}}
     </h3>
-    <p>
     {% if student.email %}
-      <a href="mailto://{{student.email}}">{{student.email}}</a><br>
-      {% endif %}
-    {% if student.resume_link %}
-      <a href="{{site.base_path}}{{student.resume_link}}">CV</a>
-    {% endif %}
-    </p>
     <p>
-      {{research.description}}
+      <a href="mailto://{{student.email}}">{{student.email}}</a>
     </p>
+    {% endif %}
+    {% if student.start %}
+    <p>
+    {{ student.start }} - {{ student.stop }}
+    </p>
+    {% endif %}
+    {% if student.resume_link %}
+    <p>
+      <a href="{{site.base_path}}{{student.resume_link}}">CV</a>
+    </p>
+    {% endif %}
+    {% if student.description %}
+    <p>
+      {{student.description}}
+    </p>
+    {% endif %}
+    {% if student.interests %}
     <h3>
       Research Interests
     </h3>
     <p>
       {{student.interests}}
     </p>
+    {% endif %}
   </div>
+</div>
 </div>
 {% endif %}
 {% endfor %}
 
+## Masters
 
-
-## Undergraduate Students
 {% assign ii = 0 %}
 
 <div class="row">
 {% for student in site.data.students %}
-{% if student.type == "undergraduate" %}
+{% unless student.former %}
+{% unless student.PhD %}
+{% if student.Masters %}
   <div class="col-sm-3">
     <div class="thumbnail">
     <h3>{{student.name}}</h3>
     <p>
     {% if student.email %}
-      <a href="mailto://{{student.email}}">{{student.email}}</a><br>
-      {% endif %}
+      <a href="mailto://{{student.email}}">Email</a><br>
+    {% endif %}
+    {% if student.start %}
+    <p>
+    {{ student.start }} - {{ student.stop }}
+    </p>
+    {% endif %}
     {% if student.resume_link %}
       <a href="{{site.base_path}}{{student.resume_link}}">Resume</a>
     {% endif %}
@@ -104,6 +129,88 @@ Dr. Aukes' current research includes origami-inspired design techniques, foldabl
 
 
 {% if ii == 4 %}
+{% assign ii = 0 %}
+</div>
+<div class="row">
+{% endif %}
+{% endif %}
+{% endunless %}
+{% endunless %}
+{% endfor %}
+</div>
+
+## Undergraduate Students
+
+{% assign ii = 0 %}
+
+<div class="row">
+{% for student in site.data.students %}
+{% unless student.former %}
+{% unless student.PhD %}
+{% unless student.Masters %}
+{% if student.Undergraduate %}
+  <div class="col-sm-3">
+    <div class="thumbnail">
+    <h3>{{student.name}}</h3>
+    <p>
+    {% if student.email %}
+      <a href="mailto://{{student.email}}">Email</a><br>
+    {% endif %}
+    {% if student.start %}
+    <p>
+    {{ student.start }} - {{ student.stop }}
+    </p>
+    {% endif %}
+    {% if student.resume_link %}
+      <a href="{{site.base_path}}{{student.resume_link}}">Resume</a>
+    {% endif %}
+    </p>
+    <img class="img-responsive" src="{{site.base_path}}{{student.img_link}}">
+    </div>
+  </div>
+  {% assign ii = ii | plus: 1 %}
+
+
+{% if ii == 4 %}
+{% assign ii = 0 %}
+</div>
+<div class="row">
+{% endif %}
+{% endif %}
+{% endunless %}
+{% endunless %}
+{% endunless %}
+{% endfor %}
+</div>
+
+## Former Students
+
+{% assign ii = 0 %}
+
+<div class="row">
+{% for student in site.data.students %}
+{% if student.former %}
+  <div class="col-sm-2">
+    <div class="thumbnail">
+    <h3>{{student.name}}</h3>
+    <p>
+    {{ student.start }} - {{ student.stop }}
+    </p>
+    <p>
+    {% if student.email %}
+      <a href="mailto://{{student.email}}">Email</a><br>
+      {% endif %}
+    {% if student.resume_link %}
+      <a href="{{site.base_path}}{{student.resume_link}}">Resume</a>
+    {% endif %}
+    </p>
+    <img class="img-responsive" src="{{site.base_path}}{{student.img_link}}">
+    </div>
+  </div>
+  {% assign ii = ii | plus: 1 %}
+
+
+{% if ii == 7 %}
 {% assign ii = 0 %}
 </div>
 <div class="row">
