@@ -1,4 +1,5 @@
 ---
+description: We have had two papers recently accepted!
 ---
 
 We have had two papers recently accepted!

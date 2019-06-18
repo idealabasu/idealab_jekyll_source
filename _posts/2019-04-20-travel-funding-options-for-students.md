@@ -1,4 +1,5 @@
 ---
+description: Here is the graduate student travel funding request form/information. 
 ---
 
 Here is the graduate student travel funding request form/information.  
