@@ -25,6 +25,13 @@ exclude:
   - compile.sh
   - deploy.sh
   - vendor
+  - yarn.lock
+  - Gemfile
+  - Gemfile.lock
+  - .yarnrc
+  - .gitignore
+  - docker-compose.yml
+  - package.json
 
 defaults:
   - scope:
