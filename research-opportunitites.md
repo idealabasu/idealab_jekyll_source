@@ -16,11 +16,11 @@ Please contact Dr. Aukes directly or look on the "jobs" link for current opportu
 
 ### Masters Thesis
 
-If your research goals are well aligned with existing, ongoing work in the IDEAlab, Dr. Aukes is willing to serve on your masters thesis committee.
+If your research goals are well aligned with existing, ongoing work in the IDEAlab, Dr. Aukes is willing to serve on your masters thesis committee, *provided the student is willing to commit to submitting their work to a journal at the end of their project.*
 
 ### Masters Project
 
-Due to time limitations, Dr. Aukes is not able to advise Masters Projects at this time.  Please consider 
+Due to time limitations, Dr. Aukes is not able to advise Masters Projects at this time.  Please consider a Masters Thesis, as the opportunities for producing high-quality, publishable work is enhanced via the thesis route.
 
 
 ### MORE
@@ -32,7 +32,7 @@ The MORE Initiative is a unique opportunity to get involved in research during y
 
 ### Barrett Honors Thesis
 
-Dr. Aukes has availability to serve on Barrett Thesis committees, provided the student is willing to commit to submitting their work to a conference or journal at the end of their work.
+Dr. Aukes has availability to serve on Barrett Thesis committees, *provided the student is willing to commit to submitting their work to a conference or journal at the end of their project.*
 
 ### FURI
 
