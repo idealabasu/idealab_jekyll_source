@@ -2,7 +2,7 @@
 title: Jobs
 ---
 
-We are not currently seeking students
+There are currently no open positions
 
 {% comment %}
 PhD Position

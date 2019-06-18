@@ -76,15 +76,15 @@ menu:
       link: press
     - name: News
       link: news
+    - name: Research Opportunities
+      link: research-opportunities
     - name: Conferences
       link: conferences
   - name: Teaching
     link: teaching
+  - name: Jobs
+    link: jobs
 
-#    - name: Jobs
-#      link: jobs
-    
-    
 tags: a,b,c,d
 
 
