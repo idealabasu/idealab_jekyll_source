@@ -14,7 +14,7 @@ Daniel M. Aukes, Ph.D.
 <div class="thumbnail">
 <div class="row">
   <div class="col-sm-3">
-    <img class="img-responsive" src="{{site.base_path}}/assets/images/headshot-small.jpg">
+    <img class="img-responsive" src="{{site.base_path}}/assets/images/headshots/Daniel-Aukes.jpg">
   </div>
   <div class="col-sm-9">
     <p>
@@ -63,19 +63,12 @@ Dr. Aukes' current research includes origami-inspired design techniques, foldabl
     <h3>
       {{student.name}}
     </h3>
-    {% if student.email %}
     <p>
-      <a href="mailto://{{student.email}}">{{student.email}}</a>
+          {% if student.email %}<a href="mailto://{{student.email}}">Email</a>{% endif %}    {% if student.resume_link %} <a href="{{site.base_path}}{{student.resume_link}}">(resume)</a> {% endif %}
     </p>
-    {% endif %}
     {% if student.start %}
     <p>
     {{ student.start }} - {{ student.stop }}
-    </p>
-    {% endif %}
-    {% if student.resume_link %}
-    <p>
-      <a href="{{site.base_path}}{{student.resume_link}}">CV</a>
     </p>
     {% endif %}
     {% if student.description %}
@@ -108,21 +101,16 @@ Dr. Aukes' current research includes origami-inspired design techniques, foldabl
 {% if student.Masters %}
   <div class="col-sm-3">
     <div class="thumbnail">
+    <img class="img-responsive" src="{{site.base_path}}{{student.img_link}}">
     <h3>{{student.name}}</h3>
     <p>
-    {% if student.email %}
-      <a href="mailto://{{student.email}}">Email</a><br>
-    {% endif %}
+          {% if student.email %}<a href="mailto://{{student.email}}">Email</a>{% endif %}    {% if student.resume_link %} <a href="{{site.base_path}}{{student.resume_link}}">(resume)</a> {% endif %}
+    </p>
     {% if student.start %}
     <p>
     {{ student.start }} - {{ student.stop }}
     </p>
     {% endif %}
-    {% if student.resume_link %}
-      <a href="{{site.base_path}}{{student.resume_link}}">Resume</a>
-    {% endif %}
-    </p>
-    <img class="img-responsive" src="{{site.base_path}}{{student.img_link}}">
     </div>
   </div>
   {% assign ii = ii | plus: 1 %}
@@ -151,21 +139,16 @@ Dr. Aukes' current research includes origami-inspired design techniques, foldabl
 {% if student.Undergraduate %}
   <div class="col-sm-3">
     <div class="thumbnail">
+    <img class="img-responsive" src="{{site.base_path}}{{student.img_link}}">
     <h3>{{student.name}}</h3>
     <p>
-    {% if student.email %}
-      <a href="mailto://{{student.email}}">Email</a><br>
-    {% endif %}
+          {% if student.email %}<a href="mailto://{{student.email}}">Email</a>{% endif %}    {% if student.resume_link %} <a href="{{site.base_path}}{{student.resume_link}}">(resume)</a> {% endif %}
+    </p>
     {% if student.start %}
     <p>
     {{ student.start }} - {{ student.stop }}
     </p>
     {% endif %}
-    {% if student.resume_link %}
-      <a href="{{site.base_path}}{{student.resume_link}}">Resume</a>
-    {% endif %}
-    </p>
-    <img class="img-responsive" src="{{site.base_path}}{{student.img_link}}">
     </div>
   </div>
   {% assign ii = ii | plus: 1 %}
@@ -192,19 +175,16 @@ Dr. Aukes' current research includes origami-inspired design techniques, foldabl
 {% if student.former %}
   <div class="col-sm-2">
     <div class="thumbnail">
-    <h3>{{student.name}}</h3>
+    <img class="img-responsive" src="{{site.base_path}}{{student.img_link}}">
+    <h4>{{student.name}}</h4>
+    <p>
+          {% if student.email %}<a href="mailto://{{student.email}}">Email</a>{% endif %}    {% if student.resume_link %} <a href="{{site.base_path}}{{student.resume_link}}">(resume)</a> {% endif %}
+    </p>
+    {% if student.start %}
     <p>
     {{ student.start }} - {{ student.stop }}
     </p>
-    <p>
-    {% if student.email %}
-      <a href="mailto://{{student.email}}">Email</a><br>
-      {% endif %}
-    {% if student.resume_link %}
-      <a href="{{site.base_path}}{{student.resume_link}}">Resume</a>
     {% endif %}
-    </p>
-    <img class="img-responsive" src="{{site.base_path}}{{student.img_link}}">
     </div>
   </div>
   {% assign ii = ii | plus: 1 %}
