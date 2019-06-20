@@ -1,6 +1,6 @@
 organization_name: IDEAlab
 title: IDEAlab -- Integrating Design, Engineering, and Analysis
-email: idealab@asu.edu
+email: danaukes@asu.edu
 # description: > # this means to ignore newlines until "baseurl:"
   # Integrating Design, Engineering, and Analysis
 url: "http://idealab.asu.edu" # the base hostname & protocol for your site
@@ -52,8 +52,8 @@ defaults:
 kramdown:
   input: GFM
   auto_ids: true
-highlighter: pygments
-
+highlighter: rouge
+ 
 
 menu:
   - name: Research
@@ -66,10 +66,8 @@ menu:
     links:
     - name: People
       link: people
-    - name: Location
-      link: location
-    - name: Contact
-      link: contact
+    - name: Contact and Location
+      link: contact-and-location
     - name: Equipment
       link: equipment
     - name: Press
@@ -99,8 +97,8 @@ scholar:
   group_order: ascending
 
   source: assets/bibliographies
-  bibliography: papers_journal.bib
-  bibliography_template: bibtemplate
+  bibliography: mypapers.bib
+  bibliography_template: "{{reference}}"
 
   replace_strings: true
   join_strings: true
@@ -111,9 +109,8 @@ scholar:
   - latex
 
   details_dir:    bibliography
-#  details_layout: bib-details.html
-  details_layout: none.html
-  details_link:   more...
+  details_layout: details.html
+  details_link:   (details)
 
   query: "@*"
 

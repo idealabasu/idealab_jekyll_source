@@ -1,0 +1,17 @@
+---
+layout: page
+---
+<h1>{{ page.entry.title }}</h1>
+<h2>{{ page.entry.author }}</h2>
+{% if page.entry.abstract %}
+<p>Abstract: {{ page.entry.abstract }}</p>
+{% endif %}
+{% if page.entry.doi %}
+<p>DOI: <a href="http://dx.doi.org/{{ page.entry.doi }}">{{ page.entry.doi }}</a></p>
+{% endif %}
+{% if page.entry.url %}
+<p>Website: <a href="{{ page.entry.url }}">{{ page.entry.url }}</a></p>
+{% endif %}
+{% if page.entry.file %}
+<p>File: <a href="{{ page.entry.key }}.pdf">{{ page.entry.key }}.pdf</a></p>
+{% endif %}
