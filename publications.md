@@ -14,3 +14,10 @@ layout: page
 
 ## Patents & Applications
 {% bibliography --file mypapers-patents %}
+
+## Student Theses
+{% bibliography --file mypapers-thesis %}
+
+## Student Posters
+{% bibliography --file mypapers-posters %}
+
