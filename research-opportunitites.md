@@ -34,6 +34,18 @@ The MORE Initiative is a unique opportunity to get involved in research during y
 
 Dr. Aukes has availability to serve on Barrett Thesis committees, *provided the student is willing to commit to submitting their work to a conference or journal at the end of their project.*
 
+For more information, see <https://barretthonors.asu.edu/academics/thesis-and-creative-project/>
+
 ### FURI
 
 The Fulton Undergraduate Research Initiative is a unique opportunity to get involved in research during your undergraduate experience.  In general, planning for your application involves identifying a research topic of interest, speaking with Dr. Aukes to ensure it fits within the scope of the IDEAlab, and coming up with the deliverables required by the FURI program.  *Please see Dr. Aukes at the beginning of the semester in order to plan your FURI application.*
+
+For more information, see <https://furi.engineering.asu.edu/>
+
+### Nasa Space Grant
+
+For more information, see <https://nasa.asu.edu/node>
+
+### Grand Challenge Scholars Program (GCSP)
+
+For more information, see <https://gcsp.engineering.asu.edu/>
