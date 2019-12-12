@@ -14,12 +14,12 @@ Daniel M. Aukes, Ph.D.
 <div class="thumbnail">
 <div class="row">
   <div class="col-sm-3">
-    <img class="img-responsive" src="{{site.base_path}}/assets/images/headshots/Daniel-Aukes.jpg">
+    <img class="img-responsive" src="{{site.base_path}}/assets/images/headshots/aukes.jpg">
   </div>
   <div class="col-sm-9">
     <p>
       <a href="mailto://danaukes@asu.edu">danaukes@asu.edu</a><br>
-      <a href="{{site.base_path}}/assets/dan_cv.pdf">CV</a><br>
+      <a href="{{site.base_path}}/assets/resumes/aukes-cv.pdf">CV</a><br>
       <a href="{{site.base_path}}/aukes_calendar">Calendar</a>
     </p>
     <p>
