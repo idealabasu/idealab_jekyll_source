@@ -63,9 +63,20 @@ Dr. Aukes' current research includes origami-inspired design techniques, foldabl
     <h3>
       {{student.name}}
     </h3>
-    <p>
-          {% if student.email %}<a href="mailto://{{student.email}}">Email</a>{% endif %}    {% if student.resume_link %} <a href="{{site.base_path}}{{student.resume_link}}">(resume)</a> {% endif %}
-    </p>
+	{% if student.email %} 
+	<p>
+		<a href="mailto://{{student.email}}">Email</a>{% endif %}
+	</p> 
+	{% if student.resume_link %} 
+	<p> 
+		<a href="{{site.base_path}}{{student.resume_link}}">(resume)</a>
+	</p> 
+	{% endif %}
+	{% if student.personal_website %} 
+	<p>
+		Personal Website: <a href="{{ student.personal_website }}">{{ student.personal_website }}</a>
+	</p> 
+	{% endif %}
     {% if student.start %}
     <p>
     {{ student.start }} - {{ student.stop }}
