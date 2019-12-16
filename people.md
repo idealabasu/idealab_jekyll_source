@@ -201,7 +201,7 @@ Dr. Aukes' current research includes origami-inspired design techniques, foldabl
   {% assign ii = ii | plus: 1 %}
 
 
-{% if ii == 7 %}
+{% if ii == 6 %}
 {% assign ii = 0 %}
 </div>
 <div class="row">
