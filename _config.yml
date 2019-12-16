@@ -66,6 +66,8 @@ menu:
     links:
     - name: People
       link: people
+    - name: Posters
+      link: posters
     - name: Contact and Location
       link: contact-and-location
     - name: Equipment
