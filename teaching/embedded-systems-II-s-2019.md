@@ -1,6 +1,6 @@
 ---
 category: egr314-s-2019
-layout: project
+layout: class-project
 ---
 
 # Embedded Systems II

@@ -1,4 +1,4 @@
 ---
 category: informal-robotics-2015
-layout: project
+layout: class-project
 ---

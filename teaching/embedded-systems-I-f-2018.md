@@ -1,6 +1,6 @@
 ---
 category: egr304-2018
-layout: project
+layout: class-project
 ---
 
 # Embedded Systems I
