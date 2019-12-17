@@ -11,8 +11,9 @@ The focus of this class is to teach the engineering of foldable robotics to grad
 
 ## Embedded Systems I & II
 
-* [EGR 304: Embedded Systems I (Fall 2018)](embedded-systems-I-f-2018)
+* [EGR 304: Embedded Systems I (Fall 2019)](embedded-systems-I-f-2019)
 * [EGR 314: Embedded Systems II (Spring 2018)](embedded-systems-II-s-2019)
+* [EGR 304: Embedded Systems I (Fall 2018)](embedded-systems-I-f-2018)
 
 Applies design principles to conceptualize, implement, and characterize an embedded electromechanical system in a project setting. Project emphasizes communication with project stakeholders; applying a human-centered design approach in the context of an electrical system; critical thinking in developing system specifications and evaluating a prototype relative to these specifications; and increasing technical competence.
 
