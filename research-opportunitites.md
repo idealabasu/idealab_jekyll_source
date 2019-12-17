@@ -8,11 +8,11 @@ The IDEAlab at ASU is always looking for researchers in the field of robotics, d
 
 ## PhD Research
 
-Please contact Dr. Aukes directly or look on the "jobs" link for current opportunities.  Unless there is a current posting, there is a low chance of unsolicited emails getting a response
+**There are currently no openings available.**  There is a low chance of unsolicited emails getting a response.
 
 ## Masters Research
 
-**We do not *generally* fund masters research.**
+**We do not generally fund masters research.**
 
 ### Masters Thesis
 

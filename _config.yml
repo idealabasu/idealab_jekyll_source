@@ -57,17 +57,19 @@ highlighter: rouge
 
 menu:
   - name: Research
-    link: projects/
-  - name: Publications
-    link: publications
+    links: 
+    - name: Research Projects
+      link: projects/
+    - name: Publications
+      link: publications
+    - name: Posters
+      link: posters
   - name: Videos
     link: videos
   - name: Lab Info
     links:
     - name: People
       link: people
-    - name: Posters
-      link: posters
     - name: Contact and Location
       link: contact-and-location
     - name: Equipment
@@ -80,10 +82,10 @@ menu:
       link: research-opportunities
     - name: Conferences
       link: conferences
+    - name: Download
+      link: download
   - name: Teaching
     link: teaching
-  - name: Jobs
-    link: jobs
 
 tags: a,b,c,d
 
