@@ -8,16 +8,11 @@
   <div class="panel-body">
 
 {% if project.image %}
-<div class="media">
-  <div class="media-left media-middle">
-    <img class="media-object" src="{{site.base_path}}{{ project.image }}" alt="...">
-      {% comment %}
-      <a href="#">
-      <img class="img-responsive" src="{{site.base_path}}{{ project.image }}">
-      </a>
-      {% endcomment %}
+<div class="row">
+  <div class="col-md-4">
+    <img class="img-responsive img-thumbnail" src="{{site.base_path}}{{ project.image }}">
   </div>
-  <div class="media-body">
+  <div class="col-md-8">
     <p>Students: <em>{{project.students}}</em></p>
     <p>{{project.description}}</p>
     <p><em>{{project.funding}}</em></p>
@@ -45,16 +40,11 @@
   <div class="panel-body">
 
 {% if project.image %}
-<div class="media">
-  <div class="media-left media-middle">
-    <img class="media-object" src="{{site.base_path}}{{ project.image }}" alt="...">
-      {% comment %}
-      <a href="#">
-      <img class="img-responsive" src="{{site.base_path}}{{ project.image }}">
-      </a>
-      {% endcomment %}
+<div class="row">
+  <div class="col-md-4">    
+    <img class="img-responsive img-thumbnail" src="{{site.base_path}}{{ project.image }}">
   </div>
-  <div class="media-body">
+  <div class="col-md-8">
     <p>Students: <em>{{project.students}}</em></p>
     <p>{{project.description}}</p>
     <p><em>{{project.funding}}</em></p>

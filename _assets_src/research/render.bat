@@ -1,2 +1,2 @@
 @echo off
-scale_pics -w -d=250 -u
+scale_pics -w -d=500 -u
