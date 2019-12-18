@@ -58,8 +58,8 @@ highlighter: rouge
 menu:
   - name: Research
     links: 
-    - name: Research Projects
-      link: projects/
+    - name: Research Projects & Platforms
+      link: projects
     - name: Publications
       link: publications
     - name: Posters

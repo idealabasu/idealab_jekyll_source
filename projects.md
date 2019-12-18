@@ -1,13 +1,24 @@
 ---
-title: Research Projects
+title: Research Projects and Platforms
 description: in the IDEAlab
 ---
 
-## EFRI Projects
+## SCRAM Projects
+
+SCRAM stands for Soft, Curved, Reconfigurable, Anisotropic Mechanisms.  
+
 {% assign key = 'efri' %}
 {% include research-projects.html %}
 
-## Fish-related Projects
+## Soft Robotics
+
+We are seeking to develop next-generation soft robots from stimuli-responsive materials like hydrogels.
+
+
+{% assign key = 'onr' %}
+{% include research-projects.html %}
+
+## Swimming Projects
 {% assign key = 'fish' %}
 {% include research-projects.html %}
 
@@ -17,10 +28,6 @@ description: in the IDEAlab
 
 ## Quadruped Projects
 {% assign key = 'quadruped' %}
-{% include research-projects.html %}
-
-## Hydrogel Projects
-{% assign key = 'onr' %}
 {% include research-projects.html %}
 
 ## Foldable Projects

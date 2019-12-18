@@ -90,9 +90,13 @@ description: Integrating Design, Engineering, and Analysis
 <hr/>
 <!--###############################################################-->
 
-<h2><a href="{{site.base_path}}/news">News</a></h2>
+<div class="panel panel-default">
+  <div class="panel-heading">
+	<h3>News</h3>
+  </div>
+  <div class="panel-body">
 <div class="row">
-  {% for post in site.posts limit:7 %}
+  {% for post in site.posts limit:3 %}
   <div class="col-sm-3">
     <a href="{{site.base_path}}{{ post.url }}">{{ post.title }}</a><br>
     <em>{{ post.date | date: '%B %d, %Y' }}</em>
@@ -104,7 +108,9 @@ description: Integrating Design, Engineering, and Analysis
   </div>
   {% endfor %}
   <div class="col-sm-3">
-    <a href="{{site.base_path}}/news">more...</a>
+  <a href="{{site.base_path}}/news" class="btn btn-primary btn-lg active" role="button">More News...</a>
+  </div>
+</div>
   </div>
 </div>
 
@@ -118,5 +124,3 @@ description: Integrating Design, Engineering, and Analysis
   </div>
 </div>
 {% endcomment %}
-
-<a href="{{site.base_path}}/lic">_</a>
