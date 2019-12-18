@@ -39,7 +39,7 @@ defaults:
     values:
       layout: "page"
       image:
-        feature: image1.jpg
+        feature: /assets/images/image1.jpg
       show_title: true
   - scope:
       path: "" # an empty string here means all files in the project
@@ -70,9 +70,9 @@ menu:
     links:
     - name: People
       link: people
-    - name: Contact and Location
+    - name: Contact & Location
       link: contact-and-location
-    - name: Equipment
+    - name: Equipment & Facilities
       link: equipment
     - name: Press
       link: press

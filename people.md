@@ -2,7 +2,7 @@
 title: People
 layout: page
 image:
-  feature: lab-2017.jpg
+  feature: /assets/images/lab-2017.jpg
 ---
 
 
