@@ -70,6 +70,8 @@ menu:
     links:
     - name: People
       link: people
+    - name: Calendar
+      link: calendar
     - name: Contact & Location
       link: contact-and-location
     - name: Equipment & Facilities
