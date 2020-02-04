@@ -1,4 +1,5 @@
 {% for project in site.data.research-projects %}
+{% if project.publish %}
 {% if key==project.key %}
 {% unless project.archived %}
 <div class="panel panel-default">
@@ -28,9 +29,11 @@
 </div>
 {% endunless %}
 {% endif %}
+{% endif %}
 {% endfor %}
 
 {% for project in site.data.research-projects %}
+{% if project.publish %}
 {% if key==project.key %}
 {% if project.archived %}
 <div class="panel panel-default">
@@ -58,6 +61,7 @@
 
   </div>
 </div>
+{% endif %}
 {% endif %}
 {% endif %}
 {% endfor %}
