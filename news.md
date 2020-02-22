@@ -3,6 +3,13 @@ title: News
 layout: page
 permalink: /news/
 ---
+
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/idealabasu?ref_src=twsrc%5Etfw">Tweets by idealabasu</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+## Old Posts
+
 <ul>
   {% for post in site.posts %}
     <li>

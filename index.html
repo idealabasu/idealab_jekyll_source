@@ -96,20 +96,7 @@ description: Integrating Design, Engineering, and Analysis
   </div>
   <div class="panel-body">
 <div class="row">
-  {% for post in site.posts limit:3 %}
-  <div class="col-sm-3">
-    <a href="{{site.base_path}}{{ post.url }}">{{ post.title }}</a><br>
-    <em>{{ post.date | date: '%B %d, %Y' }}</em>
-    {% if post.description %}
-      <p>{{ post.description }}</p>
-    {% else %}
-      {{ post.excerpt }}
-    {% endif %}
-  </div>
-  {% endfor %}
-  <div class="col-sm-3">
-  <a href="{{site.base_path}}/news" class="btn btn-primary btn-lg active" role="button">More News...</a>
-  </div>
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/idealabasu?ref_src=twsrc%5Etfw">Tweets by idealabasu</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
   </div>
 </div>
