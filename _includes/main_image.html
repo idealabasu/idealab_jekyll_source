@@ -8,7 +8,12 @@
           {% if page.tags.size > 0 %}
             {{ page.tags[0] }}:
           {% endif %}
-          {{ page.title }}
+		  {% if page.title_image %}
+			<img style="border:0px solid #dbdbdb;" src="{{site.base_path}}{{ page.title_image }}">
+		  {% else %}
+            {{ page.title }}
+		  {% endif%}
+		  
 
         </h2>
         <p>{{ page.description }}</p>
