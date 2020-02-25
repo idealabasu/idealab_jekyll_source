@@ -3,7 +3,7 @@ title: Teaching
 ---
 ## Foldable Robotics
 
-* [EGR 494/598: Foldable Robotics (Fall 2020)](foldable-robotics-f-2020)
+* [EGR 494/557: Foldable Robotics (Fall 2020)](foldable-robotics-f-2020)
 * [EGR 494/598: Foldable Robotics (Spring 2019)](foldable-robotics-s-2019)
 * [EGR 494/598: Foldable Robotics (Spring 2018)](foldable-robotics-s-2018)
 * [EGR 598: Foldable Robotics (Fall 2016)](foldable-robotics-f-2016)
