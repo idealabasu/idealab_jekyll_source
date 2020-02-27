@@ -3,4 +3,14 @@ layout: page
 ---
 <p><em>{{ page.date | date: '%B %d, %Y' }}</em></p>
 <hr>
+
 {{content}}
+
+
+{% capture tweet_text %}{{ page.title }}--{{ page.description }}{% endcapture %}
+
+<a href="https://twitter.com/intent/tweet?original_referer={{ site.url }}&text={{ tweet_text | url_param_escape }}&url={{site.url}}{{ site.base_path }}{{ page.url }}&via={{ site.twitter_id }}" target="_blank"> 
+<button type="button" class="btn btn-default" aria-label="Retweet">
+  <span class="glyphicon glyphicon-retweet" aria-hidden="true"></span> Retweet
+</button>
+</a>

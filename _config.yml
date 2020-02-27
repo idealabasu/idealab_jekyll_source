@@ -54,6 +54,7 @@ kramdown:
   auto_ids: true
 highlighter: rouge
  
+twitter_id: IDEAlab
 
 menu:
   - name: Research
