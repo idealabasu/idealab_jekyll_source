@@ -23,7 +23,7 @@ Daniel M. Aukes, Ph.D.
       <a href="{{site.base_path}}/aukes_calendar">Calendar</a>
     </p>
     <p>
-Daniel M. Aukes is an assistant professor in engineering at the Polytechnic School, starting in January 2016.  He was a Wyss Institute Postdoctoral Fellow in Technology Development at Harvard University from 2013-2015, focusing on the design and manufacturing of laminate robots in conjunction with Rob Wood and the Harvard Microrobotics Laboratory.  He received his Ph.D. and M.S. in mechanical engineering from Stanford University in 2013 and 2009, studying the design of underactuated robotic hands under Mark Cutkosky.  He worked from 2004 to 2007 as a system integration engineer across a variety of industries, focusing on manufacturing and food processing automation.  He received his B.S. in mechanical engineering from Northwestern University in 2004.    
+Daniel M. Aukes is an Assistant Professor at Arizona State University, and is the Principal Investigator of the IDEAlab.  His research investigates the nexus of design, manufacturing, and data-driven decision-making towards the development of robots that can operate in niche environments, with a focus on affordability and accessibility.  He is a former Technology Development Fellow at the Wyss Institute at Harvard University and completed post-doctoral research in the Harvard MicroRobotics Lab with Rob Wood, developing manufacturing planning software for origami-inspired robots.  Dr. Aukes received his PhD and Masters degrees in Mechanical Engineering from Stanford University, studying the design of underactuated robotics hands under Mark Cutkosky.  He received his BS in Mechanical Engineering from Northwestern University.  Dr. Aukes’s industry experiences have focused on manufacturing automation across a wide range of industries including automotive, pharmaceutical, and food-processing.
     </p>
     <p>
 Dr. Aukes' current research includes origami-inspired design techniques, foldable robots, mobile robots, rapid prototyping, device design, dynamics and simulation, and manufacturing planning
@@ -157,7 +157,7 @@ Dr. Aukes' current research includes origami-inspired design techniques, foldabl
     </p>
     {% if student.start %}
     <p>
-    {{ student.start }} - {{ student.stop }}
+    {{ student.start }} {% if student.stop %}- {{ student.stop }}{%else%}{% endif %}
     </p>
     {% endif %}
     </div>
@@ -193,7 +193,7 @@ Dr. Aukes' current research includes origami-inspired design techniques, foldabl
     </p>
     {% if student.start %}
     <p>
-    {{ student.start }} - {{ student.stop }}
+    {{ student.start }} {% if student.stop %}- {{ student.stop }}{%else%}{% endif %}
     </p>
     {% endif %}
     </div>
