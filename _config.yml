@@ -65,6 +65,8 @@ menu:
       link: publications
     - name: Posters
       link: posters
+    - name: Kaiteki Project
+      link: kaiteki
   - name: Videos
     link: videos
   - name: Lab Info
