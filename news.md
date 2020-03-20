@@ -3,10 +3,10 @@ title: News
 layout: page
 permalink: /news/
 ---
-
+{% comment %}
 <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/idealabasu?ref_src=twsrc%5Etfw">Tweets by idealabasu</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ---
+{% endcomment %}
 
 ## Old Posts
 
@@ -20,6 +20,8 @@ permalink: /news/
       {% else %}
         {{ post.excerpt }}
       {% endif %}
+	  {% assign item = post %}
+	  {% include tweet.html %}
     </li>
   {% endfor %}
 </ul>

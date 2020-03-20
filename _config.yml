@@ -85,6 +85,8 @@ menu:
       link: news
     - name: Research Opportunities
       link: research-opportunities
+    - name: Hiring
+      link: hiring
     - name: Conferences
       link: conferences
     - name: Download

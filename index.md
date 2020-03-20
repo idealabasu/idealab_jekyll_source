@@ -90,12 +90,39 @@ description: Integrating Design, Engineering, and Analysis
 </div>
 </div>
 
-<hr/>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+	<h3>News</h3>
+  </div>
+  <div class="panel-body">
+<div class="row">
+  {% for post in site.posts limit:3 %}
+  <div class="col-sm-3">
+    <p><a href="{{site.base_path}}{{ post.url }}">{{ post.title }}</a><br>
+    <em>{{ post.date | date: '%B %d, %Y' }}</em><br>
+	{% assign item = post %}{% include tweet.html %}
+	</p>
+    {% if post.description %}
+      <p>{{ post.description }}</p>
+    {% else %}
+      <p>{{ post.excerpt }}</p>
+    {% endif %}
+  </div>
+  {% endfor %}
+  <div class="col-sm-3">
+  <a href="{{site.base_path}}/news" class="btn btn-primary btn-lg active" role="button">More News...</a>
+  </div>
+</div>
+  </div>
+</div>
 
 <!--###############################################################-->
 
-<!--<h2>News</h2>-->
+<!--
+-->
 
+{% comment %}
 <div class="row">
 	<div class="col-sm-3"> </div>
 	<div class="col-sm-6">
@@ -113,6 +140,7 @@ description: Integrating Design, Engineering, and Analysis
 	</div>
 	<div class="col-sm-3"> </div>
 </div>
+{% endcomment %}
 
 {% comment %}
 <div class="row">
