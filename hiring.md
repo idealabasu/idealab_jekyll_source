@@ -18,7 +18,7 @@ Interested applicants should hold a Masters(MS) in Engineering or a related fiel
 * Robotics
 * Kinematics
 * Dynamics
-* Manufacturing
+* Manufacturing Theory, 3D printing, and Rapid Prototyping Techniques
 * Controls
 
 In terms of required skillsets, applicants should be proficient designers, coders (Python, C, C++),  and makers (rapid prototyping and machining).  Prior work should demonstrate proficiency in electromechanical system design, debugging, and experimental data collection approaches.  Applicants with expertise in the following areas are also desired:

@@ -4,6 +4,4 @@
 show_title: true
 ---
 
-Foldable Robotics will be taught in Fall 2020! More info here as it develops:
-
-<http://idealab.asu.edu/teaching/foldable-robotics-f-2020>
+Foldable Robotics will be taught in Fall 2020! More info [here](http://idealab.asu.edu/teaching/foldable-robotics-f-2020) as it develops

@@ -5,10 +5,14 @@ permalink: press/
 categories:
 - category: Origami-Inspired Robotics
   items:
+  - date: March 19, 2020
+    link: https://fullcircle.engineering.asu.edu/faculty/making-robots-accessible-to-all/
+    source: ASU Full Circle
+    title: Making Robots Accessible To All
   - date: November 7, 2018
     link: https://fullcircle.asu.edu/research/burrowing-sensor-robots-could-unearth-natures-subterranean-secrets/
     source: ASU Full Circle
-    title: "BURROWING SENSOR ROBOTS COULD UNEARTH NATURE’S SUBTERRANEAN SECRETS"
+    title: Burrowing Sensor Robots Could Unearth Nature’s Subterranean Secrets
   - date: July 11, 2018
     link: https://azpbs.org/catalyst/2018/07/catalyst-robotic-fish/
     source: Arizona PBS
