@@ -1,6 +1,6 @@
-{% capture tweet_text %}{{ item.title }}--{{ item.description }}{% endcapture %}
+{% capture tweet_text %}{{ item.title }} -- {% if item.description %}{{ item.description }}{% else %}{{ item.content | strip_html | strip_newlines }}{% endif %}{% endcapture %}
 
-<a href="https://twitter.com/intent/tweet?original_referer={{ site.url }}&text={{ tweet_text | url_param_escape }}&url={{site.url}}{{ site.base_path }}{{ item.url }}&via={{ site.twitter_id }}" target="_blank">
+<a href="https://twitter.com/intent/tweet?original_referer={{ site.url }}&text={{ tweet_text | url_param_escape | truncate: 100 }}&url={{site.url}}{{ site.base_path }}{{ item.url }}&via={{ site.twitter_id }}" target="_blank">
     <i class="fa fa-twitter-square" aria-hidden="true"></i><span class="sr-only">Twitter</span>
 </a>
 

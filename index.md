@@ -99,7 +99,7 @@ description: Integrating Design, Engineering, and Analysis
 		<div class="panel panel-default">
 			<div class="panel-heading">
         <h4 class="panel-title">
-				<a href="{{site.base_path}}{{ post.url }}">{{ post.title }}</a>
+				<a target="_blank" href="{{site.base_path}}{{ post.url }}">{{ post.title }}</a>
         </h4>
 			</div>
 			<div class="panel-body">
