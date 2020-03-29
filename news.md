@@ -11,7 +11,7 @@ permalink: /news/
 
   {% for post in site.posts %}
 <div class="row">
-    <div class="col-xs-6 col-xs-offset-2">
+    <div class="col-md-6 col-md-offset-2 col-xs-10 col-xs-offset-0">
     <ul>
     <li>
       <a target="_blank" href="{{site.base_path}}{{ post.url }}">{{ post.title }}</a><br>
@@ -26,6 +26,6 @@ permalink: /news/
      </li>
      </ul>
      </div>
-    <div class="col-xs-2">{% assign item = post %}{% include reshare.html %}</div>
+    <div class="col-md-2 col-xs-2">{% assign item = post %}{% include reshare.html %}</div>
 </div>
   {% endfor %}
