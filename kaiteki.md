@@ -73,3 +73,8 @@ We propose a wearable hybrid robotic system that assists, enhances, and augments
     </div>
   </div>
 </div>
+
+
+<div class="text-center">
+Funding Provided by <img alt="The Kaiteki Institute" src="{{ sites.base_path }}/assets/images/kaiteki_logo.png">
+<div>
