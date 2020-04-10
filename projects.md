@@ -37,3 +37,8 @@ We are seeking to develop next-generation soft robots from stimuli-responsive ma
 ## Other Projects
 {% assign key = 'misc' %}
 {% include research-projects.html %}
+
+## Archived Projects
+{% assign key = 'archived' %}
+{% include research-projects.html %}
+
