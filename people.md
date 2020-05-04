@@ -38,6 +38,7 @@ Dr. Aukes' current research includes origami-inspired design techniques, foldabl
       Teaching
     </h3>
     <ul>
+      <li>Fall 2019: EGR304</li>
       <li>Spring 2019: EGR314, EGR494, EGR598</li>
       <li>Fall 2018: EGR304, ASU101</li>
       <li>Spring 2018: EGR598</li>
