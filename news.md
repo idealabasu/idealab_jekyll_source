@@ -6,26 +6,26 @@ permalink: /news/
 
 
 <div class="row">
-    <div class="col-xs-6 col-xs-offset-2"><h2>Latest News</h2></div>
+<div class="col-xs-6 col-xs-offset-2"><h2>Latest News</h2></div>
 </div>
 
-  {% for post in site.posts %}
+{% for post in site.posts %}
 <div class="row">
-    <div class="col-md-6 col-md-offset-2 col-xs-10 col-xs-offset-0">
-    <ul>
-    <li>
-      <a target="_blank" href="{{site.base_path}}{{ post.url }}">{{ post.title }}</a><br>
-      <em>{{ post.date | date: '%B %d, %Y' }}</em>
-      <p>
-      {% if post.description %}
-        {{ post.description }}
-      {% else %}
-        {{ post.content | strip_html | strip_newlines | truncate: 100 }}
-      {% endif %}
-      </p>
-     </li>
-     </ul>
-     </div>
-    <div class="col-md-2 col-xs-2">{% assign item = post %}{% include reshare.html %}</div>
+<div class="col-md-6 col-md-offset-2 col-xs-10 col-xs-offset-0">
+<ul>
+<li>
+<a target="_blank" href="{{site.base_path}}{{ post.url }}">{{ post.title }}</a><br>
+<em>{{ post.date | date: '%B %d, %Y' }}</em>
+<p>
+{% if post.description %}
+{{ post.description }}
+{% else %}
+{{ post.content | strip_html | strip_newlines | truncate: 100 }}
+{% endif %}
+</p>
+</li>
+</ul>
 </div>
-  {% endfor %}
+<div class="col-md-2 col-xs-2">{% assign item = post %}{% include reshare.html %}</div>
+</div>
+{% endfor %}

@@ -49,10 +49,10 @@ defaults:
 #      show_title: true
 
 
-kramdown:
-  input: GFM
-  auto_ids: true
-highlighter: rouge
+#kramdown:
+#  input: GFM
+#  auto_ids: true
+#highlighter: rouge
  
 twitter_id: IDEAlab
 
@@ -61,12 +61,12 @@ menu:
     links: 
     - name: Research Projects & Platforms
       link: projects
-    - name: Publications
-      link: publications
     - name: Posters
       link: posters
     - name: Kaiteki Project
       link: kaiteki
+  - name: Publications
+    link: publications
   - name: Videos
     link: videos
   - name: Lab Info
@@ -81,8 +81,6 @@ menu:
       link: equipment
     - name: Press
       link: press
-    - name: Lab News
-      link: news
     - name: Research Opportunities
       link: research-opportunities
     - name: Hiring
@@ -91,6 +89,8 @@ menu:
       link: conferences
     - name: Download
       link: download
+  - name: Lab News
+    link: news
   - name: Teaching
     link: teaching
 
@@ -126,9 +126,22 @@ scholar:
   query: "@*"
 
 #gems: [jekyll-paginate]
-plugins: [jekyll-paginate, jekyll/scholar]
+plugins: 
+#  - jekyll-paginate
+  - jekyll/scholar
+  - jekyll-include-cache
+  - jekyll-pandoc
+
 
 form_redirect: /submitted
 permalink: ordinal
-markdown: kramdown
+markdown: Pandoc
 show_drafts: false
+
+pandoc:
+  extensions:
+#    - normalize
+#    - smart
+    - mathjax
+    - csl: assets/ieee.csl
+    - bibliography: assets/bibliographies/mypapers.bib
