@@ -94,31 +94,31 @@ description: Integrating Design, Engineering, and Analysis
 
 {% assign ii = 0 %}
 <div class="row">
-	{% for post in site.posts limit:7 %}
-	<div class="col-sm-3">
-		<div class="panel panel-default">
-			<div class="panel-heading">
-        <h4 class="panel-title">
-				<a target="_blank" href="{{site.base_path}}{{ post.url }}">{{ post.title }}</a>
-        </h4>
-			</div>
-			<div class="panel-body">
-				<p><em>{{ post.date | date: '%B %d, %Y' }}</em></p>
-				{% if post.description %}<p>{{ post.description }}</p>{% else %}<p>{{ post.excerpt }}</p>{% endif %}
-				{% assign item = post %} {% include reshare.html %}
-			</div>
-		</div>
-	</div>
-	{% assign ii = ii | plus: 1 %}
-	{% if ii == 4 %}{% assign ii = 0 %}
+{% for post in site.posts limit:7 %}
+<div class="col-sm-3">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title">
+<a target="_blank" href="{{site.base_path}}{{ post.url }}">{{ post.title }}</a>
+</h4>
+</div>
+<div class="panel-body">
+<p><em>{{ post.date | date: '%B %d, %Y' }}</em></p>
+{% if post.description %}<p>{{ post.description }}</p>{% else %}<p>{{ post.excerpt }}</p>{% endif %}
+{% assign item = post %} {% include reshare.html %}
+</div>
+</div>
+</div>
+{% assign ii = ii | plus: 1 %}
+{% if ii == 4 %}{% assign ii = 0 %}
 </div>
 <div class="row">
-	{% endif %}
+{% endif %}
 
-	{% endfor %}
-	<div class="col-sm-3">
-		<a href="{{site.base_path}}/news" class="btn btn-primary btn-lg active" role="button">More News...</a>
-	</div>
+{% endfor %}
+<div class="col-sm-3">
+<a href="{{site.base_path}}/news" class="btn btn-primary btn-lg active" role="button">More News...</a>
+</div>
 </div>
 
 <!--###############################################################-->

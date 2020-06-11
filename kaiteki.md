@@ -21,57 +21,56 @@ We propose a wearable hybrid robotic system that assists, enhances, and augments
 
 
 <div class="row">
-  <div class="col-lg-1">
-  </div>
-  <div class="col-lg-2">
-    <div class="thumbnail">
-    <img class="img-responsive" src="{{site.base_path}}/assets/images/kaiteki_headshots/dan.jpg">
-    <h3>Dan Aukes</h3>
-    <p>Assistant Professor<br>Ira A. Fulton Schools of Engineering</p>
-    <p>
-    </p>
-    </div>
-  </div>
-  <div class="col-lg-2">
-    <div class="thumbnail">
-    <img class="img-responsive" src="{{site.base_path}}/assets/images/kaiteki_headshots/heni.jpg">
-    <h3>Heni Ben Amor</h3>
-    <p>Assistant Professor<br>Ira A. Fulton Schools of Engineering</p>
-    <p>
-    </p>
-    </div>
-  </div>
-  <div class="col-lg-2">
-    <div class="thumbnail">
-    <img class="img-responsive" src="{{site.base_path}}/assets/images/kaiteki_headshots/hyunglae.jpg">
-    <h3>Hyunglae Lee</h3>
-    <p>Assistant Professor<br>Ira A. Fulton Schools of Engineering</p>
-    <p>
-    </p>
-    </div>
-  </div>
-  <div class="col-lg-2">
-    <div class="thumbnail">
-    <img class="img-responsive" src="{{site.base_path}}/assets/images/kaiteki_headshots/tom.jpg">
-    <h3>Tom Sugar</h3>
-    <p>Professor<br>Ira A. Fulton Schools of Engineering</p>
-    <p>
-    </p>
-    </div>
-  </div>
-<!--
+<div class="col-sm-4 col-md-2 col-md-offset-1">
+<div class="thumbnail">
+<img class="img-responsive" src="{{site.base_path}}/assets/images/kaiteki_headshots/dan.jpg">
+<h3>Dan Aukes</h3>
+<p>Assistant Professor<br>Ira A. Fulton Schools of Engineering</p>
+<p>
+</p>
 </div>
-<div class="row">
--->
-  <div class="col-lg-2">
-    <div class="thumbnail">
-    <img class="img-responsive" src="{{site.base_path}}/assets/images/kaiteki_headshots/wenlong.jpg">
-    <h3>Wenlong Zhang</h3>
-    <p>Assistant Professor<br>Ira A. Fulton Schools of Engineering</p>
-    <p>
-    </p>
-    </div>
-  </div>
+</div>
+
+<div class="col-sm-4 col-md-2">
+<div class="thumbnail">
+<img class="img-responsive" src="{{site.base_path}}/assets/images/kaiteki_headshots/heni.jpg">
+<h3>Heni Ben Amor</h3>
+<p>Assistant Professor<br>Ira A. Fulton Schools of Engineering</p>
+<p>
+</p>
+</div>
+</div>
+
+<div class="col-sm-4 col-md-2">
+<div class="thumbnail">
+<img class="img-responsive" src="{{site.base_path}}/assets/images/kaiteki_headshots/hyunglae.jpg">
+<h3>Hyunglae Lee</h3>
+<p>Assistant Professor<br>Ira A. Fulton Schools of Engineering</p>
+<p>
+</p>
+</div>
+</div>
+
+<div class="col-sm-4 col-sm-offset-2 col-md-2 col-md-offset-0">
+<div class="thumbnail">
+<img class="img-responsive" src="{{site.base_path}}/assets/images/kaiteki_headshots/tom.jpg">
+<h3>Tom Sugar</h3>
+<p>Professor<br>Ira A. Fulton Schools of Engineering</p>
+<p>
+</p>
+</div>
+</div>
+
+<div class="col-sm-4 col-md-2">
+<div class="thumbnail">
+<img class="img-responsive" src="{{site.base_path}}/assets/images/kaiteki_headshots/wenlong.jpg">
+<h3>Wenlong Zhang</h3>
+<p>Assistant Professor<br>Ira A. Fulton Schools of Engineering</p>
+<p>
+</p>
+</div>
+</div>
+
 </div>
 
 

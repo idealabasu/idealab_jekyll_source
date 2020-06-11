@@ -47,11 +47,11 @@ The ***Manufacturing Innovation Hub*** at ASU provides students with ample room 
 {% assign ii = 0 %}
 <div class="row">
 {% for image in page.images %}
-  <div class="col-sm-3">
-    <div class="thumbnail">
-      <img class="img-responsive" src="{{site.base_path}}{{image}}">
-    </div>
-  </div>
+<div class="col-sm-3">
+<div class="thumbnail">
+<img class="img-responsive" src="{{site.base_path}}{{image}}">
+</div>
+</div>
 {% assign ii = ii | plus: 1 %}
 {% if ii == 4 %}
 {% assign ii = 0 %}
