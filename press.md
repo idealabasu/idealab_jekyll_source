@@ -106,6 +106,11 @@ categories:
 - category: Misc
   items:
 
+  - date: Oct 12, 2020
+    link: https://fullcircle.asu.edu/students/more-program-funds-research-for-masters-students/
+    source: ASU Full Circle
+    title: MORE program funds research for master’s students
+
   - date: May 7, 2017
     link: https://ktar.com/story/1562617/arizona-state-university-makes-top-10-alumni-working-silicon-valley-tech-industry/
     source: KTAR
