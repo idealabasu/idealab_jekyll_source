@@ -12,14 +12,14 @@ Please send all inquiries to <danaukes@asu.edu>
 <h3>Office Location</h3>
 <p>
 Technology Center, Room 152<br>
-6075 S. Innovation Way West<br>
+6075 Innovation Way West<br>
 Mesa, AZ 85212<br>
 Phone: 480-727-1894
 </p>
 <h3>Lab Location</h3>
 <p>
 Technology Center, Room 180<br>
-6075 S. Innovation Way West<br>
+6075 Innovation Way West<br>
 Mesa, AZ 85212<br>
 Phone: 480-727-1573
 </p>
