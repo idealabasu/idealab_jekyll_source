@@ -12,6 +12,7 @@ The focus of this class is to teach the engineering of foldable robotics to grad
 
 ## Embedded Systems I & II
 
+* [EGR 304: Embedded Systems I (Fall 2020)](embedded-systems-I-f-2020)
 * [EGR 304: Embedded Systems I (Fall 2019)](embedded-systems-I-f-2019)
 * [EGR 314: Embedded Systems II (Spring 2018)](embedded-systems-II-s-2019)
 * [EGR 304: Embedded Systems I (Fall 2018)](embedded-systems-I-f-2018)
