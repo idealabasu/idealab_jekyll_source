@@ -9,7 +9,7 @@ image:
 ## Motivation
 <div class="thumbnail pull-right">
 <img class="img-responsive" width="300px" src="{{site.base_path}}/assets/images/research/exo-sites.png">
-<p>Potential sites around the human body</p>
+<p><em>Potential sites around the human body</em></p>
 </div>
 
 Millions of elderly around the world will be diagnosed with a mobility impairment due to stroke, Parkinson’s disease, or a weak musculoskeletal system. There are over 50 million people in the US living with physical disabilities compromising mobility.  We take many daily activities for granted -- walking with a spouse or friend, playing with children, shopping in a store, using a bathroom on time and independently -- until we have reduced mobility. Most importantly, reduced mobility leads to degenerative fitness and health problems. This proposal will focus on the challenges of improving mobility, due to its potential for high societal impact.  
@@ -17,7 +17,7 @@ Millions of elderly around the world will be diagnosed with a mobility impairmen
 ## Concept
 We propose a wearable hybrid robotic system that assists, enhances, and augments a person in their daily activities around the home and in the workplace in order to improve quality of life, increase productivity, and prolong independent living. Our approach focuses on three key research activities in order to achieve a wearable, hybrid system that works with its user to provide (a) alternate load pathways, (b) reconfigure itself for different activities, and (c) learn alongside its wearer to improve usability.  First, we propose a biomechanics-based investigation of routine activities often seen in the workplace and in daily living to identify key opportunities for intervention. Second, we propose a low-cost and highly customizable design approach in which arrays of passive devices may be engaged or disengaged to provide dynamic and low-power support to the user as they transition through various activities. Finally, we propose to pair this wearable device with a machine learning approach called “mutual adaptation” in order to learn about -- and reciprocally guide and train -- the robotic device for more effective use and symbiosis with the wearer.
 
-## Researchers
+## Facutly Leads
 
 
 <div class="row">
@@ -73,7 +73,41 @@ We propose a wearable hybrid robotic system that assists, enhances, and augments
 
 </div>
 
+## Student Researchers
 
-<div class="text-center">
-Funding Provided by <img alt="The Kaiteki Institute" src="{{ sites.base_path }}/assets/images/kaiteki_logo.png">
-<div>
+
+* **Masood Nevisipour, Ph.D.**, _Postdoctoral Research Assistant_
+* **Geoffrey Clark**, _PhD Researcher_
+* **Michael Drolet**, _PhD Researcher_
+* **Dongting Li**, _PhD Researcher_
+* **Xiao Liu**, _PhD Researcher_
+* **Chien-Wen Pan**, _PhD Researcher_
+* **Emiliano Quinones Yumbla**, _PhD Researcher_
+* **Anson Kwan**, _Undergraduate Researcher_
+
+
+
+
+## Resources
+
+### Datasets
+_Coming Soon_
+
+### Bibliography
+_Coming Soon_
+
+### Talks and Presentations
+_Coming Soon_
+
+### Software and Librarie3
+_Coming Soon_
+
+<div class="row">
+<div class="col-md-4">
+</div>
+<div class="col-md-4 text-center">
+Funding Provided by <img class="img-responsive center-block" alt="The Global Kaiteki Center at ASU" src="{{ sites.base_path }}/assets/images/TGKC.png">
+</div>
+<div class="col-md-4">
+</div>
+</div>
