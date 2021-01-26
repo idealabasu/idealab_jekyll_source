@@ -103,13 +103,33 @@ categories:
     source: New Scientist
     title: Robotic turtles can be used to detect landmines in the desert
 
-- category: Misc
+- category: General
   items:
+
+  - date: Jan 25, 2021
+    link: https://fullcircle.asu.edu/research/behaving-like-animals/
+    source: ASU Full Circle
+    title: Behaving like animals
+
+  - date: Jan 22, 2021
+    link: https://fullcircle.asu.edu/external/asu-on-the-cutting-edge-of-robotics/
+    source: ASU Full Circle
+    title: ASU on the cutting edge of robotics
 
   - date: Oct 12, 2020
     link: https://fullcircle.asu.edu/students/more-program-funds-research-for-masters-students/
     source: ASU Full Circle
     title: MORE program funds research for master’s students
+
+  - date: May 14, 2020
+    link: https://fullcircle.asu.edu/fulton-schools/12-asu-engineering-faculty-earn-prestigious-nsf-career-award/
+    source: ASU Full Circle
+    title: 13 ASU engineering faculty earn the prestigious NSF CAREER Award   
+    
+  - date: March 19, 2020
+    link: https://fullcircle.asu.edu/faculty/making-robots-accessible-to-all/
+    source: ASU Full Circle
+    title: Making robots accessible to all
 
   - date: May 7, 2017
     link: https://ktar.com/story/1562617/arizona-state-university-makes-top-10-alumni-working-silicon-valley-tech-industry/
