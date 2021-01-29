@@ -2,16 +2,22 @@
 title: Videos
 layout: page
 videos:
+  - link: https://www.youtube.com/embed/PeTTJ_vaDLc
+    caption: Heterogeneous Hydrogel Structures with Spatiotemporal Reconfigurability using Addressable and Tunable Voxels
   - link: https://www.youtube.com/embed/ssywMyY6J0M
     caption: IROS 2020 Presentation Video
   - link: https://www.youtube.com/embed/6HyJmYnO4vs
     caption: Dynamic Modeling of a Hydrogel-based Continuum Robotic Arm with Experimental Validation
   - link: https://player.vimeo.com/video/216728625
     caption: C-Turtle Robot
-  - link: http://player.pbs.org/widget/partnerplayer/2365955827/
-    caption: "Nova: The Origami Code"
-  - link: https://player.vimeo.com/video/204797330
-    caption: Night of the Open Door 2017
+#  - link: http://player.pbs.org/widget/partnerplayer/2365955827/
+#    caption: "Nova: The Origami Code"
+#  - link: https://player.vimeo.com/video/204797330
+#    caption: Night of the Open Door 2017
+  - link: https://www.youtube.com/embed/mRGAll4gkts
+    caption: Increasing the Life Span of Foldable Manipulators With Fabric
+  - link: https://www.youtube.com/embed/Nk9YDd6Ir7c
+    caption: An Integrated Design and Simulation Environment for Rapid Prototyping of Laminate Robotics Mechanisms
   - link: https://www.youtube.com/embed/m9Aa8BevJwg
     caption:  The Flying Monkey
   - link: https://www.youtube.com/embed/jZbGNv95LSY
