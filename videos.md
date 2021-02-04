@@ -28,8 +28,11 @@ videos:
     caption:  The Stanford/SRI/Meka Underactuated Hand
 ---
 
-<div class="row">
 {%for video in page.videos %}
+{% capture ii %}{{ forloop.index0 | modulo: 2 }}{% endcapture %}
+{% if ii == '0' %}
+<div class="row">
+{% endif %}
 <div class="col-sm-6">
 <div class="thumbnail">
 <div class="embed-responsive embed-responsive-16by9">
@@ -40,5 +43,10 @@ videos:
 </div>
 </div>
 </div>
-{%endfor%}
+{% if ii == '1' %}
 </div>
+{% endif %}
+{%endfor%}
+{% if ii != '1' %}
+</div>
+{% endif %}
