@@ -2,6 +2,10 @@
 title: Videos
 layout: page
 videos:
+  - link: https://www.youtube.com/embed/m04okzedFf8
+    caption: Voxel-Based CAD Framework for Planning Multi-Step Rapid Fabrication Processes - IDETC-CIE 2019
+  - link: https://www.youtube.com/embed/eZLoIunXsgE
+    caption: Automated Generation of Multi-Material Structures Using the VoxelFuse Framework - SCF20
   - link: https://www.youtube.com/embed/PeTTJ_vaDLc
     caption: Heterogeneous Hydrogel Structures with Spatiotemporal Reconfigurability using Addressable and Tunable Voxels
   - link: https://www.youtube.com/embed/ssywMyY6J0M
