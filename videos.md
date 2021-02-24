@@ -14,10 +14,6 @@ videos:
     caption: Dynamic Modeling of a Hydrogel-based Continuum Robotic Arm with Experimental Validation
   - link: https://player.vimeo.com/video/216728625
     caption: C-Turtle Robot
-#  - link: http://player.pbs.org/widget/partnerplayer/2365955827/
-#    caption: "Nova: The Origami Code"
-#  - link: https://player.vimeo.com/video/204797330
-#    caption: Night of the Open Door 2017
   - link: https://www.youtube.com/embed/mRGAll4gkts
     caption: Increasing the Life Span of Foldable Manipulators With Fabric
   - link: https://www.youtube.com/embed/Nk9YDd6Ir7c
@@ -31,6 +27,12 @@ videos:
   - link: https://www.youtube.com/embed/sDRwwuim6B4
     caption:  The Stanford/SRI/Meka Underactuated Hand
 ---
+<!--
+#  - link: http://player.pbs.org/widget/partnerplayer/2365955827/
+#    caption: "Nova: The Origami Code"
+#  - link: https://player.vimeo.com/video/204797330
+#    caption: Night of the Open Door 2017
+-->
 
 {%for video in page.videos %}
 {% capture ii %}{{ forloop.index0 | modulo: 2 }}{% endcapture %}
