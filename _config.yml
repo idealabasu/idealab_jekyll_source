@@ -93,6 +93,9 @@ menu:
     link: news
   - name: Teaching
     link: teaching
+  - name: Slack(internal)
+    link: https://idealab-asu.slack.com/
+    external: true
 
 tags: a,b,c,d
 
