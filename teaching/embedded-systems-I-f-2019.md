@@ -4,4 +4,3 @@ layout: class-project
 ---
 
 # Embedded Systems I
-
