@@ -85,21 +85,25 @@ We propose a wearable hybrid robotic system that assists, enhances, and augments
 * **Emiliano Quinones Yumbla**, _PhD Researcher_
 * **Anson Kwan**, _Undergraduate Researcher_
 
-
-
-
 ## Resources
+
+### Bibliography
+
+* G. Clark, J. Campbell, M. Drolet, H. Ben Amor, “Learning Predictive Models for Ergonomic Control of Prosthetic Devices”, International Conference on Robot Learning (CoRL 2020) 
+* G. Clark, H. Ben Amor, “Learning Ergonomic Control in Human-RobotSymbiotic Walking”, Transactions on Robotics (TRO) - In Review
+* G. Clark, Xiao Liu, H. Ben Amor, “An Environment-aware Predictive ModelingFramework for Human-Robot Symbiotic Walking”, RSS 2021 - In Review
+* M. Nevisipour, T. Sugar, H. Lee, “Trunk movement control is critical during obstacle avoidance with a cognitive task,” Gait and Posture - In Review
+* M. Nevisipour, T. Sugar,  and H. Lee, “Trunk Control in Young Healthy Adults Requires Large Adaptations During and After Obstacle Avoidance with a Cognitive Task,” The 45th Annual Meeting of the American Society of Biomechanics (ASB 2021), August 2021, Atlanta (Virtual)
+
+### Talks and Presentations
+
+* G. Clark, J. Campbell, M. Drolet, H. Ben Amor, “Learning Predictive Models for Ergonomic Control of Prosthetic Devices”, International Conference on Robot Learning (CoRL 2020) 
+* M. Nevisipour, T. Sugar,  and H. Lee, “Trunk Control in Young Healthy Adults Requires Large Adaptations During and After Obstacle Avoidance with a Cognitive Task,” The 45th Annual Meeting of the American Society of Biomechanics (ASB 2021), August 2021, Atlanta (Virtual)
 
 ### Datasets
 _Coming Soon_
 
-### Bibliography
-_Coming Soon_
-
-### Talks and Presentations
-_Coming Soon_
-
-### Software and Librarie3
+### Software and Libraries
 _Coming Soon_
 
 <div class="row">
