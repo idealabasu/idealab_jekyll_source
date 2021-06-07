@@ -54,6 +54,7 @@ Teaching
 Ph.D. Students
 </h2>
 {% for student in site.data.students %}
+{% unless student.former %}
 {% if student.PhD %}
 <div class="thumbnail">
 <div class="row">
@@ -100,6 +101,7 @@ Research Interests
 </div>
 </div>
 {% endif %}
+{% endunless %}
 {% endfor %}
 
 ## Masters
