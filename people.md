@@ -38,6 +38,8 @@ Dr. Aukes' research topics include design, manufacturing, mechatronics, kinemati
 Teaching
 </h3>
 <ul>
+<li>Spring 2021: EGR314, EGR557</li>
+<li>Fall 2020: EGR304</li>
 <li>Fall 2019: EGR304</li>
 <li>Spring 2019: EGR314, EGR494, EGR598</li>
 <li>Fall 2018: EGR304, ASU101</li>
