@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js" xmlns="http://www.w3.org/1999/xhtml">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ .Site.Params.description }}">
+    <meta name="author" content="{{ .Site.Params.author }}">
+
+   {{ partial "head" . }}
+   {{ partial "head_custom" . }}
+    
+  </head>
+  <body data-spy="scroll" data-target=".sidebar-nav">
+  <div id="page">
+    {{ partial "asu_header" . }}
+    {{ partial "navigation_outer.html" . }}
+    <span id="skippy" class="sr-only"></span>
+  </div>
+<div class="container">
+    {{ block "main" . }}
+    {{ end }}
+</div>
+
+
+
+   {{ partial "footer.html" . }}
+   {{ partial "foot.html" . }}
+   {{ partial "foot_custom.html" . }}
+
+  </body>
+</html>

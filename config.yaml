@@ -1,0 +1,15 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "My New Hugo Site"
+theme:
+ - hugo-cite
+params:
+  organization_name: IDEAlab
+  home_path: ""
+  author: Daniel M. Aukes
+  description: IDEAlab Homepage
+  email: danaukes@asu.edu
+  
+ignorefiles:
+  - ignore/*
+    

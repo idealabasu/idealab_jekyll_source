@@ -1,0 +1,20 @@
+{{ define "title" }} Section Title {{ end }}
+
+{{ define "main" }}
+  <main>  
+
+  <h1>{{ .Title }}</h1>
+
+  {{ .Content }}
+
+  <ul class="contents">
+  {{ range .Paginator.Pages }}
+      <li>{{.Title}}
+          <div>
+            {{ partial "summary.html" . }}
+          </div>
+      </li>
+  {{ end }}
+  </ul>
+  </main>
+{{ end }}

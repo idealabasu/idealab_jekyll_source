@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+{{ block "head" . }}
+{{ block "head_custom" . }}
+</head>
+<body data-spy="scroll" data-target=".sidebar-nav">
+<div id="page">
+  {{ block "asu_header" . }}
+  {{ block "nav" . }}
+  <span id="skippy" class="sr-only"></span>
+  <!-- <div id="ws-navbar-collapse-1" class="collapse navbar-collapse"></div> -->
+</div>
+
+<div id="main-wrapper" class="clearfix">
+  <div id="main" class="clearfix">
+    <div id="content" class="site-content">
+      {{ block "main" . }}
+    </div>
+  </div>
+</div>
+{{ block "footer" . }}
+{{ block "foot" . }}
+{{ block "foot_custom" . }}
+
+</body>
+</html>
