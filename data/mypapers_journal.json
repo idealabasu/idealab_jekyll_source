@@ -1,0 +1,952 @@
+[
+  {
+    "author": [
+      {
+        "family": "Jiang",
+        "given": "Yuhao"
+      },
+      {
+        "family": "Sharifzadeh",
+        "given": "Mohammad"
+      },
+      {
+        "family": "Aukes",
+        "given": "Daniel M."
+      }
+    ],
+    "container-title": "IEEE Robotics and Automation Letters (submitted)",
+    "id": "Jiang2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">Shape Change Propagation Through Soft Curved Materials for Dynamically-Tuned Paddling Robots</span>",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Doroudchi",
+        "given": "Azadeh"
+      },
+      {
+        "family": "Khodambashi",
+        "given": "Roozbeh"
+      },
+      {
+        "family": "Sharifzadeh",
+        "given": "Mohammad"
+      },
+      {
+        "family": "Li",
+        "given": "Dongting"
+      },
+      {
+        "family": "Berman",
+        "given": "Spring"
+      },
+      {
+        "family": "Aukes",
+        "given": "Daniel M."
+      }
+    ],
+    "container-title": "IEEE Robotics and Automation Letters (submitted)",
+    "id": "Doroudchi2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">Tracking Control of a Miniature 2-DOF Manipulator withHydrogel Actuators</span>",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Sharifzadeh",
+        "given": "Mohammad"
+      },
+      {
+        "family": "Jiang",
+        "given": "Yuhao"
+      },
+      {
+        "family": "Aukes",
+        "given": "Daniel M."
+      }
+    ],
+    "container-title": "IEEE Robotics and Automation Letters (submitted)",
+    "id": "Sharifzadeh2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">Reconfigurable Curved Beams for Selectable Swimming Gaits in an Underwater Robot</span>",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Sharifzadeh",
+        "given": "Mohammad"
+      },
+      {
+        "family": "Jiang",
+        "given": "Yuhao"
+      },
+      {
+        "family": "Lafmejani",
+        "given": "Amir Salimi"
+      },
+      {
+        "family": "Nichols",
+        "given": "Kevin"
+      },
+      {
+        "family": "Aukes",
+        "given": "Daniel M."
+      },
+      {
+        "family": "Jiang",
+        "given": "Yuhao"
+      },
+      {
+        "family": "Lafmejani",
+        "given": "Amir Salimi"
+      },
+      {
+        "family": "Nichols",
+        "given": "Kevin"
+      },
+      {
+        "family": "Aukes",
+        "given": "Daniel M."
+      }
+    ],
+    "container-title": "(submitted)",
+    "id": "Sharifzadeh2019c",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">Maneuverable Swimming in Extreme Environments with a Fish-Inspired Robot</span>",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Lo",
+        "given": "Chiao-Yueh"
+      },
+      {
+        "family": "Zhao",
+        "given": "Yusen"
+      },
+      {
+        "family": "Kim",
+        "given": "Cheolgyu"
+      },
+      {
+        "family": "Alsaid",
+        "given": "Yousif"
+      },
+      {
+        "family": "Khodambashi",
+        "given": "Roozbeh"
+      },
+      {
+        "family": "Peet",
+        "given": "Matthew"
+      },
+      {
+        "family": "Fisher",
+        "given": "Rebecca"
+      },
+      {
+        "family": "Marvi",
+        "given": "Hamid"
+      },
+      {
+        "family": "Berman",
+        "given": "Spring"
+      },
+      {
+        "family": "Aukes",
+        "given": "Daniel"
+      },
+      {
+        "family": "He",
+        "given": "Ximin"
+      }
+    ],
+    "container-title": "Materials Today (in review)",
+    "id": "Lo2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">Highly Stretchable Self-Sensing Actuator Based on Conductive Photothermally-Responsive Hydrogel</span>",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Brauer",
+        "given": "Cole"
+      },
+      {
+        "family": "Aukes",
+        "given": "Daniel M."
+      }
+    ],
+    "container-title": "(in prep.)",
+    "id": "Brauer2020",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">Comparison Of Graded Material Transitions For Low-cost Robotics Applications</span>",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1109/TMECH.2020.3034659",
+    "ISSN": "1083-4435",
+    "URL": "https://ieeexplore.ieee.org/document/9244584/",
+    "author": [
+      {
+        "family": "Sharifzadeh",
+        "given": "Mohammad"
+      },
+      {
+        "family": "Aukes",
+        "given": "Daniel"
+      }
+    ],
+    "container-title": "IEEE/ASME Transactions on Mechatronics",
+    "id": "Sharifzadeh2019",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "1-1",
+    "title": "<span class=\"nocase\">Curvature-Induced Buckling for Flapping-Wing Vehicles</span>",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1088/0960-1317/25/8/085004",
+    "ISBN": "6173847892",
+    "ISSN": "0960-1317",
+    "URL": "http://stacks.iop.org/0960-1317/25/i=8/a=085004?key=crossref.00391e1cd2cd2f6adf9829fa2b4c0df1",
+    "abstract": "Origami-inspired manufacturing can produce complex structures and machines by folding two-dimensional composites into three-dimensional structures. This fabrication technique is potentially less expensive, faster, and easier to transport than more traditional machining methods, including 3-D printing. Self-f",
+    "author": [
+      {
+        "family": "Felton",
+        "given": "S. M."
+      },
+      {
+        "family": "Becker",
+        "given": "K. P."
+      },
+      {
+        "family": "Aukes",
+        "given": "D. M."
+      },
+      {
+        "family": "Wood",
+        "given": "R. J."
+      }
+    ],
+    "container-title": "Journal of Micromechanics and Microengineering",
+    "id": "Felton2015a",
+    "issue": "8",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          8
+        ]
+      ]
+    },
+    "keyword": "085004,25,available from stacks,in colour only in,iop,jmm,laminate mechanisms,mmedia,org,origami-inspired,s online supplementary data,self-assembly,self-folding,shape memory,some figures may appear,the online journal",
+    "page": "085004",
+    "publisher": "IOP Publishing",
+    "title": "<span class=\"nocase\">Self-folding with shape memory composites at the millimeter scale</span>",
+    "type": "article-journal",
+    "volume": "25"
+  },
+  {
+    "author": [
+      {
+        "family": "Khodambashi",
+        "given": "Roozbeh"
+      },
+      {
+        "family": "Fisher",
+        "given": "Rebecca E."
+      },
+      {
+        "family": "Marvi",
+        "given": "Hamid"
+      },
+      {
+        "family": "Peet",
+        "given": "Matthew M."
+      },
+      {
+        "family": "He",
+        "given": "Ximin"
+      },
+      {
+        "family": "Berman",
+        "given": "Spring"
+      },
+      {
+        "family": "Aukes",
+        "given": "Daniel M."
+      }
+    ],
+    "container-title": "Robosoft 2021 (in prep.)",
+    "id": "Khodambashi2020",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "title": "Soft Voxel Actuators",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "Dongting"
+      },
+      {
+        "family": "Aukes",
+        "given": "Daniel M."
+      }
+    ],
+    "container-title": "(in prep.)",
+    "id": "Li2020",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">Compliance Augmented Granular RFT model, A Case Study of Sand-Burrowing Robot with Soft Actuators</span>",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1177/0278364913518997",
+    "ISSN": "0278-3649",
+    "URL": "http://ijr.sagepub.com/cgi/doi/10.1177/0278364913518997 http://journals.sagepub.com/doi/10.1177/0278364913518997",
+    "author": [
+      {
+        "family": "Aukes",
+        "given": "Daniel McConnell"
+      },
+      {
+        "family": "Heyneman",
+        "given": "Barrett"
+      },
+      {
+        "family": "Ulmen",
+        "given": "John"
+      },
+      {
+        "family": "Stuart",
+        "given": "Hannah"
+      },
+      {
+        "family": "Cutkosky",
+        "given": "Mark R."
+      },
+      {
+        "family": "Kim",
+        "given": "Susan"
+      },
+      {
+        "family": "Garcia",
+        "given": "Pablo"
+      },
+      {
+        "family": "Edsinger",
+        "given": "Aaron"
+      }
+    ],
+    "container-title": "The International Journal of Robotics Research",
+    "id": "Aukes2014d",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          4
+        ]
+      ]
+    },
+    "keyword": "brakes,design and control,grasping,hand design,manipulation,mechanics,multifingered hands,under-actuated,underactuated robots",
+    "page": "721-735",
+    "title": "<span class=\"nocase\">Design and testing of a selectively compliant underactuated hand</span>",
+    "type": "article-journal",
+    "volume": "33"
+  },
+  {
+    "DOI": "10.1088/0964-1726/23/9/094006",
+    "ISSN": "0964-1726",
+    "URL": "http://stacks.iop.org/0964-1726/23/i=9/a=094006?key=crossref.0fb108701fd4c08b7503355f8ebe7b25",
+    "author": [
+      {
+        "family": "Tolley",
+        "given": "Michael T"
+      },
+      {
+        "family": "Felton",
+        "given": "Samuel M"
+      },
+      {
+        "family": "Miyashita",
+        "given": "Shuhei"
+      },
+      {
+        "family": "Aukes",
+        "given": "Daniel"
+      },
+      {
+        "family": "Rus",
+        "given": "Daniela"
+      },
+      {
+        "family": "Wood",
+        "given": "Robert J"
+      }
+    ],
+    "container-title": "Smart Materials and Structures",
+    "id": "Tolley2014",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          9
+        ]
+      ]
+    },
+    "page": "94006",
+    "title": "<span class=\"nocase\">Self-folding origami: shape memory composites activated by uniform heating</span>",
+    "type": "article-journal",
+    "volume": "23"
+  },
+  {
+    "author": [
+      {
+        "family": "Sharifzadeh",
+        "given": "Mohammad"
+      },
+      {
+        "family": "Jiang",
+        "given": "Yuhao"
+      },
+      {
+        "family": "Aukes",
+        "given": "Daniel M."
+      }
+    ],
+    "container-title": "ASME Journal of Mechanisms and Robotics (In Prep)",
+    "id": "Sharifzadeh2019a",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">Compensation of Material Deformation in Foldable Robots (A Case Study of Spherical Parallel Manipulators Fabricated via Laminate Processes)</span>",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Roy",
+        "given": "C"
+      },
+      {
+        "family": "Cummings",
+        "given": "S"
+      },
+      {
+        "family": "Cota Valenzuela",
+        "given": "B"
+      },
+      {
+        "family": "Cherry",
+        "given": "B"
+      },
+      {
+        "family": "Kang",
+        "given": "P"
+      },
+      {
+        "family": "Berman",
+        "given": "S"
+      },
+      {
+        "family": "Peet",
+        "given": "M"
+      },
+      {
+        "family": "Aukes",
+        "given": "D"
+      },
+      {
+        "family": "He",
+        "given": "X"
+      },
+      {
+        "family": "Marvi",
+        "given": "H"
+      },
+      {
+        "family": "Fisher",
+        "given": "RE"
+      }
+    ],
+    "container-title": "(in prep.)",
+    "id": "Roy2019",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">Analysis of the neuromuscular structure of octopus arms via contrast enhanced MRI.</span>",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1002/adma.202005906",
+    "ISSN": "0935-9648",
+    "URL": "https://onlinelibrary.wiley.com/doi/10.1002/adma.202005906",
+    "author": [
+      {
+        "family": "Khodambashi",
+        "given": "Roozbeh"
+      },
+      {
+        "family": "Alsaid",
+        "given": "Yousif"
+      },
+      {
+        "family": "Rico",
+        "given": "Rossana"
+      },
+      {
+        "family": "Marvi",
+        "given": "Hamid"
+      },
+      {
+        "family": "Peet",
+        "given": "Matthew M."
+      },
+      {
+        "family": "Fisher",
+        "given": "Rebecca E."
+      },
+      {
+        "family": "Berman",
+        "given": "Spring"
+      },
+      {
+        "family": "He",
+        "given": "Ximin"
+      },
+      {
+        "family": "Aukes",
+        "given": "Daniel M."
+      }
+    ],
+    "container-title": "Advanced Materials",
+    "id": "Khodambashi2019b",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          1
+        ]
+      ]
+    },
+    "page": "2005906",
+    "title": "<span class=\"nocase\">Heterogeneous Hydrogel Structures with Spatiotemporal Reconfigurability using Addressable and Tunable Voxels</span>",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Shuch",
+        "given": "Benjamin D"
+      },
+      {
+        "family": "Rogers",
+        "given": "Eric"
+      },
+      {
+        "family": "Shafa",
+        "given": "Taha"
+      },
+      {
+        "family": "Aukes",
+        "given": "Daniel M"
+      }
+    ],
+    "container-title": "(under revision)",
+    "id": "Shuch2019a",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "title": "A Two Dof Laminate Leg Walking Robot Platforms For Use In Research And The Classroom",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Xu",
+        "given": "Y."
+      },
+      {
+        "family": "Sun",
+        "given": "M."
+      },
+      {
+        "family": "Khodambashi",
+        "given": "R."
+      },
+      {
+        "family": "Wu",
+        "given": "A."
+      },
+      {
+        "family": "Berman",
+        "given": "S."
+      },
+      {
+        "family": "Peet",
+        "given": "M. M."
+      },
+      {
+        "family": "Fisher",
+        "given": "R. E."
+      },
+      {
+        "family": "Marvi",
+        "given": "H."
+      },
+      {
+        "family": "Aukes",
+        "given": "D."
+      },
+      {
+        "family": "He",
+        "given": "X."
+      }
+    ],
+    "container-title": "(in prep.)",
+    "id": "Xu2019",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">Temperature and strain dual responsive tactile hydrogel as soft robotic materials.</span>",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1088/0964-1726/23/9/094013",
+    "ISSN": "0964-1726",
+    "URL": "http://stacks.iop.org/0964-1726/23/i=9/a=094013?key=crossref.eabf1f6b53b24c7890e5eb1c0d94ab21",
+    "author": [
+      {
+        "family": "Aukes",
+        "given": "Daniel M"
+      },
+      {
+        "family": "Goldberg",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Cutkosky",
+        "given": "Mark R"
+      },
+      {
+        "family": "Wood",
+        "given": "Robert J"
+      }
+    ],
+    "container-title": "Smart Materials and Structures",
+    "id": "Aukes2014",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          9
+        ]
+      ]
+    },
+    "page": "094013",
+    "publisher": "IOP Publishing",
+    "title": "<span class=\"nocase\">An analytic framework for developing inherently-manufacturable pop-up laminate devices</span>",
+    "type": "article-journal",
+    "volume": "23"
+  },
+  {
+    "DOI": "10.1109/LRA.2020.2976328",
+    "ISSN": "2377-3766",
+    "URL": "https://ieeexplore.ieee.org/document/9013079/",
+    "author": [
+      {
+        "family": "Lafmejani",
+        "given": "Amir Salimi"
+      },
+      {
+        "family": "Doroudchi",
+        "given": "Azadeh"
+      },
+      {
+        "family": "Farivarnejad",
+        "given": "Hamed"
+      },
+      {
+        "family": "He",
+        "given": "Ximin"
+      },
+      {
+        "family": "Aukes",
+        "given": "Daniel"
+      },
+      {
+        "family": "Peet",
+        "given": "Matthew M."
+      },
+      {
+        "family": "Marvi",
+        "given": "Hamidreza"
+      },
+      {
+        "family": "Fisher",
+        "given": "Rebecca E"
+      },
+      {
+        "family": "Berman",
+        "given": "Spring"
+      }
+    ],
+    "container-title": "IEEE Robotics and Automation Letters",
+    "id": "Lafmejani2020",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          4
+        ]
+      ]
+    },
+    "page": "3460-3467",
+    "title": "<span class=\"nocase\">Kinematic Modeling and Trajectory Tracking Control of an Octopus-Inspired Hyper-Redundant Robot</span>",
+    "type": "article-journal",
+    "volume": "5"
+  },
+  {
+    "DOI": "10.1002/aisy.201900183",
+    "ISSN": "2640-4567",
+    "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/aisy.201900183",
+    "author": [
+      {
+        "family": "Huang",
+        "given": "Sichuan"
+      },
+      {
+        "family": "Tang",
+        "given": "Yong"
+      },
+      {
+        "family": "Bagheri",
+        "given": "Hosain"
+      },
+      {
+        "family": "Li",
+        "given": "Dongting"
+      },
+      {
+        "family": "Ardente",
+        "given": "Alexandria"
+      },
+      {
+        "family": "Aukes",
+        "given": "Daniel"
+      },
+      {
+        "family": "Marvi",
+        "given": "Hamidreza"
+      },
+      {
+        "family": "Tao",
+        "given": "Junliang (Julian)"
+      }
+    ],
+    "container-title": "Advanced Intelligent Systems",
+    "id": "Huang2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2
+        ]
+      ]
+    },
+    "page": "1900183",
+    "title": "<span class=\"nocase\">Effects of Friction Anisotropy on Upward Burrowing Behavior of Soft Robots in Granular Materials</span>",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1177/1478077120948204",
+    "ISSN": "1478-0771",
+    "URL": "http://journals.sagepub.com/doi/10.1177/1478077120948204",
+    "abstract": "The Age of the Fourth Industrial Revolution promises the integration and synergy of disciplines to arrive at meaningful and comprehensive solutions. As computation and fabrication methods become pervasive, they present platforms for communication. Value exists in diverse disciplines bringing their approach to a common conversation, proposing demands, and potentials in response to entrenched challenges. Robotics has expanded recently as computational analysis, and digital fabrication methods are more accurate and reliable. Advances in functional microelectromechanical components have resulted in the design of new robots presenting alternatives to traditional ambulatory robots. However, most examples are the result of intense computational analysis necessitating engineering expertise and specialized manufacturing. Accessible fabrication methods like laminate techniques propose alternatives to new robot morphologies. However, most examples remain overly actuated without harnessing the full potential of folds for locomotion. Our research explores the connection between origami structures and kinematics for the generation of an ambulatory robot presenting efficient, controlled, and graceful gait with minimal use of components. Our robot ΓÇÿCreaseΓÇÖ achieves complex gait by harnessing kinematic origami chains rather than relying on motors. Minimal actuation activates the folds to produce variations in walk and direction. Integrating a physical iterative process with computational analysis, several prototypes were generated at different scales, including untethered ones with sensing and steering that could map their environment. Furthering the dialogue between disciplines, this research contributes not only to the field of robotics but also architectural design, where efficiency, adjustability, and ease of fabrication are critical in designing kinetic elements.",
+    "author": [
+      {
+        "family": "Mesa",
+        "given": "Olga"
+      },
+      {
+        "family": "Mhatre",
+        "given": "Saurabh"
+      },
+      {
+        "family": "Aukes",
+        "given": "Dan"
+      }
+    ],
+    "container-title": "International Journal of Architectural Computing",
+    "id": "Mesa",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          12
+        ]
+      ]
+    },
+    "page": "385-403",
+    "title": "<span class=\"nocase\">CREASE: Synchronous gait by minimizing actuation through folded geometry</span>",
+    "type": "article-journal",
+    "volume": "18"
+  },
+  {
+    "DOI": "10.1002/aisy.201900154",
+    "ISSN": "2640-4567",
+    "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/aisy.201900154",
+    "author": [
+      {
+        "family": "Bagheri",
+        "given": "Hosain"
+      },
+      {
+        "family": "Hu",
+        "given": "Anna"
+      },
+      {
+        "family": "Cummings",
+        "given": "Sheldon"
+      },
+      {
+        "family": "Roy",
+        "given": "Cayla"
+      },
+      {
+        "family": "Casleton",
+        "given": "Rachel"
+      },
+      {
+        "family": "Wan",
+        "given": "Ashley"
+      },
+      {
+        "family": "Erjavic",
+        "given": "Nicole"
+      },
+      {
+        "family": "Berman",
+        "given": "Spring"
+      },
+      {
+        "family": "Peet",
+        "given": "Matthew M."
+      },
+      {
+        "family": "Aukes",
+        "given": "Daniel M."
+      },
+      {
+        "family": "He",
+        "given": "Ximin"
+      },
+      {
+        "family": "Pratt",
+        "given": "Stephen C."
+      },
+      {
+        "family": "Fisher",
+        "given": "Rebecca E."
+      },
+      {
+        "family": "Marvi",
+        "given": "Hamidreza"
+      }
+    ],
+    "container-title": "Advanced Intelligent Systems",
+    "id": "Bagheri2019",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2
+        ]
+      ]
+    },
+    "page": "1900154",
+    "title": "<span class=\"nocase\">New Insights on the Control and Function of Octopus Suckers</span>",
+    "type": "article-journal"
+  }
+]

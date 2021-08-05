@@ -1,6 +1,6 @@
-baseURL: "http://example.org/"
+baseURL: "https://idealab.asu.edu"
 languageCode: "en-us"
-title: "My New Hugo Site"
+title: "IDEAlab"
 theme:
  - hugo-cite
 params:
@@ -52,4 +52,16 @@ params:
   
 ignorefiles:
   - ignore/*
-    
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: monokailight
+    noClasses: true
+
+ignoreErrors:
+- "error-remote-getjson"
+
+enableInlineShortcodes: true

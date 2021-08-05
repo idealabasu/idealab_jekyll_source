@@ -11,7 +11,7 @@
   {{ range .Paginator.Pages }}
       <li>{{.Title}}
           <div>
-            {{ partial "summary.html" . }}
+            {{ .Summary }}
           </div>
       </li>
   {{ end }}
