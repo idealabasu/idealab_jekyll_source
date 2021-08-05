@@ -4,8 +4,15 @@
       <span class="fa fa-home hidden-xs hidden-sm" aria-hidden="true"></span><span class="hidden-md hidden-lg">Home</span>
     </a>
   </li>
-
-    
-  </li>
-
+  {{ range .Site.Params.menu }}
+  <li class="menu-item{{ if .links }} dropdown{{end}}"><a href="{{.url}}"{{ if .links }} data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true"{{end}}>{{ .name }} {{ if .external }}<i class="fa fa-external-link" aria-hidden="true"></i>{{end}}</a>
+{{ if .links }}     
+<ul class="dropdown-menu">
+{{ range .links }}
+    <li><a href="{{ .link }}">{{ .name }}</a></li>
+{{ end }}  
+</ul>
+</li>
+{{ end }}  
+  {{ end }}
 </ul>
