@@ -11,10 +11,24 @@
   <h2><a href="{{.RelPermalink}}">{{ .Title }}</a></h2>
   <p>{{ .Summary }}</p>
   {{ end }}
+  
+  <h2>Current Students</h2>
   {{ range $.Site.Data.students }}
-  <h2>{{ .firstname }} {{ .lastname }} </h2>
+  {{ if ne .former "x" }}
+  <h3>{{ .firstname }} {{ .lastname }} </h2>
   {{ if .img_link }}<p class="text-center"><img src="{{ .img_link }}"></p>{{end}}
   {{ if .description }}<p>{{ .description }}</p>{{end}}
   {{ end }}  
+  {{ end }}  
+
+  <h2>Lab Alumni</h2>
+  {{ range $.Site.Data.students }}
+  {{ if eq .former "x" }}
+  <h3>{{ .firstname }} {{ .lastname }} </h2>
+  {{ if .img_link }}<p class="text-center"><img src="{{ .img_link }}"></p>{{end}}
+  {{ if .description }}<p>{{ .description }}</p>{{end}}
+  {{ end }}  
+  {{ end }}  
+
   </main>
 {{ end }}
