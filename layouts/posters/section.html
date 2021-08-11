@@ -1,0 +1,18 @@
+
+{{ define "title" }} Section Title {{ end }}
+
+{{ define "main" }}
+  <main>  
+
+  <h1>{{ .Title }}</h1>
+
+  {{ .Content }}
+
+  {{ range $.Site.Data.posters }}
+  <h2>{{ .first_author }}</h2>
+  
+  {{ if ne .image ".nan" }}<p class="text-center"><img src="/{{ .directory }}/{{.file_root}}.{{.thumb_type}}"></p>{{end}}
+  
+  {{ end }}
+  </main>
+{{ end }}

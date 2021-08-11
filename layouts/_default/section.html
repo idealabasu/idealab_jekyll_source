@@ -8,8 +8,8 @@
   {{ .Content }}
 
   <ul class="contents">
-  {{ range .Paginator.Pages }}
-      <li>{{.Title}}
+  {{ range .Pages }}
+      <li><a href="{{ .RelPermalink }}">{{if .Title }}{{.Title}}{{ else }}{{ .RelPermalink }}{{end}}</a>
           <div>
             {{ .Summary }}
           </div>

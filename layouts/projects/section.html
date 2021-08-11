@@ -1,0 +1,24 @@
+
+{{ define "title" }} Section Title {{ end }}
+
+{{ define "main" }}
+  <main>  
+
+  <h1>{{ .Title }}asdfasfd</h1>
+
+  {{ .Content }}
+
+  {{ range .Pages }}
+  <h2>{{ .Title }}</h2>
+  
+  <p>{{.Summary | safeHTML }}</p>
+  {{ end }}
+
+
+  {{ range $.Site.Data.research_projects }}
+  <h2>{{ .title }}</h2>
+  {{ if ne .image ".nan" }}<p class="text-center"><img src="{{ .image }}"></p>{{end}}
+  <p>{{ .description }}</p>
+  {{ end }}
+  </main>
+{{ end }}

@@ -5,7 +5,7 @@
     </a>
   </li>
   {{ range .Site.Params.menu }}
-  <li class="menu-item{{ if .links }} dropdown{{end}}"><a href="{{.url}}"{{ if .links }} data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true"{{end}}>{{ .name }} {{ if .external }}<i class="fa fa-external-link" aria-hidden="true"></i>{{end}}</a>
+  <li class="menu-item{{ if .links }} dropdown{{end}}"><a href="{{.link}}"{{ if .links }} data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true"{{end}}>{{ .name }} {{ if .external }}<i class="fa fa-external-link" aria-hidden="true"></i>{{end}}</a>
 {{ if .links }}     
 <ul class="dropdown-menu">
 {{ range .links }}

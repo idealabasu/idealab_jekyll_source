@@ -1,0 +1,335 @@
+- PhD: x
+  'Unnamed: 19': 2017.0
+  description: 'Mohammad is a System Engineering Ph.D. student at ASU. He graduated
+    his MSc. in Mechatronics Engineering from University of Tehran. He was a member
+    of TaarLab in his MSc. He worked on ``Dynamical Control & Identification of 3-DOF
+    Decouple Parallel Mechanism (Tripteron) by Constructing a Human-Robot Interaction
+    Interface'''' as MSc. thesis under supervision of Dr. Tale Masouleh and Dr. Kalhor.
+    He has finished his BSc. as an Electrical Engineer (Control filed) at Electrical
+    and Computer Engineering Department of Shiraz University. His bachelor thesis
+    was about voltage controlling of a (0-50 volt) Buck-Boost converter. '
+  email: sharifzadeh@asu.edu
+  firstname: Mohammad
+  former: x
+  img_link: /assets/images/headshots/sharifzadeh.jpg
+  interests: Human-Robot Interaction (HRI), Parallel Mechanisms, Dynamic and Position
+    Control of mechanisms, System Identification, Haptic and Analytic Control.
+  lastname: Sharifzadeh
+  name: Mohammad Sharifzadeh
+  resume_link: /assets/resumes/sharifzadeh-cv.pdf
+  start: Spring 2017
+  start_semester: Spring
+  stop: Spring 2021
+- Barrett: x
+  Masters: x
+  Undergraduate: x
+  'Unnamed: 19': 2016.0
+  email: bshuch@asu.edu
+  firstname: Benjamin
+  former: x
+  img_link: /assets/images/headshots/shuch.jpg
+  lastname: Shuch
+  name: Benjamin Shuch
+  resume_link: /assets/resumes/shuch-resume.pdf
+  start: Fall 2016
+  start_semester: Fall
+  stop: Spring 2019
+- FURI: x
+  Undergraduate: x
+  'Unnamed: 19': 2017.0
+  email: Andrew.J.Carlson@asu.edu
+  firstname: Drew
+  former: x
+  img_link: /assets/images/headshots/carlson.jpg
+  lastname: Carlson
+  name: Drew Carlson
+  resume_link: /assets/resumes/carlson-cv.pdf
+  start: Summer 2017
+  start_semester: Summer
+  stop: Spring 2019
+  PhD: x
+  'Unnamed: 19': 2017.0
+  description: I am a Mechanical engineer by education and an Electrical engineer
+    by practice. Before I join the Systems engineering Ph.D. program at ASU, I was
+    a masters student at Georgia Tech working in the area of prosthetics and human
+    augmentation for musical applications under Prof. Weinberg. I received an M.Sc.
+    in Biomedical Engineering from Amirkabir University of Technology focusing the
+    area of tactile sensing in robotics and minimally invasive surgery under Prof.
+    Najarian. My B.Sc. is in Mechanical engineering from Shahrekord University.
+  email: rkhodamb@asu.edu
+  firstname: Roozbeh
+  img_link: /assets/images/headshots/khodambashi.png
+  interests: Prosthetics, Micro-Robotics, Soft Robotics, Robot Learning
+  lastname: Khodambashi
+  name: Roozbeh Khodambashi
+  resume_link: /assets/resumes/khodambashi-cv.pdf
+  start: Spring 2017
+  start_semester: Spring
+  stop: Summer 2021
+- Barrett: x
+  FURI: x
+  KEEN: x
+  Undergraduate: x
+  'Unnamed: 19': 2017.0
+  email: jknaup@asu.edu
+  firstname: Jacob
+  former: x
+  img_link: /assets/images/headshots/knaup.jpg
+  lastname: Knaup
+  name: Jacob Knaup
+  resume_link: /assets/resumes/jacob-knaup-resume.pdf
+  start: Spring 2017
+  start_semester: Spring
+  stop: Spring 2019
+- FURI: x
+  Undergraduate: x
+  'Unnamed: 19': 2018.0
+  email: sabenson@asu.edu
+  firstname: Sheena
+  former: x
+  img_link: /assets/images/headshots/benson.png
+  lastname: Benson
+  name: Sheena Benson
+  resume_link: /assets/resumes/benson-resume.pdf
+  start: Fall 2018
+  start_semester: Fall
+  stop: Fall 2018
+- FURI: x
+  MORE: x
+  Masters: x
+  Masters Thesis: x
+  PhD: x
+  'Unnamed: 19': 2018.0
+  email: cbrauer@asu.edu
+  firstname: Cole
+  img_link: /assets/images/headshots/brauer2.jpg
+  lastname: Brauer
+  name: Cole Brauer
+  resume_link: /assets/resumes/brauer-resume.pdf
+  start: Fall 2018
+  start_semester: Fall
+  stop: current
+- FURI: x
+  Undergraduate: x
+  'Unnamed: 19': 2018.0
+  email: agilber6@asu.edu
+  firstname: Alia
+  former: x
+  lastname: Gilbert
+  name: Alia Gilbert
+  start: Fall 2018
+  start_semester: Fall
+  stop: Spring 2019
+  PhD: x
+  'Unnamed: 19': 2018.0
+  description: Dongting Li is a Systems Engineering Ph.D. student and joined IDEAlab
+    in 2018 fall. His research focuses on robot modeling and locomotion inside granular
+    media. He received his bachelor's degree in 2018.
+  email: dongting@asu.edu
+  firstname: Shawn (Donging)
+  img_link: /assets/images/headshots/li.jpg
+  interests: bio-inspired robotics, granular media.
+  lastname: Li
+  name: Shawn (Donging) Li
+  start: Fall 2018
+  start_semester: Fall
+  stop: current
+- Barrett: x
+  FURI: x
+  Undergraduate: x
+  'Unnamed: 19': 2018.0
+  email: glightho@asu.edu
+  firstname: Guston
+  former: x
+  img_link: /assets/images/headshots/lighthouse.jpg
+  lastname: Lighthouse
+  name: Guston Lighthouse
+  resume_link: /assets/resumes/guston-lighthouse-resume.pdf
+  start: Fall 2018
+  start_semester: Fall
+  stop: Spring 2019
+  KEEN: x
+  Masters: x
+  Masters Thesis: x
+  'Unnamed: 19': 2018.0
+  email: tshafa@asu.edu
+  firstname: Taha
+  former: x
+  img_link: /assets/images/headshots/shafa.jpg
+  lastname: Shafa
+  name: Taha Shafa
+  resume_link: /assets/resumes/shafa-cv.pdf
+  start: Fall 2018
+  start_semester: Fall
+  stop: Summer 2020
+  Masters: x
+  Masters Thesis: x
+  'Unnamed: 19': 2019.0
+  email: wsadams@asu.edu
+  firstname: Wade
+  former: x
+  lastname: Adams
+  name: Wade Adams
+  start: Spring 2019
+  start_semester: Spring
+  stop: Spring 2019
+  PhD: x
+  'Unnamed: 19': 2019.0
+  description: Yuhao is a Ph.D. student in Mechanical Engineering at ASU. His research
+    interest mainly lies in controls, robotics, and dynamic systems. Prior to joining
+    IdeaLab, he received his M.S. degree in Mechanical Engineering from University
+    of Florida, supervised by Dr. Prabir Barooah,  studying controls and system identifications
+    of smart buildings. Before that, he received his B.S. degree in Mechanical Engineering
+    from Donghua University.
+  email: yjian154@asu.edu
+  firstname: Yuhao
+  img_link: /assets/images/headshots/jiang.jpg
+  interests: ' Bio-inspired Robots, Soft Robotics, Learning-based Controls, and System
+    Identifications.'
+  lastname: Jiang
+  name: Yuhao Jiang
+  personal_website: https://duxtx.github.io/
+  start: Spring 2019
+  start_semester: Spring
+  stop: current
+  Masters: x
+  'Unnamed: 19': 2019.0
+  email: skatarey@asu.edu
+  firstname: Sudhanshu
+  former: x
+  lastname: Katarey
+  name: Sudhanshu Katarey
+  start: Spring 2019
+  start_semester: Spring
+  stop: Spring 2020
+  Undergraduate: x
+  'Unnamed: 19': 2019.0
+  email: jnbraue1@asu.edu
+  firstname: Jude
+  lastname: Brauer
+  name: Jude Brauer
+  start: Fall 2019
+  start_semester: Fall
+  stop: current
+  Masters: x
+  Masters Thesis: x
+  'Unnamed: 19': 2019.0
+  email: cwewell@asu.edu
+  firstname: Clint
+  former: x
+  lastname: Ewell
+  name: Clint Ewell
+  start: Fall 2019
+  start_semester: Fall
+  stop: Fall 2019
+  Masters: x
+  Masters Thesis: x
+  'Unnamed: 19': 2019.0
+  email: vgadekar@asu.edu
+  firstname: Vipul
+  former: x
+  img_link: /assets/images/headshots/gadekar.jpg
+  lastname: Gadekar
+  name: Vipul Gadekar
+  resume_link: /assets/resumes/gadekar-resume.pdf
+  start: Fall 2019
+  start_semester: Fall
+  stop: Summer 2020
+  Undergraduate: x
+  'Unnamed: 19': 2019.0
+  email: cgjeffri@asu.edu
+  firstname: Charles
+  lastname: Jeffries
+  name: Charles Jeffries
+  start: Fall 2019
+  start_semester: Fall
+  stop: current
+- Barrett: x
+  Undergraduate: x
+  'Unnamed: 19': 2019.0
+  email: fononye@asu.edu
+  firstname: Frank
+  former: x
+  img_link: /assets/images/headshots/ononye.jpeg
+  lastname: Ononye
+  name: Frank Ononye
+  resume_link: /assets/resumes/ononye-resume.pdf
+  start: Fall 2019
+  start_semester: Fall
+  stop: Spring 2020
+- Barrett: x
+  Undergraduate: x
+  'Unnamed: 19': 2019.0
+  email: haquezad@asu.edu
+  firstname: Hebellyn
+  former: x
+  lastname: Quezada
+  name: Hebellyn Quezada
+  resume_link: /assets/resumes/quezada-resume.pdf
+  start: Fall 2019
+  start_semester: Fall
+  stop: Spring 2020
+- FURI: x
+  Undergraduate: x
+  'Unnamed: 19': 2019.0
+  email: mrana8@asu.edu
+  firstname: Mannat
+  former: x
+  img_link: /assets/images/headshots/rana.jpg
+  lastname: Rana
+  name: Mannat Rana
+  resume_link: /assets/resumes/rana-resume.pdf
+  start: Fall 2019
+  start_semester: Fall
+  stop: Fall 2019
+- Barrett: x
+  Undergraduate: x
+  'Unnamed: 19': 2019.0
+  email: daroush@asu.edu
+  firstname: Dante
+  former: x
+  img_link: /assets/images/headshots/roush.jpg
+  lastname: Roush
+  name: Dante Roush
+  resume_link: /assets/resumes/roush-resume.pdf
+  start: Fall 2019
+  start_semester: Fall
+  stop: Spring 2020
+  PhD: x
+  'Unnamed: 19': 2020.0
+  email: cpan22@asu.edu
+  firstname: Chien-Wen
+  lastname: Pan
+  name: Chien-Wen Pan
+  start: Fall 2020
+  start_semester: Fall
+  PhD: x
+  'Unnamed: 19': 2021.0
+  email: fchen65@asu.edu
+  firstname: Fuchen
+  lastname: Chen
+  name: Fuchen Chen
+  start: Spring 2021
+  start_semester: Spring
+  stop: current
+- FURI: x
+  Undergraduate: x
+  'Unnamed: 19': 2021.0
+  email: eduarte1@asu.edu
+  firstname: Erick
+  lastname: Duarte
+  name: Erick Duarte
+  start: Fall 2021
+  start_semester: Fall
+  stop: current
+- Barrett: x
+  FURI: x
+  Undergraduate: x
+  'Unnamed: 19': 2021.0
+  email: akwan2@asu.edu
+  firstname: Anson
+  lastname: Kwan
+  name: Anson Kwan
+  start: Fall 2021
+  start_semester: Fall
+  stop: current

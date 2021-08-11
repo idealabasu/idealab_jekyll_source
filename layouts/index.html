@@ -7,15 +7,41 @@
         {{ end }}
       </header>
       <div class="homepage-content">
-        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
-        {{.Content}}
-      </div>
-      <div>
-      <ul>
-        {{ range .Pages }}
-            <li><a href="{{.RelPermalink}}">{{ .Title }}</a></li>
-        {{ end }}
-        </ul>
+        
+        <h2>Research Areas</h2>
+
+        <p>The Integrating Design, Engineering, and Analysis (IDEA) Lab is led by Dr. Dan Aukes. His research investigates the nexus of design, manufacturing, and data-driven decision-making to develop robots that can operate in niche environments, with a focus on affordability and accessibility. IDEALab projects focus on new tools for designing robots by pairing emerging fabrication techniques and new materials with analytical and simulation-based methods for understanding the behavior of these complex systems.</p>
+
+        <div class="row">
+        <div class="col-sm-4">
+          <h3>Design</h3>
+          <p>We make new tools surrounding design.</p>
+        <!--  
+          <p class="text-center"><a class="btn btn-primary" href="/design-tools" role="button">Learn More...</a></p>
+        -->
+        </div>
+        <div class="col-sm-4">
+          <h3>Manufacturing</h3>
+          <p>We pioneer new manufacturing technologies to build dynamic, affordable, ultra-capable robots.</p>
+        <!--  
+        <p class="text-center"><a class="btn btn-primary" href="/manufacturing" role="button">Learn More...</a></p>
+        -->
+        </div>
+        <div class="col-sm-4">
+          <h3>Analysis</h3>
+          <p> We embed analysis into the design process, so you know what will happen <em>before</em> you make it</p>
+        <!--  
+          <p class="text-center"><a class="btn btn-primary" href="/analysis" role="button">Learn More...</a></p>
+        -->
+        </div>
+        </div>
+
+        <div class="row">
+        <div class="col-sm-12">
+          <p class="text-center"><a class="btn btn-primary" href="/projects" role="button">Learn More...</a></p>
+        </div>
+        </div>
+
       </div>
     </main>
 {{ end }}

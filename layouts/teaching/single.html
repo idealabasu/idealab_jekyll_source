@@ -1,0 +1,17 @@
+{{ define "title" }} {{.Title}} {{ end }}
+
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  
+  {{ $cat:=.Params.category }}
+  
+  {{ range $.Site.Data.class_projects }}
+  {{ if eq $cat .category }}
+  <h2>{{.name}}</h2>
+  <p><em>{{ if ne .person1 ".nan" }}{{.person1}}{{end}}</em></p>
+  <p>{{ .description }}</p>
+  {{ end }}  
+  {{ end }}  
+{{ end }}
+

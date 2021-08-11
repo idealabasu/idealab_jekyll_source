@@ -1,0 +1,23 @@
+{{ define "title" }} Section Title {{ end }}
+
+{{ define "main" }}
+  <main>  
+
+  <h1>{{ .Title }}</h1>
+
+  {{ .Content }}
+
+  <ul class="contents">
+  {{ range .Pages }}
+  <li> <a href="{{ .Params.link }}"> {{ .Params.caption }}</a></li>
+  {{ end }}
+  </ul>
+
+  <ul class="contents">
+  {{ range $.Site.Data.videos }}
+  <li> <a href="https://www.youtube.com/watch?v={{ .link }}"> {{ .caption }}</a></li>
+  {{ end }}
+  </ul>
+  
+  </main>
+{{ end }}

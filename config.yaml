@@ -13,39 +13,39 @@ params:
   - name: Research
     links: 
     - name: Research Projects & Platforms
-      link: projects
+      link: /projects
     - name: Posters
-      link: posters
+      link: /posters
     - name: Kaiteki Project
-      link: kaiteki
+      link: /kaiteki
   - name: Publications
-    link: publications
+    link: /publications
   - name: Videos
-    link: videos
+    link: /videos
   - name: Lab Info
     links:
     - name: People
-      link: people
+      link: /people
     - name: Calendar
-      link: calendar
+      link: /calendar
     - name: Contact & Location
-      link: contact-and-location
+      link: /contact-and-location
     - name: Equipment & Facilities
-      link: equipment
+      link: /equipment
     - name: Press
-      link: press
+      link: /press
     - name: Research Opportunities
-      link: research-opportunities
+      link: /research-opportunities
     - name: Hiring
-      link: hiring
+      link: /hiring
     - name: Conferences
-      link: conferences
+      link: /conferences
     - name: Download
-      link: download
+      link: /download
   - name: Lab News
-    link: news
+    link: /news
   - name: Teaching
-    link: teaching
+    link: /teaching
   - name: Slack(internal)
     link: https://idealab-asu.slack.com/
     external: true

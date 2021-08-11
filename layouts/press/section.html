@@ -1,0 +1,27 @@
+
+{{ define "title" }} Section Title {{ end }}
+
+{{ define "main" }}
+  <main>  
+
+  <h1>{{ .Title }}</h1>
+
+  {{ .Content }}
+
+  {{ range .Pages }}
+  <h2>{{ .Title }}</h2>
+  
+  <p>{{.Summary | safeHTML }}</p>
+  {{ end }}
+
+
+  {{ range $.Site.Data.press.categories }}
+  <h2>{{ .category }}</h2>
+  <ul>
+    {{ range .items }}
+    <li><a href="{{ .link }}">{{.title}}</a>, {{ .date }}, {{.source}}</li>
+    {{ end }}
+  </ul>
+  {{ end }}
+  </main>
+{{ end }}
