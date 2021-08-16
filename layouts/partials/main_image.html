@@ -1,0 +1,21 @@
+{{ if .Params.show_title }} 
+<div class="hero hero-bg-img hero-action-call" {{ if .Params.image.feature }} style="background-image: url({{ .Params.image.feature }});"{{ end }}>
+  {{ if .Params.image.credit }}<div class="image-credit">Image source: <a href="{{ .Params.image.creditlink }}">{{ .Params.image.credit }}</a></div><!-- /.image-credit -->{{ end }}
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h2>
+		  {{ if .Params.title_image }}
+			<img class="img-responsive" style="border:0px solid #dbdbdb;" src="{{ .Params.title_image }}">
+		  {{ else }}
+            {{ .Title }}
+		  {{ end }}
+		  
+
+        </h2>
+        <p>{{ .Summary }}</p>
+      </div>
+    </div><!-- /.row -->
+  </div><!-- /.container -->
+</div>
+{{ end }}
