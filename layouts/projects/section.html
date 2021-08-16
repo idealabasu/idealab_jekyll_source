@@ -2,15 +2,15 @@
 {{ define "title" }} Section Title {{ end }}
 
 {{ define "main" }}
-  <main>  
+  <main>
 
-  <h1>{{ .Title }}asdfasfd</h1>
+  <h1>{{ .Title }}</h1>
 
   {{ .Content }}
 
   {{ range .Pages }}
   <h2>{{ .Title }}</h2>
-  
+
   <p>{{.Summary | safeHTML }}</p>
   {{ end }}
 
