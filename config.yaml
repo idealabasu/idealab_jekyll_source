@@ -38,14 +38,14 @@ params:
       link: /research-opportunities
     - name: Hiring
       link: /hiring
-    - name: Conferences
-      link: /conferences
+#    - name: Conferences
+#      link: /conferences
     - name: Download
       link: /download
   - name: Lab News
     link: /news
-  - name: Teaching
-    link: /teaching
+#  - name: Teaching
+#    link: /teaching
   - name: Slack(internal)
     link: https://idealab-asu.slack.com/
     external: true
