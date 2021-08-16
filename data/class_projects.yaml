@@ -3,6 +3,7 @@
   embed_prefix: https://www.youtube.com/embed/
   id: RKEyPuGk9pM
   name: TentHammoc
+  people: '[]'
   team: 1.0
   url: https://www.youtube.com/embed/RKEyPuGk9pM
 - category: egr202-2017
@@ -10,6 +11,7 @@
   embed_prefix: https://www.youtube.com/embed/
   id: 74ij3Lcx2KM
   name: The Cloud
+  people: '[]'
   team: 2.0
   url: https://www.youtube.com/embed/74ij3Lcx2KM
 - category: egr202-2017
@@ -17,6 +19,7 @@
   embed_prefix: https://www.youtube.com/embed/
   id: QVQf8OC6cR4
   name: Ergo Drill
+  people: '[]'
   team: 3.0
   url: https://www.youtube.com/embed/QVQf8OC6cR4
 - category: egr202-2017
@@ -24,7 +27,9 @@
   embed_prefix: https://www.youtube.com/embed/
   id: T0C2KfUeb74
   name: Modular Mattress
+  people: '["Drew Carlson"]'
   person1: Drew Carlson
+  person1.1: '"Drew Carlson"'
   team: 4.0
   url: https://www.youtube.com/embed/T0C2KfUeb74
 - category: egr202-2017
@@ -32,6 +37,7 @@
   embed_prefix: https://www.youtube.com/embed/
   id: Z1ndQFZICP4
   name: Dependabowl
+  people: '[]'
   team: 5.0
   url: https://www.youtube.com/embed/Z1ndQFZICP4
 - category: egr202-2017
@@ -39,6 +45,7 @@
   embed_prefix: https://www.youtube.com/embed/
   id: HmvIEy04sCE
   name: Electric Drill
+  people: '[]'
   team: 6.0
   url: https://www.youtube.com/embed/HmvIEy04sCE
 - category: egr202-2017
@@ -46,6 +53,7 @@
   embed_prefix: https://www.youtube.com/embed/
   id: 4zMUiULasiU
   name: Dog refresher
+  people: '[]'
   team: 7.0
   url: https://www.youtube.com/embed/4zMUiULasiU
 - category: egr202-2017
@@ -53,6 +61,7 @@
   embed_prefix: https://www.youtube.com/embed/
   id: YOrZKh6QJzA
   name: Doggy fountain
+  people: '[]'
   team: 8.0
   url: https://www.youtube.com/embed/YOrZKh6QJzA
 - category: egr202-2017
@@ -60,6 +69,7 @@
   embed_prefix: https://www.youtube.com/embed/
   id: lG_-ONVEPzM
   name: Clothes Folder
+  people: '[]'
   team: 9.0
   url: https://www.youtube.com/embed/lG_-ONVEPzM
 - category: egr202-2017
@@ -67,249 +77,327 @@
   embed_prefix: https://www.youtube.com/embed/
   id: h38WRwGP_3k
   name: Clothes Folder 2
+  people: '[]'
   team: 10.0
   url: https://www.youtube.com/embed/h38WRwGP_3k
 - category: egr202-2016
   embed_prefix: https://www.youtube.com/embed/
   id: 3QJHRG8OxqY
   name: Palm Fronds
+  people: '[]'
   team: 1.0
   url: https://www.youtube.com/embed/3QJHRG8OxqY
 - category: egr202-2016
   embed_prefix: https://www.youtube.com/embed/
   id: r1gnGjtWia4
   name: Palm Fronds
+  people: '[]'
   team: 2.0
   url: https://www.youtube.com/embed/r1gnGjtWia4
 - category: egr202-2016
   embed_prefix: https://www.youtube.com/embed/
   id: C1VE7Z-zG3Y
   name: Palm Fronds
+  people: '[]'
   team: 3.0
   url: https://www.youtube.com/embed/C1VE7Z-zG3Y
 - category: egr202-2016
   embed_prefix: https://www.youtube.com/embed/
   id: QyJm3sPofW8
   name: Nepal Hydro
+  people: '[]'
   team: 4.0
   url: https://www.youtube.com/embed/QyJm3sPofW8
 - category: egr202-2016
   embed_prefix: https://www.youtube.com/embed/
   id: gHgQh1zahmI
   name: Nepal Hydro
+  people: '[]'
   team: 5.0
   url: https://www.youtube.com/embed/gHgQh1zahmI
 - category: egr202-2016
   embed_prefix: https://www.youtube.com/embed/
   id: STamtALXJzk
   name: Nepal Hydro
+  people: '[]'
   team: 6.0
   url: https://www.youtube.com/embed/STamtALXJzk
 - category: egr202-2016
   embed_prefix: https://www.youtube.com/embed/
   id: kbtS8J_JME4
   name: Nepalese Goat Shed
+  people: '[]'
   team: 7.0
   url: https://www.youtube.com/embed/kbtS8J_JME4
 - category: egr202-2016
   embed_prefix: https://www.youtube.com/embed/
   id: FqqW7bgUBnQ
   name: Nepalese Goat Shed
+  people: '[]'
   team: 8.0
   url: https://www.youtube.com/embed/FqqW7bgUBnQ
 - category: egr202-2016
   embed_prefix: https://www.youtube.com/embed/
   id: LuWthABiU74
   name: Mikania Vine Harvester
+  people: '[]'
   team: 9.0
   url: https://www.youtube.com/embed/LuWthABiU74
 - category: egr202-2016
   embed_prefix: https://www.youtube.com/embed/
   id: C9UJqQTyB4o
   name: Mikania Vine Harvester
+  people: '[]'
   team: 10.0
   url: https://www.youtube.com/embed/C9UJqQTyB4o
 - category: egr598-2016
   embed_prefix: https://www.youtube.com/embed/
   id: 9cquekrlAFY
   name: Project Terrapin
+  people: '["Kevin Luck", "Joe Campbell", "Andrew Jansen"]'
   person1: Kevin Luck
+  person1.1: '"Kevin Luck"'
   person2: Joe Campbell
+  person2.1: ', "Joe Campbell"'
   person3: Andrew Jansen
+  person3.1: ', "Andrew Jansen"'
   team: 1.0
   url: https://www.youtube.com/embed/9cquekrlAFY
 - category: egr598-2016
   embed_prefix: https://www.youtube.com/embed/
   id: OOU8fvta0MU
   name: Diorama
+  people: '["Weston Olson", "Peter Nithin Emmanuel"]'
   person1: Weston Olson
+  person1.1: '"Weston Olson"'
   person2: Peter Nithin Emmanuel
+  person2.1: ', "Peter Nithin Emmanuel"'
   team: 2.0
   url: https://www.youtube.com/embed/OOU8fvta0MU
 - category: egr598-2016
   embed_prefix: https://www.youtube.com/embed/
   id: 4wf1T_Isjxs
   name: Water Strider
+  people: '["Ethan Fisher", "Scott Hurson"]'
   person1: Ethan Fisher
+  person1.1: '"Ethan Fisher"'
   person2: Scott Hurson
+  person2.1: ', "Scott Hurson"'
   team: 3.0
   url: https://www.youtube.com/embed/4wf1T_Isjxs
 - category: egr598-2016
   embed_prefix: https://www.youtube.com/embed/
   id: s5PpXS_6Hpc
   name: Inchworm Inspired Foldable Robot
+  people: '["Mohammad Safee Rahman", "Sharan Kishore"]'
   person1: Mohammad Safee Rahman
+  person1.1: '"Mohammad Safee Rahman"'
   person2: Sharan Kishore
+  person2.1: ', "Sharan Kishore"'
   team: 4.0
   url: https://www.youtube.com/embed/s5PpXS_6Hpc
 - category: egr598-2016
   embed_prefix: https://www.youtube.com/embed/
   id: E8naondPMQc
   name: TiPai / CharPai
+  people: '["Gurupkar Nerwal", "Ameya Wadekar"]'
   person1: Gurupkar Nerwal
+  person1.1: '"Gurupkar Nerwal"'
   person2: Ameya Wadekar
+  person2.1: ', "Ameya Wadekar"'
   team: 5.0
   url: https://www.youtube.com/embed/E8naondPMQc
 - category: egr598-2016
   embed_prefix: https://www.youtube.com/embed/
   id: v8fJMyx35YM
   name: 'Whop: Bioinspired Leg Mechanism'
+  people: '["Vishwarath Taduru", "Saketh Rao"]'
   person1: Vishwarath Taduru
+  person1.1: '"Vishwarath Taduru"'
   person2: Saketh Rao
+  person2.1: ', "Saketh Rao"'
   team: 6.0
   url: https://www.youtube.com/embed/v8fJMyx35YM
 - category: egr598-2016
   embed_prefix: https://www.youtube.com/embed/
   id: HCq2xC5SIW8
   name: Tortoise-Inspired Robot
+  people: '["Ben Shuch", "Eric Rogers"]'
   person1: Ben Shuch
+  person1.1: '"Ben Shuch"'
   person2: Eric Rogers
+  person2.1: ', "Eric Rogers"'
   team: 7.0
   url: https://www.youtube.com/embed/HCq2xC5SIW8
 - category: egr598-2016
   embed_prefix: https://www.youtube.com/embed/
   id: xH3NU1Hegww
   name: Gecko
+  people: '["Roshan Rosario Hilary Verghees", "Ram Mohan Telikicherla"]'
   person1: Roshan Rosario Hilary Verghees
+  person1.1: '"Roshan Rosario Hilary Verghees"'
   person2: Ram Mohan Telikicherla
+  person2.1: ', "Ram Mohan Telikicherla"'
   team: 8.0
   url: https://www.youtube.com/embed/xH3NU1Hegww
 - category: egr598-2016
   embed_prefix: https://www.youtube.com/embed/
   id: ESAtYal_gKM
   name: 'Bones: The Creepy Lizard'
+  people: '["Dangli Yang", "Anchan Saxena"]'
   person1: Dangli Yang
+  person1.1: '"Dangli Yang"'
   person2: Anchan Saxena
+  person2.1: ', "Anchan Saxena"'
   team: 9.0
   url: https://www.youtube.com/embed/ESAtYal_gKM
 - category: informal-robotics-2014
   embed_prefix: https://www.youtube.com/embed/
   id: B38gQbYhMug
   name: Crabby
+  people: '["Ling-Li Tseng", "Yingyi Wang"]'
   person1: Ling-Li Tseng
+  person1.1: '"Ling-Li Tseng"'
   person2: Yingyi Wang
+  person2.1: ', "Yingyi Wang"'
   team: 1.0
   url: https://www.youtube.com/embed/B38gQbYhMug
 - category: informal-robotics-2014
   embed_prefix: https://www.youtube.com/embed/
   id: kKutC3bD52o
   name: Crease
+  people: '["Saurabh Matre", "Olga Mesa", "Malika Singh"]'
   person1: Saurabh Matre
+  person1.1: '"Saurabh Matre"'
   person2: Olga Mesa
+  person2.1: ', "Olga Mesa"'
   person3: Malika Singh
+  person3.1: ', "Malika Singh"'
   team: 2.0
   url: https://www.youtube.com/embed/kKutC3bD52o
 - category: informal-robotics-2014
   embed_prefix: https://www.youtube.com/embed/
   id: ZKW4EwfQ2e4
   name: Degree of Ambiguity
+  people: '["Akshay Goyal", "Yujie Hong", "Jun Wang"]'
   person1: Akshay Goyal
+  person1.1: '"Akshay Goyal"'
   person2: Yujie Hong
+  person2.1: ', "Yujie Hong"'
   person3: Jun Wang
+  person3.1: ', "Jun Wang"'
   team: 3.0
   url: https://www.youtube.com/embed/ZKW4EwfQ2e4
 - category: informal-robotics-2014
   embed_prefix: https://www.youtube.com/embed/
   id: iFcGFORC2wE
   name: FAST
+  people: '["Spyridon Ampanavos", "Jacob Hamman", "Chrisoula Kapelonis"]'
   person1: Spyridon Ampanavos
+  person1.1: '"Spyridon Ampanavos"'
   person2: Jacob Hamman
+  person2.1: ', "Jacob Hamman"'
   person3: Chrisoula Kapelonis
+  person3.1: ', "Chrisoula Kapelonis"'
   team: 4.0
   url: https://www.youtube.com/embed/iFcGFORC2wE
 - category: informal-robotics-2014
   embed_prefix: https://www.youtube.com/embed/
   id: pYHxTSzwYto
   name: The Flappers
+  people: '["Kritika Dhanda", "Farzaneh Eftekhary"]'
   person1: Kritika Dhanda
+  person1.1: '"Kritika Dhanda"'
   person2: Farzaneh Eftekhary
+  person2.1: ', "Farzaneh Eftekhary"'
   team: 5.0
   url: https://www.youtube.com/embed/pYHxTSzwYto
 - category: informal-robotics-2014
   embed_prefix: https://www.youtube.com/embed/
   id: hfznhWFH2Cc
   name: Jitterbug
+  people: '["Yichen An", "Bingjie Shi", "Artem Dementyev"]'
   person1: Yichen An
+  person1.1: '"Yichen An"'
   person2: Bingjie Shi
+  person2.1: ', "Bingjie Shi"'
   person3: Artem Dementyev
+  person3.1: ', "Artem Dementyev"'
   team: 6.0
   url: https://www.youtube.com/embed/hfznhWFH2Cc
 - category: informal-robotics-2014
   embed_prefix: https://www.youtube.com/embed/
   id: RhA8A_scxvE
   name: SwimSwallow
+  people: '["Lezhi Li", "Sabrina Booth"]'
   person1: Lezhi Li
+  person1.1: '"Lezhi Li"'
   person2: Sabrina Booth
+  person2.1: ', "Sabrina Booth"'
   team: 7.0
   url: https://www.youtube.com/embed/RhA8A_scxvE
 - category: informal-robotics-2014
   name: The Amoebot
+  people: '["Blanca Dasi Espuig", "Tiffany Cheng"]'
   person1: Blanca Dasi Espuig
+  person1.1: '"Blanca Dasi Espuig"'
   person2: Tiffany Cheng
+  person2.1: ', "Tiffany Cheng"'
   team: 8.0
 - category: informal-robotics-2014
   name: Wiggling Spider
+  people: '["Han Yang", "Xiaoran Du"]'
   person1: Han Yang
+  person1.1: '"Han Yang"'
   person2: Xiaoran Du
+  person2.1: ', "Xiaoran Du"'
   team: 9.0
 - category: informal-robotics-2015
   embed_prefix: https://www.youtube.com/embed/
   id: dU7GERFQa9c
+  people: '[]'
   team: 1.0
   url: https://www.youtube.com/embed/dU7GERFQa9c
 - category: informal-robotics-2015
   embed_prefix: https://www.youtube.com/embed/
   id: UiO-6lxJG8o
+  people: '[]'
   team: 2.0
   url: https://www.youtube.com/embed/UiO-6lxJG8o
 - category: informal-robotics-2015
   embed_prefix: https://www.youtube.com/embed/
   id: 855Oknr7pY0
+  people: '[]'
   team: 3.0
   url: https://www.youtube.com/embed/855Oknr7pY0
 - category: informal-robotics-2015
   embed_prefix: https://www.youtube.com/embed/
   id: KLkGaoYm5nM
+  people: '[]'
   team: 4.0
   url: https://www.youtube.com/embed/KLkGaoYm5nM
 - category: informal-robotics-2015
   embed_prefix: https://www.youtube.com/embed/
   id: M_-CwxS4KZg
+  people: '[]'
   team: 5.0
   url: https://www.youtube.com/embed/M_-CwxS4KZg
 - category: informal-robotics-2015
   embed_prefix: https://www.youtube.com/embed/
   id: a1oa3xx_Aeo
+  people: '[]'
   team: 6.0
   url: https://www.youtube.com/embed/a1oa3xx_Aeo
 - category: informal-robotics-2015
   embed_prefix: https://www.youtube.com/embed/
   id: QaFhwTco2Tc
+  people: '[]'
   team: 7.0
   url: https://www.youtube.com/embed/QaFhwTco2Tc
 - category: informal-robotics-2015
   embed_prefix: https://www.youtube.com/embed/
   id: Y3GEaOxrcWk
+  people: '[]'
   team: 8.0
   url: https://www.youtube.com/embed/Y3GEaOxrcWk
 - 1min-id: zvd0ju79ZmY
@@ -319,9 +407,13 @@
   embed_prefix: https://www.youtube.com/embed/
   id: bPYNM20qZOg
   name: Team 1
+  people: '["Roozbeh Khodambashi Emami", "Anthony Rico", "Benjamin Liu"]'
   person1: Roozbeh Khodambashi Emami
+  person1.1: '"Roozbeh Khodambashi Emami"'
   person2: Anthony Rico
+  person2.1: ', "Anthony Rico"'
   person3: Benjamin Liu
+  person3.1: ', "Benjamin Liu"'
   team: 1.0
   url: https://www.youtube.com/embed/bPYNM20qZOg
 - 1min-id: MhbBAyF35Qg
@@ -331,9 +423,13 @@
   embed_prefix: https://www.youtube.com/embed/
   id: mb3JeXSTooo
   name: Team 2
+  people: '["Jason Vaughn", "Timothy Dinielli", "Zz Haggerty"]'
   person1: Jason Vaughn
+  person1.1: '"Jason Vaughn"'
   person2: Timothy Dinielli
+  person2.1: ', "Timothy Dinielli"'
   person3: Zz Haggerty
+  person3.1: ', "Zz Haggerty"'
   team: 2.0
   url: https://www.youtube.com/embed/mb3JeXSTooo
 - 1min-id: tw6aAA2TCKw
@@ -343,9 +439,13 @@
   embed_prefix: https://www.youtube.com/embed/
   id: UffnJ4CjKSY
   name: Team 3
+  people: '["Andrew Carlson", "Brandon Uyehara", "Sandesh Ganapati Bhat"]'
   person1: Andrew Carlson
+  person1.1: '"Andrew Carlson"'
   person2: Brandon Uyehara
+  person2.1: ', "Brandon Uyehara"'
   person3: Sandesh Ganapati Bhat
+  person3.1: ', "Sandesh Ganapati Bhat"'
   team: 3.0
   url: https://www.youtube.com/embed/UffnJ4CjKSY
 - 1min-id: i5Foo6UCVuU
@@ -355,9 +455,13 @@
   embed_prefix: https://www.youtube.com/embed/
   id: WB2zvEWDNAI
   name: Team 4
+  people: '["Diane Melissa Flores", "Joey Nguyen", "Kendra Kim"]'
   person1: Diane Melissa Flores
+  person1.1: '"Diane Melissa Flores"'
   person2: Joey Nguyen
+  person2.1: ', "Joey Nguyen"'
   person3: Kendra Kim
+  person3.1: ', "Kendra Kim"'
   team: 4.0
   url: https://www.youtube.com/embed/WB2zvEWDNAI
 - 1min-id: '56bGj6oxD5k '
@@ -367,8 +471,11 @@
   embed_prefix: https://www.youtube.com/embed/
   id: 1Yb8dnu5kr8
   name: Team 5
+  people: '["Kevin Nichols", "Mohammad Sharifzadeh"]'
   person1: Kevin Nichols
+  person1.1: '"Kevin Nichols"'
   person2: Mohammad Sharifzadeh
+  person2.1: ', "Mohammad Sharifzadeh"'
   team: 5.0
   url: https://www.youtube.com/embed/1Yb8dnu5kr8
 - 1min-id: WToQuN92hpA
@@ -378,9 +485,13 @@
   embed_prefix: https://www.youtube.com/embed/
   id: iFRHXeooEPY
   name: Team 6
+  people: '["Jiaxu Song", "Kayleigh Caparulo", "Nathan Eastburn"]'
   person1: Jiaxu Song
+  person1.1: '"Jiaxu Song"'
   person2: Kayleigh Caparulo
+  person2.1: ', "Kayleigh Caparulo"'
   person3: Nathan Eastburn
+  person3.1: ', "Nathan Eastburn"'
   team: 6.0
   url: https://www.youtube.com/embed/iFRHXeooEPY
 - category: egr598-2019
@@ -388,9 +499,13 @@
   embed_prefix: https://www.youtube.com/embed/
   id: g_Zpm_S7QKM
   name: Team 1
+  people: '["Clint Ewell", "Hung Sewell", "James Lyon"]'
   person1: Clint Ewell
+  person1.1: '"Clint Ewell"'
   person2: Hung Sewell
+  person2.1: ', "Hung Sewell"'
   person3: James Lyon
+  person3.1: ', "James Lyon"'
   team: 1.0
   url: https://www.youtube.com/embed/g_Zpm_S7QKM
 - category: egr598-2019
@@ -398,10 +513,15 @@
   embed_prefix: https://www.youtube.com/embed/
   id: ybNgmfEjAmE
   name: Team 2
+  people: '["Sheena Benson", "Ryan Borneman", "Jonah Lerner", "Guston Lighthouse"]'
   person1: Sheena Benson
+  person1.1: '"Sheena Benson"'
   person2: Ryan Borneman
+  person2.1: ', "Ryan Borneman"'
   person3: Jonah Lerner
+  person3.1: ', "Jonah Lerner"'
   person4: Guston Lighthouse
+  person4.1: ', "Guston Lighthouse"'
   team: 2.0
   url: https://www.youtube.com/embed/ybNgmfEjAmE
 - category: egr598-2019
@@ -409,10 +529,15 @@
   embed_prefix: https://www.youtube.com/embed/
   id: PcwksQCLKDI
   name: Team 3
+  people: '["Calvin Caldwell", "Caleb Carlson", "Joshua Pace", "Taha Shafa"]'
   person1: Calvin Caldwell
+  person1.1: '"Calvin Caldwell"'
   person2: Caleb Carlson
+  person2.1: ', "Caleb Carlson"'
   person3: Joshua Pace
+  person3.1: ', "Joshua Pace"'
   person4: Taha Shafa
+  person4.1: ', "Taha Shafa"'
   team: 3.0
   url: https://www.youtube.com/embed/PcwksQCLKDI
 - category: egr598-2019
@@ -420,10 +545,16 @@
   embed_prefix: https://www.youtube.com/embed/
   id: jjkITn4U7Hk
   name: Team 5
+  people: '["Yashaswy Govada", "Sudhanshu Katarey", "Abhishu Patel", "Rohith Kumar
+    Punithavel"]'
   person1: Yashaswy Govada
+  person1.1: '"Yashaswy Govada"'
   person2: Sudhanshu Katarey
+  person2.1: ', "Sudhanshu Katarey"'
   person3: Abhishu Patel
+  person3.1: ', "Abhishu Patel"'
   person4: Rohith Kumar Punithavel
+  person4.1: ', "Rohith Kumar Punithavel"'
   team: 5.0
   url: https://www.youtube.com/embed/jjkITn4U7Hk
 - category: egr598-2019
@@ -431,9 +562,13 @@
   embed_prefix: https://www.youtube.com/embed/
   id: Vz-OWv139OU
   name: Team 6
+  people: '["Yuhao Jiang", "Dongting Li", "Benjamin Rathke"]'
   person1: Yuhao Jiang
+  person1.1: '"Yuhao Jiang"'
   person2: Dongting Li
+  person2.1: ', "Dongting Li"'
   person3: Benjamin Rathke
+  person3.1: ', "Benjamin Rathke"'
   team: 6.0
   url: https://www.youtube.com/embed/Vz-OWv139OU
 - category: egr598-2019
@@ -441,10 +576,15 @@
   embed_prefix: https://www.youtube.com/embed/
   id: aiPKkt1Q0aQ
   name: Team 7
+  people: '["Callan Gillette", "Frank Ononye", "Hebellyn Quezada", "Syed Warsi"]'
   person1: Callan Gillette
+  person1.1: '"Callan Gillette"'
   person2: Frank Ononye
+  person2.1: ', "Frank Ononye"'
   person3: Hebellyn Quezada
+  person3.1: ', "Hebellyn Quezada"'
   person4: Syed Warsi
+  person4.1: ', "Syed Warsi"'
   team: 7.0
   url: https://www.youtube.com/embed/aiPKkt1Q0aQ
 - category: egr598-2019
@@ -452,558 +592,887 @@
   embed_prefix: https://www.youtube.com/embed/
   id: HgPRcpVaYTo
   name: Team 8
+  people: '["Justin Hansing", "Kyle Lewis"]'
   person1: Justin Hansing
+  person1.1: '"Justin Hansing"'
   person2: Kyle Lewis
+  person2.1: ', "Kyle Lewis"'
   team: 8.0
   url: https://www.youtube.com/embed/HgPRcpVaYTo
-- 'Unnamed: 17': /assets/images/egr304-f-2018/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr304-f-2018/team-
+  'Unnamed: 24': .png
   category: egr304-2018
   description: Smart Thermometer
   image: /assets/images/egr304-f-2018/team-16.png
   name: Team 16
+  people: '["Cristian Cervantes", "Callan Gillette", "Griffin Puggie", "James Reiter"]'
   person1: Cristian Cervantes
+  person1.1: '"Cristian Cervantes"'
   person2: Callan Gillette
+  person2.1: ', "Callan Gillette"'
   person3: Griffin Puggie
+  person3.1: ', "Griffin Puggie"'
   person4: James Reiter
+  person4.1: ', "James Reiter"'
   team: 16.0
-- 'Unnamed: 17': /assets/images/egr304-f-2018/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr304-f-2018/team-
+  'Unnamed: 24': .png
   category: egr304-2018
   description: Automatic resistor dispensers
   image: /assets/images/egr304-f-2018/team-17.png
   name: Team 17
+  people: '["Brett Goldsmith", "Bao Nguyen", "Jonathan Nguyen", "Mykol Reklaitis"]'
   person1: Brett Goldsmith
+  person1.1: '"Brett Goldsmith"'
   person2: Bao Nguyen
+  person2.1: ', "Bao Nguyen"'
   person3: Jonathan Nguyen
+  person3.1: ', "Jonathan Nguyen"'
   person4: Mykol Reklaitis
+  person4.1: ', "Mykol Reklaitis"'
   team: 17.0
-- 'Unnamed: 17': /assets/images/egr304-f-2018/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr304-f-2018/team-
+  'Unnamed: 24': .png
   category: egr304-2018
   description: Wireless Gardening Assistant
   image: /assets/images/egr304-f-2018/team-18.png
   name: Team 18
+  people: '["Bryce Copenhaver", "Ryan Demerest", "Grady Gaugler", "Mason Smith"]'
   person1: Bryce Copenhaver
+  person1.1: '"Bryce Copenhaver"'
   person2: Ryan Demerest
+  person2.1: ', "Ryan Demerest"'
   person3: Grady Gaugler
+  person3.1: ', "Grady Gaugler"'
   person4: Mason Smith
+  person4.1: ', "Mason Smith"'
   team: 18.0
-- 'Unnamed: 17': /assets/images/egr304-f-2018/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr304-f-2018/team-
+  'Unnamed: 24': .png
   category: egr304-2018
   description: Smart Safe
   image: /assets/images/egr304-f-2018/team-19.png
   name: Team 19
+  people: '["Moath A", "Ryne M", "Skyler M", "Efren V"]'
   person1: Moath A
+  person1.1: '"Moath A"'
   person2: Ryne M
+  person2.1: ', "Ryne M"'
   person3: Skyler M
+  person3.1: ', "Skyler M"'
   person4: Efren V
+  person4.1: ', "Efren V"'
   team: 19.0
-- 'Unnamed: 17': /assets/images/egr304-f-2018/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr304-f-2018/team-
+  'Unnamed: 24': .png
   category: egr304-2018
   description: Smart Hydro
   image: /assets/images/egr304-f-2018/team-20.png
   name: Team 20
+  people: '["Michael Anderson", "Colton Didier", "Benjamin Faudskar", "Robert Williams"]'
   person1: Michael Anderson
+  person1.1: '"Michael Anderson"'
   person2: Colton Didier
+  person2.1: ', "Colton Didier"'
   person3: Benjamin Faudskar
+  person3.1: ', "Benjamin Faudskar"'
   person4: Robert Williams
+  person4.1: ', "Robert Williams"'
   team: 20.0
-- 'Unnamed: 17': /assets/images/egr304-f-2018/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr304-f-2018/team-
+  'Unnamed: 24': .png
   category: egr304-2018
   description: Smart Window Blinds
   image: /assets/images/egr304-f-2018/team-21.png
   name: Team 21
+  people: '["Ryan Bodhipaksha", "Joe Bridge", "Faisal Mosattat"]'
   person1: Ryan Bodhipaksha
+  person1.1: '"Ryan Bodhipaksha"'
   person2: Joe Bridge
+  person2.1: ', "Joe Bridge"'
   person3: Faisal Mosattat
+  person3.1: ', "Faisal Mosattat"'
   team: 21.0
-- 'Unnamed: 17': /assets/images/egr304-f-2018/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr304-f-2018/team-
+  'Unnamed: 24': .png
   category: egr304-2018
   description: Smart Caddy
   image: /assets/images/egr304-f-2018/team-22.png
   name: Team 22
+  people: '["Isai Perez", "Cole Rame", "Elias Turkostane", "Lucas Vasquez"]'
   person1: Isai Perez
+  person1.1: '"Isai Perez"'
   person2: Cole Rame
+  person2.1: ', "Cole Rame"'
   person3: Elias Turkostane
+  person3.1: ', "Elias Turkostane"'
   person4: Lucas Vasquez
+  person4.1: ', "Lucas Vasquez"'
   team: 22.0
-- 'Unnamed: 17': /assets/images/egr304-f-2018/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr304-f-2018/team-
+  'Unnamed: 24': .png
   category: egr304-2018
   description: Smart Rainfall Irrigation System
   image: /assets/images/egr304-f-2018/team-23.png
   name: Team 23
+  people: '["Juan Cabrera", "Charlotte Deming", "Alia Gilbert", "Joseph Patterson"]'
   person1: Juan Cabrera
+  person1.1: '"Juan Cabrera"'
   person2: Charlotte Deming
+  person2.1: ', "Charlotte Deming"'
   person3: Alia Gilbert
+  person3.1: ', "Alia Gilbert"'
   person4: Joseph Patterson
+  person4.1: ', "Joseph Patterson"'
   team: 23.0
-- 'Unnamed: 17': /assets/images/egr304-f-2018/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr304-f-2018/team-
+  'Unnamed: 24': .png
   category: egr304-2018
   description: Live Door Lock
   image: /assets/images/egr304-f-2018/team-24.png
   name: Team 24
+  people: '["Abdullahi Abdirahman", "David Gasson", "Andrew Martinez"]'
   person1: Abdullahi Abdirahman
+  person1.1: '"Abdullahi Abdirahman"'
   person2: David Gasson
+  person2.1: ', "David Gasson"'
   person3: Andrew Martinez
+  person3.1: ', "Andrew Martinez"'
   team: 24.0
-- 'Unnamed: 17': /assets/images/egr304-f-2018/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr304-f-2018/team-
+  'Unnamed: 24': .png
   category: egr304-2018
   description: Smart Door
   image: /assets/images/egr304-f-2018/team-25.png
   name: Team 25
+  people: '["Mario Campero", "Kevin Curran", "Andrei Marinescu", "Haluk Shephard"]'
   person1: Mario Campero
+  person1.1: '"Mario Campero"'
   person2: Kevin Curran
+  person2.1: ', "Kevin Curran"'
   person3: Andrei Marinescu
+  person3.1: ', "Andrei Marinescu"'
   person4: Haluk Shephard
+  person4.1: ', "Haluk Shephard"'
   team: 25.0
-- 'Unnamed: 17': /assets/images/egr314-s-2019/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr314-s-2019/team-
+  'Unnamed: 24': .png
   category: egr314-s-2019
   description: Shooting Gallery
   image: /assets/images/egr314-s-2019/team-201.png
   name: Team 201
+  people: '["Moath Alsaud", "Austin Martinez", "Conor McBarron"]'
   person1: Moath Alsaud
+  person1.1: '"Moath Alsaud"'
   person2: Austin Martinez
+  person2.1: ', "Austin Martinez"'
   person3: Conor McBarron
+  person3.1: ', "Conor McBarron"'
   team: 201.0
-- 'Unnamed: 17': /assets/images/egr314-s-2019/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr314-s-2019/team-
+  'Unnamed: 24': .png
   category: egr314-s-2019
   description: Digital Masterminds
   name: Team 202
+  people: '["Juan Cabrera", "Charlotte Deming", "Brett Goldsmith", "Mykol Reklaitis"]'
   person1: Juan Cabrera
+  person1.1: '"Juan Cabrera"'
   person2: Charlotte Deming
+  person2.1: ', "Charlotte Deming"'
   person3: Brett Goldsmith
+  person3.1: ', "Brett Goldsmith"'
   person4: Mykol Reklaitis
+  person4.1: ', "Mykol Reklaitis"'
   team: 202.0
-- 'Unnamed: 17': /assets/images/egr314-s-2019/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr314-s-2019/team-
+  'Unnamed: 24': .png
   category: egr314-s-2019
   description: Automated Cribbage
   image: /assets/images/egr314-s-2019/team-203.png
   name: Team 203
+  people: '["David Baughman", "Bryce Copenhaver", "Alia Gilbert", "Andrei Marinescu"]'
   person1: David Baughman
+  person1.1: '"David Baughman"'
   person2: Bryce Copenhaver
+  person2.1: ', "Bryce Copenhaver"'
   person3: Alia Gilbert
+  person3.1: ', "Alia Gilbert"'
   person4: Andrei Marinescu
+  person4.1: ', "Andrei Marinescu"'
   team: 203.0
-- 'Unnamed: 17': /assets/images/egr314-s-2019/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr314-s-2019/team-
+  'Unnamed: 24': .png
   category: egr314-s-2019
   description: Smart Fan
   image: /assets/images/egr314-s-2019/team-204.png
   name: Team 204
+  people: '["Daniel Didio", "Ryne Mathias", "Ivan Munoz", "Lukasz Szczepanek"]'
   person1: Daniel Didio
+  person1.1: '"Daniel Didio"'
   person2: Ryne Mathias
+  person2.1: ', "Ryne Mathias"'
   person3: Ivan Munoz
+  person3.1: ', "Ivan Munoz"'
   person4: Lukasz Szczepanek
+  person4.1: ', "Lukasz Szczepanek"'
   team: 204.0
-- 'Unnamed: 17': /assets/images/egr314-s-2019/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr314-s-2019/team-
+  'Unnamed: 24': .png
   category: egr314-s-2019
   description: Cornhole
   image: /assets/images/egr314-s-2019/team-205.png
   name: Team 205
+  people: '["Frank Ononye", "Nicolas Ramirez Apodaca", "Jonald Semallie", "Matthew
+    Thiem"]'
   person1: Frank Ononye
+  person1.1: '"Frank Ononye"'
   person2: Nicolas Ramirez Apodaca
+  person2.1: ', "Nicolas Ramirez Apodaca"'
   person3: Jonald Semallie
+  person3.1: ', "Jonald Semallie"'
   person4: Matthew Thiem
+  person4.1: ', "Matthew Thiem"'
   team: 205.0
-- 'Unnamed: 17': /assets/images/egr314-s-2019/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr314-s-2019/team-
+  'Unnamed: 24': .png
   category: egr314-s-2019
   description: Quiet Game
   image: /assets/images/egr314-s-2019/team-206.png
   name: Team 206
+  people: '["Cristian Cervantes", "Cole Loughrey", "Griffin Puggie", "Robert Williams"]'
   person1: Cristian Cervantes
+  person1.1: '"Cristian Cervantes"'
   person2: Cole Loughrey
+  person2.1: ', "Cole Loughrey"'
   person3: Griffin Puggie
+  person3.1: ', "Griffin Puggie"'
   person4: Robert Williams
+  person4.1: ', "Robert Williams"'
   team: 206.0
-- 'Unnamed: 17': /assets/images/egr314-s-2019/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr314-s-2019/team-
+  'Unnamed: 24': .png
   category: egr314-s-2019
   description: Binary Education Box
   image: /assets/images/egr314-s-2019/team-207.png
   name: Team 207
+  people: '["Thor Bell", "Brett Downey", "Wesley Eisele", "Mariah Thomas"]'
   person1: Thor Bell
+  person1.1: '"Thor Bell"'
   person2: Brett Downey
+  person2.1: ', "Brett Downey"'
   person3: Wesley Eisele
+  person3.1: ', "Wesley Eisele"'
   person4: Mariah Thomas
+  person4.1: ', "Mariah Thomas"'
   team: 207.0
-- 'Unnamed: 17': /assets/images/egr314-s-2019/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr314-s-2019/team-
+  'Unnamed: 24': .png
   category: egr314-s-2019
   description: Criminal Monopoly
   image: /assets/images/egr314-s-2019/team-208.png
   name: Team 208
+  people: '["Benjamin Faudskar", "Bao Nguyen", "Cole Rame", "Alyssa Reid"]'
   person1: Benjamin Faudskar
+  person1.1: '"Benjamin Faudskar"'
   person2: Bao Nguyen
+  person2.1: ', "Bao Nguyen"'
   person3: Cole Rame
+  person3.1: ', "Cole Rame"'
   person4: Alyssa Reid
+  person4.1: ', "Alyssa Reid"'
   team: 208.0
-- 'Unnamed: 17': /assets/images/egr314-s-2019/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr314-s-2019/team-
+  'Unnamed: 24': .png
   category: egr314-s-2019
   description: Spaceship Strategy Game
   image: /assets/images/egr314-s-2019/team-209.png
   name: Team 209
+  people: '["Estevan Aldaco", "Kayleigh Gavin", "Heidi Rodriguez", "Dante Roush"]'
   person1: Estevan Aldaco
+  person1.1: '"Estevan Aldaco"'
   person2: Kayleigh Gavin
+  person2.1: ', "Kayleigh Gavin"'
   person3: Heidi Rodriguez
+  person3.1: ', "Heidi Rodriguez"'
   person4: Dante Roush
+  person4.1: ', "Dante Roush"'
   team: 209.0
-- 'Unnamed: 17': /assets/images/egr304-f-2019/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr304-f-2019/team-
+  'Unnamed: 24': .png
   category: egr304-f-2019
   description: 'Smart Waste Tracking: Trashbit'
   image: /assets/images/egr304-f-2019/team-101.png
   name: Team 101
+  people: '["Kamille Green", "George Muhn", "Kylel Scott"]'
   person1: Kamille Green
+  person1.1: '"Kamille Green"'
   person2: George Muhn
+  person2.1: ', "George Muhn"'
   person3: Kylel Scott
+  person3.1: ', "Kylel Scott"'
   team: 101.0
-- 'Unnamed: 17': /assets/images/egr304-f-2019/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr304-f-2019/team-
+  'Unnamed: 24': .png
   category: egr304-f-2019
   description: Water Control Valve
   image: /assets/images/egr304-f-2019/team-102.png
   name: Team 102
+  people: '["Kenneth Batson", "Nick Fisher", "Scott Lewis"]'
   person1: Kenneth Batson
+  person1.1: '"Kenneth Batson"'
   person2: Nick Fisher
+  person2.1: ', "Nick Fisher"'
   person3: Scott Lewis
+  person3.1: ', "Scott Lewis"'
   team: 102.0
-- 'Unnamed: 17': /assets/images/egr304-f-2019/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr304-f-2019/team-
+  'Unnamed: 24': .png
   category: egr304-f-2019
   description: Nutrition for Food Scarcity
   image: /assets/images/egr304-f-2019/team-103.png
   name: Team 103
+  people: '["Eric Hines", "Raun Mawson", "Christian Thomas", "Josh Weight"]'
   person1: Eric Hines
+  person1.1: '"Eric Hines"'
   person2: Raun Mawson
+  person2.1: ', "Raun Mawson"'
   person3: Christian Thomas
+  person3.1: ', "Christian Thomas"'
   person4: Josh Weight
+  person4.1: ', "Josh Weight"'
   team: 103.0
-- 'Unnamed: 17': /assets/images/egr304-f-2019/team-
-  'Unnamed: 18': .png
+- 'Unnamed: 23': /assets/images/egr304-f-2019/team-
+  'Unnamed: 24': .png
   category: egr304-f-2019
   description: Biological Air Purifier
   image: /assets/images/egr304-f-2019/team-104.png
   name: Team 104
+  people: '["Jonathan Van Dyke", "Andrew Castillo", "Michael Brooks", "Austin Huff"]'
   person1: Jonathan Van Dyke
+  person1.1: '"Jonathan Van Dyke"'
   person2: Andrew Castillo
+  person2.1: ', "Andrew Castillo"'
   person3: Michael Brooks
+  person3.1: ', "Michael Brooks"'
   person4: Austin Huff
+  person4.1: ', "Austin Huff"'
   team: 104.0
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: rz9aKLCySZA
   name: Awab A.
+  people: '[]'
   url: https://www.youtube.com/embed/rz9aKLCySZA
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: X-k90nNOZYc
   name: Kye A.
+  people: '[]'
   url: https://www.youtube.com/embed/X-k90nNOZYc
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: Xh7ffejQBQo
   name: Jeremy B.
+  people: '[]'
   url: https://www.youtube.com/embed/Xh7ffejQBQo
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: Hi-yiUg50lY
   name: Christopher B.
+  people: '[]'
   url: https://www.youtube.com/embed/Hi-yiUg50lY
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: rg-kQ0KqheY
   name: Joseph B.
+  people: '[]'
   url: https://www.youtube.com/embed/rg-kQ0KqheY
 - alt: https://drive.google.com/file/d/1SOCplfM5v4IiNx-w46SQKTnjU8VE7Vjn/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Alexander B.
+  people: '[]'
   url: https://drive.google.com/file/d/1SOCplfM5v4IiNx-w46SQKTnjU8VE7Vjn/preview
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: ecj6CEYkmrU
   name: Bryan C.
+  people: '[]'
   url: https://www.youtube.com/embed/ecj6CEYkmrU
 - alt: https://drive.google.com/file/d/1cX2Ybdww03ZiGpAzS96-0U8NQwQ8_FCu/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Jiaji C.
+  people: '[]'
   url: https://drive.google.com/file/d/1cX2Ybdww03ZiGpAzS96-0U8NQwQ8_FCu/preview
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: NJwq0G56i-Y
   name: Trenton C.
+  people: '[]'
   url: https://www.youtube.com/embed/NJwq0G56i-Y
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: WRqQjg8FxxE
   name: Andrew C.
+  people: '[]'
   url: https://www.youtube.com/embed/WRqQjg8FxxE
 - alt: https://drive.google.com/file/d/1pkyqg6j01jxOgmRAZMeLbznsgnxOauf9/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Kevin C.
+  people: '[]'
   url: https://drive.google.com/file/d/1pkyqg6j01jxOgmRAZMeLbznsgnxOauf9/preview
 - alt: https://drive.google.com/file/d/1jDOss3zywra_gyZIXCD9N-HR-GQ3S9Bd/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Jessica D.
+  people: '[]'
   url: https://drive.google.com/file/d/1jDOss3zywra_gyZIXCD9N-HR-GQ3S9Bd/preview
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: u5uWkSTUKYs
   name: Erick D.
+  people: '[]'
   url: https://www.youtube.com/embed/u5uWkSTUKYs
 - alt: https://drive.google.com/file/d/1XMLOLT_Ud_mphNXNRFXLgOsI8DQY7D0S/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Lindsay D.
+  people: '[]'
   url: https://drive.google.com/file/d/1XMLOLT_Ud_mphNXNRFXLgOsI8DQY7D0S/preview
 - alt: https://drive.google.com/file/d/1xWG9r0wrwgtPV9sDEf2pKEftVkzlbRhy/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Damian E.
+  people: '[]'
   url: https://drive.google.com/file/d/1xWG9r0wrwgtPV9sDEf2pKEftVkzlbRhy/preview
 - alt: https://drive.google.com/file/d/1dcRN4NZiMN1oxon-jluU7NkfH0fIn4w3/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Jose E.
+  people: '[]'
   url: https://drive.google.com/file/d/1dcRN4NZiMN1oxon-jluU7NkfH0fIn4w3/preview
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: NAcY9-PRdvo
   name: Seth F.
+  people: '[]'
   url: https://www.youtube.com/embed/NAcY9-PRdvo
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: FS6W9gflkLk
   name: Bradley G.
+  people: '[]'
   url: https://www.youtube.com/embed/FS6W9gflkLk
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: 1gpjxWhRVs4
   name: Matthew G.
+  people: '[]'
   url: https://www.youtube.com/embed/1gpjxWhRVs4
 - alt: https://drive.google.com/file/d/1T1jjwQlVRZY_pK_L1j_ZpB2XOtF7l1zx/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Jared G.
+  people: '[]'
   url: https://drive.google.com/file/d/1T1jjwQlVRZY_pK_L1j_ZpB2XOtF7l1zx/preview
 - alt: https://drive.google.com/file/d/1ZqYeF5ZF2hSmTq57RJMwoNMXCtYhniQG/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Kiley G.
+  people: '[]'
   url: https://drive.google.com/file/d/1ZqYeF5ZF2hSmTq57RJMwoNMXCtYhniQG/preview
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: zYTs3v5IU50
   name: Lance G.
+  people: '[]'
   url: https://www.youtube.com/embed/zYTs3v5IU50
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: OKKvNSpzwMQ
   name: Trenton G.
+  people: '[]'
   url: https://www.youtube.com/embed/OKKvNSpzwMQ
 - alt: https://drive.google.com/file/d/1XwCh_GpNKK92yfgEIbdf1X8NBeD5Lh4a/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Nicolo H.
+  people: '[]'
   url: https://drive.google.com/file/d/1XwCh_GpNKK92yfgEIbdf1X8NBeD5Lh4a/preview
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: d9-O_UIh-Sg
   name: Jerred H.
+  people: '[]'
   url: https://www.youtube.com/embed/d9-O_UIh-Sg
 - alt: https://drive.google.com/file/d/1nYn8LJiSc0WPM048weIjwJNGWVOuDkmb/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Jade H.
+  people: '[]'
   url: https://drive.google.com/file/d/1nYn8LJiSc0WPM048weIjwJNGWVOuDkmb/preview
 - alt: https://drive.google.com/file/d/1-MalJnNPTDPdNfieMehKWDZF1ftUpyyc/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Connor H.
+  people: '[]'
   url: https://drive.google.com/file/d/1-MalJnNPTDPdNfieMehKWDZF1ftUpyyc/preview
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: KAmVJP8qoDM
   name: Matthew J.
+  people: '[]'
   url: https://www.youtube.com/embed/KAmVJP8qoDM
 - alt: https://drive.google.com/file/d/1_M01ke_5G7a3L8kgwBV2aY0SuNbkMcF_/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Jax J.
+  people: '[]'
   url: https://drive.google.com/file/d/1_M01ke_5G7a3L8kgwBV2aY0SuNbkMcF_/preview
 - alt: https://drive.google.com/file/d/1qqbDLowgVTBo9Cv1vt6EZ4PNbec-xVB1/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Ameil J.
+  people: '[]'
   url: https://drive.google.com/file/d/1qqbDLowgVTBo9Cv1vt6EZ4PNbec-xVB1/preview
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: mzO-4wM2Lg8
   name: Austin J.
+  people: '[]'
   url: https://www.youtube.com/embed/mzO-4wM2Lg8
 - alt: https://drive.google.com/file/d/1oGNhtSUd3VvAoN_D8aYasdfX9Z5nbYaG/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Kyle C.-K.
+  people: '[]'
   url: https://drive.google.com/file/d/1oGNhtSUd3VvAoN_D8aYasdfX9Z5nbYaG/preview
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: cTLIOlwU0P0
   name: Austin K.
+  people: '[]'
   url: https://www.youtube.com/embed/cTLIOlwU0P0
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: GmbLTqX21UI
   name: Anson K.
+  people: '[]'
   url: https://www.youtube.com/embed/GmbLTqX21UI
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: lD_Xu79lMfk
   name: Wendy L.
+  people: '[]'
   url: https://www.youtube.com/embed/lD_Xu79lMfk
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: SXcu9xieUWQ
   name: John L.
+  people: '[]'
   url: https://www.youtube.com/embed/SXcu9xieUWQ
 - alt: https://drive.google.com/file/d/1x-IDGGH-wLMblG3fG9B5vw4-UDXFBzNg/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Chang L.
+  people: '[]'
   url: https://drive.google.com/file/d/1x-IDGGH-wLMblG3fG9B5vw4-UDXFBzNg/preview
 - alt: https://drive.google.com/file/d/1IgNJSztr02ZLCpnXIYvCX9weoJ-tey1F/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Petros M.
+  people: '[]'
   url: https://drive.google.com/file/d/1IgNJSztr02ZLCpnXIYvCX9weoJ-tey1F/preview
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: bFQiuFA-NEA
   name: Aurausp M.
+  people: '[]'
   url: https://www.youtube.com/embed/bFQiuFA-NEA
 - alt: https://arizonastateu-my.sharepoint.com/personal/bmansoo1_sundevils_asu_edu/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9hcml6b25hc3RhdGV1LW15LnNoYXJlcG9pbnQuY29tLzpmOi9nL3BlcnNvbmFsL2JtYW5zb28xX3N1bmRldmlsc19hc3VfZWR1L0V2cld2TjlzNFVGSXJxcG4tbVpESEdrQnpHYXlVam9LamZvSEQ5TDhCelNHR0E%5FcnRpbWU9Mm1UcTd3V2IyRWc&id=%2Fpersonal%2Fbmansoo1%5Fsundevils%5Fasu%5Fedu%2FDocuments%2FClasses%2FEGR%20304%2FCourse%20Videos%2FStable%204K%2060fps%2EMOV&parent=%2Fpersonal%2Fbmansoo1%5Fsundevils%5Fasu%5Fedu%2FDocuments%2FClasses%2FEGR%20304%2FCourse%20Videos
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Borna M.
+  people: '[]'
   url: https://arizonastateu-my.sharepoint.com/personal/bmansoo1_sundevils_asu_edu/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9hcml6b25hc3RhdGV1LW15LnNoYXJlcG9pbnQuY29tLzpmOi9nL3BlcnNvbmFsL2JtYW5zb28xX3N1bmRldmlsc19hc3VfZWR1L0V2cld2TjlzNFVGSXJxcG4tbVpESEdrQnpHYXlVam9LamZvSEQ5TDhCelNHR0E%5FcnRpbWU9Mm1UcTd3V2IyRWc&id=%2Fpersonal%2Fbmansoo1%5Fsundevils%5Fasu%5Fedu%2FDocuments%2FClasses%2FEGR%20304%2FCourse%20Videos%2FStable%204K%2060fps%2EMOV&parent=%2Fpersonal%2Fbmansoo1%5Fsundevils%5Fasu%5Fedu%2FDocuments%2FClasses%2FEGR%20304%2FCourse%20Videos
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: NRXz-SQrFrs
   name: Samuel M.
+  people: '[]'
   url: https://www.youtube.com/embed/NRXz-SQrFrs
 - alt: https://drive.google.com/file/d/1dA3ksQZJ2PfDaMdnPhTXaxLY8XW9sqD2/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Shannon M.
+  people: '[]'
   url: https://drive.google.com/file/d/1dA3ksQZJ2PfDaMdnPhTXaxLY8XW9sqD2/preview
 - alt: https://drive.google.com/file/d/1-1-ZzAndVqsSOCDxDttyFttzjyS1H12P/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Andrew M.
+  people: '[]'
   url: https://drive.google.com/file/d/1-1-ZzAndVqsSOCDxDttyFttzjyS1H12P/preview
 - alt: https://drive.google.com/file/d/1hcB5yCHFpUbqq3t3b58Tk1037xIL29aY/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Alexander O.
+  people: '[]'
   url: https://drive.google.com/file/d/1hcB5yCHFpUbqq3t3b58Tk1037xIL29aY/preview
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: Wx0vc942qdM
   name: Adrian R.
+  people: '[]'
   url: https://www.youtube.com/embed/Wx0vc942qdM
 - alt: https://drive.google.com/file/d/1K3nDuq16Ac0ga1sDf0rorr68k4F7NraU/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Priscilla R.
+  people: '[]'
   url: https://drive.google.com/file/d/1K3nDuq16Ac0ga1sDf0rorr68k4F7NraU/preview
 - alt: https://drive.google.com/file/d/1SH0RiGLgTNsW1jbB9RLvD2LjONLxRhwi/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Aaron S.
+  people: '[]'
   url: https://drive.google.com/file/d/1SH0RiGLgTNsW1jbB9RLvD2LjONLxRhwi/preview
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: k_sJKReuD68
   name: Michael S.
+  people: '[]'
   url: https://www.youtube.com/embed/k_sJKReuD68
 - alt: https://drive.google.com/drive/u/1/folders/1Er0IhPLpe8CL_PW4ChhE9N2fljtHhybn
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Randy S.
+  people: '[]'
   url: https://drive.google.com/drive/u/1/folders/1Er0IhPLpe8CL_PW4ChhE9N2fljtHhybn
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: 9SVJLgnoLPc
   name: Spencer S.
+  people: '[]'
   url: https://www.youtube.com/embed/9SVJLgnoLPc
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Fabian S.
+  people: '[]'
   url: 0
 - alt: https://drive.google.com/file/d/1AL7TnlYp0ogqrjnFDdJ33Ry4pWoW9Bnd/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Roberto S.
+  people: '[]'
   url: https://drive.google.com/file/d/1AL7TnlYp0ogqrjnFDdJ33Ry4pWoW9Bnd/preview
 - alt: https://drive.google.com/file/d/1djLK_3jcPUBkaiDG_d1_fr6JmJYzARFC/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Michael S.
+  people: '[]'
   url: https://drive.google.com/file/d/1djLK_3jcPUBkaiDG_d1_fr6JmJYzARFC/preview
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: KRr51SuLVzs
   name: John S.
+  people: '[]'
   url: https://www.youtube.com/embed/KRr51SuLVzs
 - alt: https://drive.google.com/file/d/1snP2CQN5PjTlqL9ZrmOzuMr8yvIRjnaP/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Adam S.
+  people: '[]'
   url: https://drive.google.com/file/d/1snP2CQN5PjTlqL9ZrmOzuMr8yvIRjnaP/preview
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: OEGfMsPmIvQ
   name: Brittney T.
+  people: '[]'
   url: https://www.youtube.com/embed/OEGfMsPmIvQ
 - alt: https://drive.google.com/file/d/1TRSmviWCPThlDFmEJ6MawY_mwZZXMiNl/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Isabelle T.
+  people: '[]'
   url: https://drive.google.com/file/d/1TRSmviWCPThlDFmEJ6MawY_mwZZXMiNl/preview
 - alt: https://drive.google.com/file/d/19bX81Qc582vcpI0cki-unoMvFjwBYk3P/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Anthony T.
+  people: '[]'
   url: https://drive.google.com/file/d/19bX81Qc582vcpI0cki-unoMvFjwBYk3P/preview
 - alt: https://drive.google.com/file/d/1vFYZWV9pBL97CvS6Lk5QAjlP1QhXWpK3/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Clark V.
+  people: '[]'
   url: https://drive.google.com/file/d/1vFYZWV9pBL97CvS6Lk5QAjlP1QhXWpK3/preview
 - category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   id: emP7IOX6efs
   name: James W.
+  people: '[]'
   url: https://www.youtube.com/embed/emP7IOX6efs
 - alt: https://drive.google.com/file/d/1SRvSEnMBif9DGOmXguSrh_w5kGmYOwur/preview
   category: egr304-f-2020
   embed_prefix: https://www.youtube.com/embed/
   name: Alejandro Y.
+  people: '[]'
   url: https://drive.google.com/file/d/1SRvSEnMBif9DGOmXguSrh_w5kGmYOwur/preview
+- category: egr314-s-2021
+  name: Team 201
+  people: '["Kye A.", "Joseph B.", "Bradley G.", "John L."]'
+  person1: Kye A.
+  person1.1: '"Kye A."'
+  person2: Joseph B.
+  person2.1: ', "Joseph B."'
+  person3: Bradley G.
+  person3.1: ', "Bradley G."'
+  person4: John L.
+  person4.1: ', "John L."'
+  team: 201.0
+- category: egr314-s-2021
+  name: Team 202
+  people: '["Awab S.", "Erick D.", "Fabian S.", "Roberto S."]'
+  person1: Awab S.
+  person1.1: '"Awab S."'
+  person2: Erick D.
+  person2.1: ', "Erick D."'
+  person3: Fabian S.
+  person3.1: ', "Fabian S."'
+  person4: Roberto S.
+  person4.1: ', "Roberto S."'
+  team: 202.0
+- category: egr314-s-2021
+  name: Team 203
+  people: '["Trenton C.", "Andrew C.", "Kevin C.", "Andrew M"]'
+  person1: Trenton C.
+  person1.1: '"Trenton C."'
+  person2: Andrew C.
+  person2.1: ', "Andrew C."'
+  person3: Kevin C.
+  person3.1: ', "Kevin C."'
+  person4: Andrew M
+  person4.1: ', "Andrew M"'
+  team: 203.0
+- category: egr314-s-2021
+  name: Team 204
+  people: '["Tyler J", "Adrian R.", "Michael S.", "Anthony T."]'
+  person1: Tyler J
+  person1.1: '"Tyler J"'
+  person2: Adrian R.
+  person2.1: ', "Adrian R."'
+  person3: Michael S.
+  person3.1: ', "Michael S."'
+  person4: Anthony T.
+  person4.1: ', "Anthony T."'
+  team: 204.0
+- category: egr314-s-2021
+  name: Team 205
+  people: '["Seth F.", "Jerred H.", "Samuel M", "Alejandro Y."]'
+  person1: Seth F.
+  person1.1: '"Seth F."'
+  person2: Jerred H.
+  person2.1: ', "Jerred H."'
+  person3: Samuel M
+  person3.1: ', "Samuel M"'
+  person4: Alejandro Y.
+  person4.1: ', "Alejandro Y."'
+  team: 205.0
+- category: egr314-s-2021
+  name: Team 206
+  people: '["Jared G.", "Kiley G.", "Jade H.", "Connor H.", "Adam S."]'
+  person1: Jared G.
+  person1.1: '"Jared G."'
+  person2: Kiley G.
+  person2.1: ', "Kiley G."'
+  person3: Jade H.
+  person3.1: ', "Jade H."'
+  person4: Connor H.
+  person4.1: ', "Connor H."'
+  person5: Adam S.
+  person5.1: ', "Adam S."'
+  team: 206.0
+- category: egr557-s-2021
+  name: Team 1
+  people: '["James A.", "Kathleen B.", "Cree H.", "Daniel S."]'
+  person1: James A.
+  person1.1: '"James A."'
+  person2: Kathleen B.
+  person2.1: ', "Kathleen B."'
+  person3: Cree H.
+  person3.1: ', "Cree H."'
+  person4: Daniel S.
+  person4.1: ', "Daniel S."'
+  team: 1.0
+- category: egr557-s-2021
+  name: Team 2
+  people: '["Siddarthan D.", "Kevin J", "Romney K.", "Sanchit S."]'
+  person1: Siddarthan D.
+  person1.1: '"Siddarthan D."'
+  person2: Kevin J
+  person2.1: ', "Kevin J"'
+  person3: Romney K.
+  person3.1: ', "Romney K."'
+  person4: Sanchit S.
+  person4.1: ', "Sanchit S."'
+  team: 2.0
+- category: egr557-s-2021
+  name: Team 3
+  people: '["Chris B.", "George M.", "Lien W."]'
+  person1: Chris B.
+  person1.1: '"Chris B."'
+  person2: George M.
+  person2.1: ', "George M."'
+  person3: Lien W.
+  person3.1: ', "Lien W."'
+  team: 3.0
+- category: egr557-s-2021
+  name: Team 4
+  people: '["Feba A.", "Charlotte D.", "Andrei M."]'
+  person1: Feba A.
+  person1.1: '"Feba A."'
+  person2: Charlotte D.
+  person2.1: ', "Charlotte D."'
+  person3: Andrei M.
+  person3.1: ', "Andrei M."'
+  team: 4.0
+- category: egr557-s-2021
+  name: Team 5
+  people: '["Gilgal A.", "Javon G.", "Jonathan N.", "Jacob S."]'
+  person1: Gilgal A.
+  person1.1: '"Gilgal A."'
+  person2: Javon G.
+  person2.1: ', "Javon G."'
+  person3: Jonathan N.
+  person3.1: ', "Jonathan N."'
+  person4: Jacob S.
+  person4.1: ', "Jacob S."'
+  team: 5.0
+- category: egr557-s-2021
+  name: Team 6
+  people: '["Cole B.", "Fuchen C.", "Nathanial R.", "Mason S."]'
+  person1: Cole B.
+  person1.1: '"Cole B."'
+  person2: Fuchen C.
+  person2.1: ', "Fuchen C."'
+  person3: Nathanial R.
+  person3.1: ', "Nathanial R."'
+  person4: Mason S.
+  person4.1: ', "Mason S."'
+  team: 6.0
+- category: egr557-s-2021
+  name: Team 7
+  people: '["Manoj A.", "Chien-Wen P.", "Claudio V.", "Dallas W."]'
+  person1: Manoj A.
+  person1.1: '"Manoj A."'
+  person2: Chien-Wen P.
+  person2.1: ', "Chien-Wen P."'
+  person3: Claudio V.
+  person3.1: ', "Claudio V."'
+  person4: Dallas W.
+  person4.1: ', "Dallas W."'
+  team: 7.0

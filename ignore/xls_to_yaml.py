@@ -15,16 +15,15 @@ import math
 
 
 files = []
-files.append('/home/danaukes/websites/idealabasu.github.io/ignore/data/research-projects.xlsx')
+files.append('/home/danaukes/websites/idealabasu.github.io/ignore/data/research_projects.xlsx')
 files.append('/home/danaukes/websites/idealabasu.github.io/ignore/data/posters.xlsx')
-files.append('/home/danaukes/websites/idealabasu.github.io/ignore/data/class-projects.xlsx')
+files.append('/home/danaukes/websites/idealabasu.github.io/ignore/data/class_projects.xlsx')
 files.append('/home/danaukes/websites/idealabasu.github.io/ignore/data/students.xlsx')
 
 def convert(file):
     newfile = os.path.split(file)[1]
     newfile = os.path.splitext(newfile)[0]
-    newfile = newfile.replace('-','_')
-    newfile = os.path.join('~',newfile+'.yaml')
+    newfile = os.path.join('../','data',newfile+'.yaml')
     newfile = os.path.normpath(os.path.expanduser(newfile))
     
     df = pandas.read_excel(file)

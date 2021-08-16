@@ -2,7 +2,7 @@
 {{ define "title" }} Section Title {{ end }}
 
 {{ define "main" }}
-  <main>  
+  <main>
 
   <h1>{{ .Title }}</h1>
 
@@ -10,9 +10,9 @@
 
   {{ range $.Site.Data.posters }}
   <h2>{{ .first_author }}</h2>
-  
-  {{ if ne .image ".nan" }}<p class="text-center"><img src="/{{ .directory }}/{{.file_root}}.{{.thumb_type}}"></p>{{end}}
-  
+
+  <p class="text-center"><img src="/{{ .directory }}/{{.file_root}}.{{.thumb_type}}"></p>
+
   {{ end }}
   </main>
 {{ end }}

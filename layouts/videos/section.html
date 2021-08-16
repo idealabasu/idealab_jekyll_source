@@ -1,7 +1,7 @@
 {{ define "title" }} Section Title {{ end }}
 
 {{ define "main" }}
-  <main>  
+  <main>
 
   <h1>{{ .Title }}</h1>
 
@@ -13,11 +13,20 @@
   {{ end }}
   </ul>
 
-  <ul class="contents">
-  {{ range $.Site.Data.videos }}
-  <li> <a href="https://www.youtube.com/watch?v={{ .link }}"> {{ .caption }}</a></li>
-  {{ end }}
-  </ul>
-  
+  <div class="row equal">
+    {{ range $.Site.Data.videos }}
+    <div class="col-sm-6">
+      <div class="thumbnail">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe src="{{.link}}" allowfullscreen></iframe>
+        </div>
+        <div class="caption">
+        {{.caption}}
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+
   </main>
 {{ end }}
