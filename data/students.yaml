@@ -1,5 +1,5 @@
 - PhD: x
-  'Unnamed: 19': 2017.0
+  'Unnamed: 19': 2017
   description: 'Mohammad is a System Engineering Ph.D. student at ASU. He graduated
     his MSc. in Mechatronics Engineering from University of Tehran. He was a member
     of TaarLab in his MSc. He worked on ``Dynamical Control & Identification of 3-DOF
@@ -23,7 +23,7 @@
 - Barrett: x
   Masters: x
   Undergraduate: x
-  'Unnamed: 19': 2016.0
+  'Unnamed: 19': 2016
   email: bshuch@asu.edu
   firstname: Benjamin
   former: x
@@ -36,7 +36,7 @@
   stop: Spring 2019
 - FURI: x
   Undergraduate: x
-  'Unnamed: 19': 2017.0
+  'Unnamed: 19': 2017
   email: Andrew.J.Carlson@asu.edu
   firstname: Drew
   former: x
@@ -48,7 +48,7 @@
   start_semester: Summer
   stop: Spring 2019
 - PhD: x
-  'Unnamed: 19': 2017.0
+  'Unnamed: 19': 2017
   description: I am a Mechanical engineer by education and an Electrical engineer
     by practice. Before I join the Systems engineering Ph.D. program at ASU, I was
     a masters student at Georgia Tech working in the area of prosthetics and human
@@ -70,7 +70,7 @@
   FURI: x
   KEEN: x
   Undergraduate: x
-  'Unnamed: 19': 2017.0
+  'Unnamed: 19': 2017
   email: jknaup@asu.edu
   firstname: Jacob
   former: x
@@ -83,7 +83,7 @@
   stop: Spring 2019
 - FURI: x
   Undergraduate: x
-  'Unnamed: 19': 2018.0
+  'Unnamed: 19': 2018
   email: sabenson@asu.edu
   firstname: Sheena
   former: x
@@ -99,7 +99,7 @@
   Masters: x
   Masters Thesis: x
   PhD: x
-  'Unnamed: 19': 2018.0
+  'Unnamed: 19': 2018
   email: cbrauer@asu.edu
   firstname: Cole
   img_link: /assets/images/headshots/brauer2.jpg
@@ -111,7 +111,7 @@
   stop: current
 - FURI: x
   Undergraduate: x
-  'Unnamed: 19': 2018.0
+  'Unnamed: 19': 2018
   email: agilber6@asu.edu
   firstname: Alia
   former: x
@@ -121,7 +121,7 @@
   start_semester: Fall
   stop: Spring 2019
 - PhD: x
-  'Unnamed: 19': 2018.0
+  'Unnamed: 19': 2018
   description: Dongting Li is a Systems Engineering Ph.D. student and joined IDEAlab
     in 2018 fall. His research focuses on robot modeling and locomotion inside granular
     media. He received his bachelor's degree in 2018.
@@ -137,7 +137,7 @@
 - Barrett: x
   FURI: x
   Undergraduate: x
-  'Unnamed: 19': 2018.0
+  'Unnamed: 19': 2018
   email: glightho@asu.edu
   firstname: Guston
   former: x
@@ -151,7 +151,7 @@
 - KEEN: x
   Masters: x
   Masters Thesis: x
-  'Unnamed: 19': 2018.0
+  'Unnamed: 19': 2018
   email: tshafa@asu.edu
   firstname: Taha
   former: x
@@ -164,7 +164,7 @@
   stop: Summer 2020
 - Masters: x
   Masters Thesis: x
-  'Unnamed: 19': 2019.0
+  'Unnamed: 19': 2019
   email: wsadams@asu.edu
   firstname: Wade
   former: x
@@ -174,7 +174,7 @@
   start_semester: Spring
   stop: Spring 2019
 - PhD: x
-  'Unnamed: 19': 2019.0
+  'Unnamed: 19': 2019
   description: Yuhao is a Ph.D. student in Mechanical Engineering at ASU. His research
     interest mainly lies in controls, robotics, and dynamic systems. Prior to joining
     IdeaLab, he received his M.S. degree in Mechanical Engineering from University
@@ -193,7 +193,7 @@
   start_semester: Spring
   stop: current
 - Masters: x
-  'Unnamed: 19': 2019.0
+  'Unnamed: 19': 2019
   email: skatarey@asu.edu
   firstname: Sudhanshu
   former: x
@@ -203,7 +203,7 @@
   start_semester: Spring
   stop: Spring 2020
 - Undergraduate: x
-  'Unnamed: 19': 2019.0
+  'Unnamed: 19': 2019
   email: jnbraue1@asu.edu
   firstname: Jude
   lastname: Brauer
@@ -213,7 +213,7 @@
   stop: current
 - Masters: x
   Masters Thesis: x
-  'Unnamed: 19': 2019.0
+  'Unnamed: 19': 2019
   email: cwewell@asu.edu
   firstname: Clint
   former: x
@@ -224,7 +224,7 @@
   stop: Fall 2019
 - Masters: x
   Masters Thesis: x
-  'Unnamed: 19': 2019.0
+  'Unnamed: 19': 2019
   email: vgadekar@asu.edu
   firstname: Vipul
   former: x
@@ -236,7 +236,7 @@
   start_semester: Fall
   stop: Summer 2020
 - Undergraduate: x
-  'Unnamed: 19': 2019.0
+  'Unnamed: 19': 2019
   email: cgjeffri@asu.edu
   firstname: Charles
   lastname: Jeffries
@@ -246,7 +246,7 @@
   stop: current
 - Barrett: x
   Undergraduate: x
-  'Unnamed: 19': 2019.0
+  'Unnamed: 19': 2019
   email: fononye@asu.edu
   firstname: Frank
   former: x
@@ -259,7 +259,7 @@
   stop: Spring 2020
 - Barrett: x
   Undergraduate: x
-  'Unnamed: 19': 2019.0
+  'Unnamed: 19': 2019
   email: haquezad@asu.edu
   firstname: Hebellyn
   former: x
@@ -271,7 +271,7 @@
   stop: Spring 2020
 - FURI: x
   Undergraduate: x
-  'Unnamed: 19': 2019.0
+  'Unnamed: 19': 2019
   email: mrana8@asu.edu
   firstname: Mannat
   former: x
@@ -284,7 +284,7 @@
   stop: Fall 2019
 - Barrett: x
   Undergraduate: x
-  'Unnamed: 19': 2019.0
+  'Unnamed: 19': 2019
   email: daroush@asu.edu
   firstname: Dante
   former: x
@@ -296,15 +296,16 @@
   start_semester: Fall
   stop: Spring 2020
 - PhD: x
-  'Unnamed: 19': 2020.0
+  'Unnamed: 19': 2020
   email: cpan22@asu.edu
   firstname: Chien-Wen
+  former: x
   lastname: Pan
   name: Chien-Wen Pan
   start: Fall 2020
   start_semester: Fall
 - PhD: x
-  'Unnamed: 19': 2021.0
+  'Unnamed: 19': 2021
   email: fchen65@asu.edu
   firstname: Fuchen
   lastname: Chen
@@ -314,7 +315,7 @@
   stop: current
 - FURI: x
   Undergraduate: x
-  'Unnamed: 19': 2021.0
+  'Unnamed: 19': 2021
   email: eduarte1@asu.edu
   firstname: Erick
   lastname: Duarte
@@ -325,7 +326,7 @@
 - Barrett: x
   FURI: x
   Undergraduate: x
-  'Unnamed: 19': 2021.0
+  'Unnamed: 19': 2021
   email: akwan2@asu.edu
   firstname: Anson
   lastname: Kwan
@@ -333,7 +334,3 @@
   start: Fall 2021
   start_semester: Fall
   stop: current
-- start: ' '
-- start: ' '
-- start: ' '
-- start: ' '

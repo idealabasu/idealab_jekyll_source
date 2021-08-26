@@ -8,17 +8,35 @@
 
   {{ .Content }}
 
-  {{ range .Pages }}
-  <h2>{{ .Title }}</h2>
-
-  <p>{{.Summary | safeHTML }}</p>
+  {{ range where (where $.Site.Data.research_projects "archived" "!=" "x") "publish" "==" "x" }}
+  <div class="media">
+    <div class="media-left media-middle">
+      <a href="#">
+        <img class="media-object" src="{{ .image }}" alt="">
+      </a>
+    </div>
+    <div class="media-body">
+      <h4>{{ .title }} <span class="badge">{{.key}}</span></h2>
+      <p>{{ .description }}</p>
+      <p><em>{{ .funding }}</em></p>
+    </div>
+  </div>
   {{ end }}
 
-
-  {{ range $.Site.Data.research_projects }}
-  <h2>{{ .title }}</h2>
-  {{ if ne .image ".nan" }}<p class="text-center"><img src="{{ .image }}"></p>{{end}}
-  <p>{{ .description }}</p>
+  <h3> Archived </h3>
+  {{ range where (where $.Site.Data.research_projects "archived" "==" "x") "publish" "==" "x" }}
+  <div class="media">
+    <div class="media-left media-middle">
+      <a href="#">
+        <img class="media-object" src="{{ .image }}" alt="">
+      </a>
+    </div>
+    <div class="media-body">
+      <h4>{{ .title }} <span class="badge">{{.key}}</span></h2>
+      <p>{{ .description }}</p>
+      <p><em>{{ .funding }}</em></p>
+    </div>
+  </div>
   {{ end }}
   </main>
 {{ end }}

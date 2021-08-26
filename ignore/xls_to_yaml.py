@@ -15,10 +15,10 @@ import math
 
 
 files = []
-files.append('/home/danaukes/websites/idealabasu.github.io/ignore/data/research_projects.xlsx')
-files.append('/home/danaukes/websites/idealabasu.github.io/ignore/data/posters.xlsx')
-files.append('/home/danaukes/websites/idealabasu.github.io/ignore/data/class_projects.xlsx')
-files.append('/home/danaukes/websites/idealabasu.github.io/ignore/data/students.xlsx')
+files.append('data/research_projects.xlsx')
+files.append('data/posters.xlsx')
+files.append('data/class_projects.xlsx')
+files.append('data/students.xlsx')
 
 def convert(file):
     newfile = os.path.split(file)[1]

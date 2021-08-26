@@ -1,8 +1,10 @@
 ---
-description: Here is the graduate student travel funding request form/information. 
+title: Travel Funding Options for Students
+description: Here is the graduate student travel funding request form/information.
+date: 2019-04-20
 ---
 
-Here is the graduate student travel funding request form/information.  
+Here is the graduate student travel funding request form/information.
 
 | Resource                                           | Link                                                                                         | Details                                                |
 |:---------------------------------------------------|:---------------------------------------------------------------------------------------------|:-------------------------------------------------------|

@@ -1,6 +1,6 @@
 ---
 title: Publications
-bibfile: 
+bibFile: data/mypapers.json # path relative to project root
 ---
 
 ## Journal articles

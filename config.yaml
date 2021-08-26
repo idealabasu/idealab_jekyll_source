@@ -4,6 +4,8 @@ title: "IDEAlab"
 theme:
  - hugo-cite
 params:
+  github_repo: "https://github.com/idealabasu/idealabasu.github.io"
+  github_edit_branch: hugo
   organization_name: IDEAlab
   home_path: ""
   author: Daniel M. Aukes

@@ -1,0 +1,24 @@
+{{ define "title" }} {{ .Title }} | {{ .Site.Title }} {{ end }}
+
+{{ define "main" }}
+  <main>
+
+  <h1>{{ .Title }}</h1>
+
+  {{ .Content }}
+
+  {{ range .Pages }}
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h3 class="panel-title"><a href="{{ .RelPermalink }}">{{if .Title }}{{.Title}}{{ else }}{{ .RelPermalink }}{{end}}</a></h3>
+    </div>
+    <div class="panel-body">
+      <div>
+      <em>{{ .Date | time.Format ":date_long" }}</em><br>
+      {{ .Summary }}</div>
+      <a href="{{ .RelPermalink }}"><button type="button" class="btn btn-primary" aria-label="Read More">Read More...</button></a>
+    </div>
+  </div>
+  {{ end }}
+  </main>
+{{ end }}

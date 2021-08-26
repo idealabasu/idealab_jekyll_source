@@ -1,5 +1,7 @@
 ---
+title: Night of the Open Door
 description: The IDEAlab met you!
+date: 2017-02-17
 ---
 
 <div class="embed-responsive embed-responsive-4by3">

@@ -1,5 +1,7 @@
 ---
+title: Two Papers Accepted!
 description: We have had two papers recently accepted!
+date: 2017-05-01
 ---
 
 We have had two papers recently accepted!

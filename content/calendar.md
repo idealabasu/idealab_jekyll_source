@@ -6,6 +6,4 @@ title: Calendar
 
 [Schedule an appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUczUW5BTnJwQlktfGRlZmF1bHR8MWJkYjgxMDFjOTYxZTRjODNkNjZjODMwOTY0MGUwNDE)  
 
-[Sign up for lab time](https://calendar.google.com/calendar/selfsched?sstoken=UUJzMzlDZEhzSF95fGRlZmF1bHR8YmVlNGJkMzRlNzZkNjliY2NmYjlhNDk3YTJiNmIxYWE)
-
 Add yourself to the [IDEAlab-info](https://groups.google.com/forum/#!forum/idealab-info) listserv to stay up to date on meeting times and location changes.

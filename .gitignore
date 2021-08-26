@@ -1,8 +1,0 @@
-_site
-
-/assets/bootstrap/grunt
-/assets/bootstrap/less
-/assets/jquery/src
-
-yarn-error.log
-**/.jekyll-cache/**

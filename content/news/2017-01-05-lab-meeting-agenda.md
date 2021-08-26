@@ -1,7 +1,7 @@
 ---
-#title: Lab Meeting Agenda
-#date: 2017-01-05
+title: Lab Meeting Agenda
 description: Lab meeting agenda for Friday, Jan 6
+date: 2017-01-05
 ---
 
 Topics

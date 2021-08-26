@@ -10,13 +10,25 @@
 </div>
 <div class="col-md-4 col-sm-12 space-bot-md">
     <p><a class="footer-logo-link" href="http://robotics.asu.edu"><img class="img-responsive" style="margin: 0 auto;" src="/assets/asu-robotics-logo-plain.svg" ></a></p>
+    
+      <div class="text-center">
+        <p>{{ .Site.Params.copyright | markdownify }}</p>
+        {{ if .Site.Params.github_repo }}
+        {{ if .Site.Params.github_edit_branch  }}
+        {{ if .File.Path }}
+        {{ $fp:=.File.Path }}
+        <p><a href="{{ .Site.Params.github_repo }}/edit/{{ .Site.Params.github_edit_branch  }}/content/{{replace $fp "\\" "/"}}"> Edit this Page</a></p>
+        {{ end }}
+        {{ end }}
+        {{ end }}
+      </div>
+    
 </div>
 <div class="col-md-4 col-sm-12 space-bot-md">
   <h2 class="text-right">External Links</h2>
   <ul class="text-right">
     <li><a class="footer-link" href="https://fullcircle.asu.edu/?s=robotics" target="_blank">Full Circle Robotics News <i class="fa fa-external-link" aria-hidden="true"></i></a></li>
     <li><a class="footer-link" href="http://www.popupcad.org" target="_blank">popupCAD.org <i class="fa fa-external-link" aria-hidden="true"></i></a></li>
-    <li><a class="footer-link" href="http://www.c-turtle.org" target="_blank">c-turtle.org <i class="fa fa-external-link" aria-hidden="true"></i></a></li>
     <li><a class="footer-link" href="http://robotics.asu.edu" target="_blank">robotics.asu.edu <i class="fa fa-external-link" aria-hidden="true"></i></a></li>
   </ul>
 </div>

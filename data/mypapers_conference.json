@@ -1,1763 +1,1638 @@
 [
-  {
-    "author": [
-      {
-        "family": "The",
-        "given": "Increasing"
-      },
-      {
-        "family": "Span",
-        "given": "Life"
-      },
-      {
-        "family": "Foldable",
-        "given": "O F"
-      },
-      {
-        "family": "With",
-        "given": "Manipulators"
-      }
-    ],
-    "id": "The2020",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "title": "DETC2020-20168",
-    "type": "article-journal"
+ {
+  "author": [
+   {
+    "family": "Brauer",
+    "given": "Cole"
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel M."
+   }
+  ],
+  "id": "Brauer2021",
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     1,
+     1
+    ]
+   ]
   },
-  {
-    "DOI": "10.1007/978-3-319-63537-8_19",
-    "URL": "http://link.springer.com/10.1007/978-3-319-63537-8_19",
-    "author": [
-      {
-        "family": "Jansen",
-        "given": "Andrew"
-      },
-      {
-        "family": "Luck",
-        "given": "Kevin Sebastian"
-      },
-      {
-        "family": "Campbell",
-        "given": "Joseph"
-      },
-      {
-        "family": "Amor",
-        "given": "Heni Ben"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel M"
-      }
-    ],
-    "container-title": "Conference on biomimetic and biohybrid systems",
-    "id": "Jansen2017",
-    "issued": {
-      "date-parts": [
-        [
-          2017
-        ]
-      ]
-    },
-    "keyword": "bio-inspired robots,fabrica-,granular media,kinematics,laminates,locomotion,mobile robots,rapid-prototyping,turtles",
-    "page": "216-229",
-    "publisher": "Springer",
-    "publisher-place": "Stanford, CA",
-    "title": "<span class=\"nocase\">Bio-inspired Robot Design Considering Load-Bearing and Kinematic Ontogeny of Chelonioidea Sea Turtles</span>",
-    "type": "paper-conference"
+  "title": "<span class=\"nocase\">Comparison Of Graded Material Transitions For Low-cost Robotics Applications</span>",
+  "type": "article-journal"
+ },
+ {
+  "DOI": "10.1109/RoboSoft51838.2021.9479329",
+  "ISBN": "978-1-7281-7713-7",
+  "URL": "https://ieeexplore.ieee.org/document/9479329/",
+  "author": [
+   {
+    "family": "Khodambashi",
+    "given": "Roozbeh"
+   },
+   {
+    "family": "Berman",
+    "given": "Spring"
+   },
+   {
+    "family": "He",
+    "given": "Ximin"
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel M."
+   }
+  ],
+  "container-title": "2021 ieee 4th international conference on soft robotics (robosoft)",
+  "id": "Khodambashi2021",
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     4,
+     1
+    ]
+   ]
   },
-  {
-    "author": [
-      {
-        "family": "Bagheri",
-        "given": "H."
-      },
-      {
-        "family": "Gendt",
-        "given": "A."
-      },
-      {
-        "family": "Subramanian",
-        "given": "S."
-      },
-      {
-        "family": "Berman",
-        "given": "S."
-      },
-      {
-        "family": "Peet",
-        "given": "M."
-      },
-      {
-        "family": "Aukes",
-        "given": "D."
-      },
-      {
-        "family": "He",
-        "given": "X."
-      },
-      {
-        "family": "Fisher",
-        "given": "R. E."
-      },
-      {
-        "family": "Marvi",
-        "given": "H."
-      }
-    ],
-    "container-title": "Materials research society spring meeting",
-    "id": "Bagheri2018a",
-    "issued": {
-      "date-parts": [
-        [
-          2018
-        ]
-      ]
-    },
-    "publisher-place": "Phoenix, AZ",
-    "title": "<span class=\"nocase\">Switchable Fibrillar Adhesives Under Different Degrees of Saturation</span>",
-    "type": "paper-conference"
+  "page": "571-574",
+  "publisher": "IEEE",
+  "title": "<span class=\"nocase\">Miniaturized Untethered Soft Robots Using Hydrogel-based Soft Voxel Actuators</span>",
+  "type": "paper-conference"
+ },
+ {
+  "DOI": "10.1109/IROS45743.2020.9341109",
+  "ISBN": "9781728162119",
+  "URL": "https://ieeexplore.ieee.org/document/9341109",
+  "author": [
+   {
+    "family": "Jiang",
+    "given": "Yuhao"
+   },
+   {
+    "family": "Sharifzadeh",
+    "given": "Mohammad"
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel M."
+   }
+  ],
+  "container-title": "IEEE/rsj intenational conference on intelligent robots and systems (iros)",
+  "id": "Jiang2020",
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     1,
+     1
+    ]
+   ]
   },
-  {
-    "DOI": "10.1115/SMASIS2014-7442",
-    "ISBN": "978-0-7918-4614-8",
-    "URL": "http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?doi=10.1115/SMASIS2014-7442",
-    "author": [
-      {
-        "family": "Aukes",
-        "given": "Daniel M."
-      },
-      {
-        "family": "Wood",
-        "given": "Robert J."
-      }
-    ],
-    "container-title": "Volume 1: Development and characterization of multifunctional materials; modeling, simulation and control of adaptive systems; structural health monitoring; keynote presentation",
-    "id": "Aukes2014a",
-    "issued": {
-      "date-parts": [
-        [
-          2014,
-          9
-        ]
-      ]
-    },
-    "page": "V001T01A005",
-    "publisher": "ASME",
-    "publisher-place": "Newport, RI, USA",
-    "title": "<span class=\"nocase\">Algorithms for Rapid Development of Inherently-Manufacturable Laminate Devices</span>",
-    "type": "paper-conference",
-    "volume": "1"
+  "page": "8843-8850",
+  "title": "<span class=\"nocase\">Reconfigurable Soft Flexure Hinges via Pinched Tubes</span>",
+  "type": "paper-conference"
+ },
+ {
+  "DOI": "10.1115/DETC2020-22757",
+  "ISBN": "978-0-7918-8399-0",
+  "URL": "https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings/IDETC-CIE2020/83990/Virtual, Online/1090179",
+  "author": [
+   {
+    "family": "Sharifzadeh",
+    "given": "Mohammad"
+   },
+   {
+    "family": "Jiang",
+    "given": "Yuhao"
+   },
+   {
+    "family": "Khodambashi",
+    "given": "Roozbeh"
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel"
+   }
+  ],
+  "container-title": "Volume 10: 44th mechanisms and robotics conference (mr)",
+  "id": "Sharifzadeha",
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     8,
+     1
+    ]
+   ]
   },
-  {
-    "author": [
-      {
-        "family": "Qin",
-        "given": "M."
-      },
-      {
-        "family": "Sun",
-        "given": "M."
-      },
-      {
-        "family": "Qian",
-        "given": "X."
-      },
-      {
-        "family": "Xu",
-        "given": "Y."
-      },
-      {
-        "family": "Berman",
-        "given": "S."
-      },
-      {
-        "family": "Peet",
-        "given": "M."
-      },
-      {
-        "family": "Fisher",
-        "given": "R. E."
-      },
-      {
-        "family": "Marvi",
-        "given": "H."
-      },
-      {
-        "family": "Aukes",
-        "given": "D."
-      },
-      {
-        "family": "He",
-        "given": "X."
-      }
-    ],
-    "container-title": "9th annual bay area biomedical device conference",
-    "id": "Qin2018",
-    "issued": {
-      "date-parts": [
-        [
-          2018
-        ]
-      ]
-    },
-    "publisher-place": "San Jose, CA",
-    "title": "<span class=\"nocase\">Ultra-sensitive, Highly-selective, Real-time Chemical Wearable Sensors and Soft Artificial Muscle</span>",
-    "type": "paper-conference"
+  "publisher": "American Society of Mechanical Engineers",
+  "title": "<span class=\"nocase\">Increasing the Life Span of Foldable Manipulators With Fabric</span>",
+  "type": "paper-conference"
+ },
+ {
+  "DOI": "10.1109/RoboSoft48309.2020.9116012",
+  "ISBN": "978-1-7281-6570-7",
+  "URL": "https://ieeexplore.ieee.org/document/9116012/",
+  "author": [
+   {
+    "family": "Doroudchi",
+    "given": "Azadeh"
+   },
+   {
+    "family": "Khodambashi",
+    "given": "Roozbeh"
+   },
+   {
+    "family": "Lafmejani",
+    "given": "Amir Salimi"
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel M."
+   },
+   {
+    "family": "Berman",
+    "given": "Spring"
+   }
+  ],
+  "container-title": "2020 3rd ieee international conference on soft robotics (robosoft)",
+  "id": "Doroudchi2020a",
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     5,
+     1
+    ]
+   ]
   },
-  {
-    "author": [
-      {
-        "family": "Bagheri",
-        "given": "H"
-      },
-      {
-        "family": "Cummings",
-        "given": "S"
-      },
-      {
-        "family": "Roy",
-        "given": "C"
-      },
-      {
-        "family": "Casleton",
-        "given": "R"
-      },
-      {
-        "family": "Wan",
-        "given": "A"
-      },
-      {
-        "family": "Erjavic",
-        "given": "N"
-      },
-      {
-        "family": "Hu",
-        "given": "A"
-      },
-      {
-        "family": "Berman",
-        "given": "S"
-      },
-      {
-        "family": "Peet",
-        "given": "M"
-      },
-      {
-        "family": "Aukes",
-        "given": "D"
-      },
-      {
-        "family": "He",
-        "given": "X"
-      },
-      {
-        "family": "Fisher",
-        "given": "RE"
-      },
-      {
-        "family": "Marvi",
-        "given": "H"
-      }
-    ],
-    "container-title": "Society for integrative and comparative biology meeting",
-    "id": "Bagheri2019",
-    "issued": {
-      "date-parts": [
-        [
-          2019
-        ]
-      ]
-    },
-    "publisher-place": "Tampa, FL",
-    "title": "<span class=\"nocase\">Octopus suckers: functionality and control</span>",
-    "type": "paper-conference"
+  "page": "695-701",
+  "publisher": "IEEE",
+  "title": "<span class=\"nocase\">Dynamic Modeling of a Hydrogel-based Continuum Robotic Arm with Experimental Validation</span>",
+  "type": "paper-conference"
+ },
+ {
+  "DOI": "10.1145/3424630.3425417",
+  "ISBN": "9781450381703",
+  "URL": "https://dl.acm.org/doi/10.1145/3424630.3425417",
+  "author": [
+   {
+    "family": "Brauer",
+    "given": "Cole"
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel M."
+   }
+  ],
+  "container-title": "Symposium on computational fabrication",
+  "id": "Brauer2020",
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     11,
+     1
+    ]
+   ]
   },
-  {
-    "DOI": "10.1115/DETC2018-85594",
-    "ISBN": "978-0-7918-5180-7",
-    "URL": "http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?doi=10.1115/DETC2018-85594 https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings/IDETC-CIE2018/51807/Quebec City, Quebec, Canada/275160",
-    "abstract": "Many different robots have been designed and built to work under water. In many cases, researchers have chosen to use bio-inspired platforms. In most cases, the main goal of the fish inspired robots has been set to autonomously swim and maneuver in an environment spacious compared to the fishΓÇÖs size. In this paper, the identification & control of a low-cost fish-inspired robot is studied with goal of building a mechanism to not only swim in water but able to interact with its narrow environment. The robotic fish under study uses tail propulsion as main loco-motion. Moreover, proper propulsion regimes are identified and used to model and control thrust generated by propulsion.",
-    "author": [
-      {
-        "family": "Sharifzadeh",
-        "given": "Mohammad"
-      },
-      {
-        "family": "Khodambashi",
-        "given": "Roozbeh"
-      },
-      {
-        "family": "Zhang",
-        "given": "Wenlong"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel"
-      }
-    ],
-    "container-title": "Volume 5A: 42nd mechanisms and robotics conference",
-    "id": "Sharifzadeh2018a",
-    "issued": {
-      "date-parts": [
-        [
-          2018,
-          8
-        ]
-      ]
-    },
-    "keyword": "bio-inspired robot,control,experimental identification,laminated robots,robotic fish",
-    "page": "V05AT07A071",
-    "publisher": "American Society of Mechanical Engineers",
-    "title": "<span class=\"nocase\">On Locomotion of a Laminated Fish-Inspired Robot in a Small-to-Size Environment</span>",
-    "type": "paper-conference"
+  "page": "1-8",
+  "publisher": "ACM",
+  "publisher-place": "New York, NY, USA",
+  "title": "<span class=\"nocase\">Automated Generation of Multi-Material Structures Using the VoxelFuse Framework</span>",
+  "type": "paper-conference"
+ },
+ {
+  "author": [
+   {
+    "family": "Yang",
+    "given": "Dangli"
+   },
+   {
+    "family": "Mishra",
+    "given": "Shatadal"
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel M"
+   },
+   {
+    "family": "Zhang",
+    "given": "Wenlong"
+   }
+  ],
+  "container-title": "2019 american control conference (acc)",
+  "id": "yang2019design",
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     1,
+     1
+    ]
+   ]
   },
-  {
-    "author": [
-      {
-        "family": "Sharifzadeh",
-        "given": "Mohammad"
-      },
-      {
-        "family": "Jiang",
-        "given": "Yuhao"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel M."
-      }
-    ],
-    "container-title": "ASME Journal of Mechanisms and Robotics (In Prep)",
-    "id": "Sharifzadeh2019a",
-    "issued": {
-      "date-parts": [
-        [
-          2021
-        ]
-      ]
-    },
-    "title": "<span class=\"nocase\">Compensation of Material Deformation in Foldable Robots (A Case Study of Spherical Parallel Manipulators Fabricated via Laminate Processes)</span>",
-    "type": "article-journal"
+  "page": "2551-2556",
+  "publisher": "IEEE",
+  "title": "<span class=\"nocase\">Design, Planning, and Control of an Origami-inspired Foldable Quadrotor</span>",
+  "type": "paper-conference"
+ },
+ {
+  "author": [
+   {
+    "family": "Brauer",
+    "given": "Cole"
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel M"
+   }
+  ],
+  "id": "Brauer2019a",
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     1,
+     1
+    ]
+   ]
   },
-  {
-    "DOI": "10.1109/ICRA.2014.6907045",
-    "ISBN": "978-1-4799-3685-4",
-    "ISSN": "10504729",
-    "URL": "http://ieeexplore.ieee.org/document/6907045/",
-    "abstract": "This paper presents an end-to-end approach for creating 3D shapes by self-folding planar sheets activated by uniform heating. These shapes can be used as the mechanical bodies of robots. The input to this process is a 3D geometry (e.g. an OBJ file). The output is a physical object with the specified geometry. We describe an algorithm pipeline that (1) identifies the overall geometry of the input, (2) computes a crease pattern that causes the sheet to self-fold into the desired 3D geometry when activated by uniform heating, (3) automatically generates the design of a 2D sheet with the desired pattern and (4) automatically generates the design files required to fabricate the 2D structure. We demonstrate these algorithms by applying them to complex 3D shapes. We demonstrate the fabrication of a self-folding object with over 50 faces from automatically generated design files.",
-    "author": [
-      {
-        "family": "An",
-        "given": "Byoungkwon"
-      },
-      {
-        "family": "Miyashita",
-        "given": "Shuhei"
-      },
-      {
-        "family": "Tolley",
-        "given": "Michael T."
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel M."
-      },
-      {
-        "family": "Meeker",
-        "given": "Laura"
-      },
-      {
-        "family": "Demaine",
-        "given": "Erik D."
-      },
-      {
-        "family": "Demaine",
-        "given": "Martin L."
-      },
-      {
-        "family": "Wood",
-        "given": "Robert J."
-      },
-      {
-        "family": "Rus",
-        "given": "Daniela"
-      }
-    ],
-    "container-title": "2014 ieee international conference on robotics and automation (icra)",
-    "id": "An2014",
-    "issued": {
-      "date-parts": [
-        [
-          2014,
-          5
-        ]
-      ]
-    },
-    "page": "1466-1473",
-    "publisher": "IEEE",
-    "publisher-place": "Hong Kong",
-    "title": "<span class=\"nocase\">An end-to-end approach to making self-folded 3D surface shapes by uniform heating</span>",
-    "type": "paper-conference"
+  "page": "1-11",
+  "title": "IDETC2019-98103 AND MULTI-STEP RAPID FABRICATION PROCESSES",
+  "type": "article-journal"
+ },
+ {
+  "author": [
+   {
+    "family": "Mesa",
+    "given": "Olga"
+   },
+   {
+    "family": "Mhatre",
+    "given": "Saurabh"
+   },
+   {
+    "family": "Singh",
+    "given": "Malika"
+   },
+   {
+    "family": "Aukes",
+    "given": "Dan"
+   }
+  ],
+  "container-title": "Architecture in the age of the 4th industrial revolution - proceedings of the 37th eCAADe and 23rd sigradi conference",
+  "editor": [
+   {
+    "family": "Sousa",
+    "given": "JP"
+   },
+   {
+    "family": "Xavier",
+    "given": "JP"
+   },
+   {
+    "family": "Castro Henriques",
+    "given": "G"
+   }
+  ],
+  "id": "Mesa2019",
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     1,
+     1
+    ]
+   ]
   },
-  {
-    "DOI": "10.1109/RoboSoft48309.2020.9116012",
-    "ISBN": "978-1-7281-6570-7",
-    "URL": "https://ieeexplore.ieee.org/document/9116012/",
-    "author": [
-      {
-        "family": "Doroudchi",
-        "given": "Azadeh"
-      },
-      {
-        "family": "Khodambashi",
-        "given": "Roozbeh"
-      },
-      {
-        "family": "Lafmejani",
-        "given": "Amir Salimi"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel M."
-      },
-      {
-        "family": "Berman",
-        "given": "Spring"
-      }
-    ],
-    "container-title": "2020 3rd ieee international conference on soft robotics (robosoft)",
-    "id": "Doroudchi2020a",
-    "issued": {
-      "date-parts": [
-        [
-          2020,
-          5
-        ]
-      ]
-    },
-    "page": "695-701",
-    "publisher": "IEEE",
-    "title": "<span class=\"nocase\">Dynamic Modeling of a Hydrogel-based Continuum Robotic Arm with Experimental Validation</span>",
-    "type": "paper-conference"
+  "page": "1-10",
+  "publisher-place": "Porto, Portugal",
+  "title": "CREASE: Synchronized Gait Through Folded Geometry",
+  "type": "paper-conference"
+ },
+ {
+  "author": [
+   {
+    "family": "Shuch",
+    "given": "Benjamin D"
+   },
+   {
+    "family": "Rogers",
+    "given": "Eric"
+   },
+   {
+    "family": "Shafa",
+    "given": "Taha"
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel M"
+   }
+  ],
+  "container-title": "ASME 2019 international design engineering technical conferences and computers and information in engineering conference",
+  "id": "Shuch2019",
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     1,
+     1
+    ]
+   ]
   },
-  {
-    "author": [
-      {
-        "family": "Bagheri",
-        "given": "H."
-      },
-      {
-        "family": "Gendt",
-        "given": "A."
-      },
-      {
-        "family": "Cummings",
-        "given": "S."
-      },
-      {
-        "family": "Subramanian",
-        "given": "S."
-      },
-      {
-        "family": "Berman",
-        "given": "S."
-      },
-      {
-        "family": "Peet",
-        "given": "M."
-      },
-      {
-        "family": "Aukes",
-        "given": "D."
-      },
-      {
-        "family": "He",
-        "given": "X."
-      },
-      {
-        "family": "Fisher",
-        "given": "R. E."
-      },
-      {
-        "family": "Marvi",
-        "given": "H."
-      }
-    ],
-    "container-title": "Society for integrative and comparative biology",
-    "id": "Bagheri2018b",
-    "issued": {
-      "date-parts": [
-        [
-          2018
-        ]
-      ]
-    },
-    "title": "<span class=\"nocase\">Octopus Sucker Adhesion and Suction Performance Under Various Environmental Conditions</span>",
-    "type": "paper-conference"
+  "publisher-place": "Anaheim, CA, USA",
+  "title": "Design Of A Two Dof Laminate Leg Transmission For Creating Walking Robot Platforms",
+  "type": "paper-conference"
+ },
+ {
+  "author": [
+   {
+    "family": "CASLETON",
+    "given": "R"
+   },
+   {
+    "family": "MORGENTHALER",
+    "given": "M"
+   },
+   {
+    "family": "SHAIKH",
+    "given": "S"
+   },
+   {
+    "family": "SORGE",
+    "given": "M"
+   },
+   {
+    "family": "TUCKER",
+    "given": "B"
+   },
+   {
+    "family": "ESSENDRUP",
+    "given": "I"
+   },
+   {
+    "family": "BERMAN",
+    "given": "S"
+   },
+   {
+    "family": "PEET",
+    "given": "MM"
+   },
+   {
+    "family": "AUKES",
+    "given": "DM"
+   },
+   {
+    "family": "HE",
+    "given": "X"
+   },
+   {
+    "family": "MARVI",
+    "given": "H"
+   },
+   {
+    "family": "FISHER",
+    "given": "RE"
+   }
+  ],
+  "container-title": "SICB 2019",
+  "id": "CASLETON",
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     1,
+     1
+    ]
+   ]
   },
-  {
-    "author": [
-      {
-        "family": "Yang",
-        "given": "Dangli"
-      },
-      {
-        "family": "Mishra",
-        "given": "Shatadal"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel M"
-      },
-      {
-        "family": "Zhang",
-        "given": "Wenlong"
-      }
-    ],
-    "container-title": "2019 american control conference (acc)",
-    "id": "yang2019design",
-    "issued": {
-      "date-parts": [
-        [
-          2019
-        ]
-      ]
-    },
-    "page": "2551-2556",
-    "publisher": "IEEE",
-    "title": "<span class=\"nocase\">Design, Planning, and Control of an Origami-inspired Foldable Quadrotor</span>",
-    "type": "paper-conference"
+  "title": "<span class=\"nocase\">Chemoreception in Octopus bimaculoides</span>",
+  "type": "paper-conference"
+ },
+ {
+  "DOI": "10.1115/DETC2019-98103",
+  "ISBN": "978-0-7918-5918-6",
+  "URL": "https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings/IDETC-CIE2019/59186/Anaheim, California, USA/1069808",
+  "author": [
+   {
+    "family": "Brauer",
+    "given": "Cole"
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel M."
+   }
+  ],
+  "container-title": "Volume 2A: 45th design automation conference",
+  "id": "Brauer2019",
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     8,
+     1
+    ]
+   ]
   },
-  {
-    "DOI": "10.1109/ICRA.2012.6224738",
-    "ISBN": "978-1-4673-1405-3",
-    "URL": "http://ieeexplore.ieee.org/document/6224738/",
-    "author": [
-      {
-        "family": "Aukes",
-        "given": "Daniel"
-      },
-      {
-        "family": "Kim",
-        "given": "Susan"
-      },
-      {
-        "family": "Garcia",
-        "given": "Pablo"
-      },
-      {
-        "family": "Edsinger",
-        "given": "Aaron"
-      },
-      {
-        "family": "Cutkosky",
-        "given": "Mark R"
-      }
-    ],
-    "container-title": "2012 ieee international conference on robotics and automation",
-    "id": "Aukes2012",
-    "issued": {
-      "date-parts": [
-        [
-          2012,
-          5
-        ]
-      ]
-    },
-    "page": "2824-2829",
-    "publisher": "IEEE",
-    "title": "<span class=\"nocase\">Selectively compliant underactuated hand for mobile manipulation</span>",
-    "type": "paper-conference"
+  "publisher": "American Society of Mechanical Engineers",
+  "title": "<span class=\"nocase\">Voxel-Based CAD Framework for Planning Functionally Graded and Multi-Step Rapid Fabrication Processes</span>",
+  "type": "paper-conference"
+ },
+ {
+  "author": [
+   {
+    "family": "Knaup",
+    "given": "Jacob W"
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel M"
+   }
+  ],
+  "container-title": "ASME 2019 international design engineering technical conferences and computers and information in engineering conference",
+  "id": "Knaup2019",
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     1,
+     1
+    ]
+   ]
   },
-  {
-    "author": [
-      {
-        "family": "Jiang",
-        "given": "Yuhao"
-      },
-      {
-        "family": "Sharifzadeh",
-        "given": "Mohammad"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel M."
-      }
-    ],
-    "container-title": "IEEE Robotics and Automation Letters (submitted)",
-    "id": "Jiang2020",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "title": "<span class=\"nocase\">Shape Change Propagation Through Soft Curved Materials for Dynamically-Tuned Paddling Robots</span>",
-    "type": "article-journal"
+  "title": "Design, Modeling, And Optimization Of A Hopping Robot Platform",
+  "type": "paper-conference"
+ },
+ {
+  "author": [
+   {
+    "family": "Huerta",
+    "given": "Mark"
+   },
+   {
+    "family": "Bekki",
+    "given": "Jennifer"
+   },
+   {
+    "family": "Carberry",
+    "given": "Adam"
+   },
+   {
+    "family": "Brunhaver",
+    "given": "Samantha"
+   },
+   {
+    "family": "Lichtenstein",
+    "given": "Gary"
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel"
+   },
+   {
+    "family": "Holloway",
+    "given": "Julianne"
+   },
+   {
+    "family": "Melton",
+    "given": "Doug"
+   },
+   {
+    "family": "McKenna",
+    "given": "Ann"
+   }
+  ],
+  "container-title": "2019 asee annual conference and exposition",
+  "id": "Huerta2019",
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     1,
+     1
+    ]
+   ]
   },
-  {
-    "DOI": "http://link.springer.com/10.1007/978-3-319-50115-4_6",
-    "ISBN": "978-3-319-50114-7",
-    "URL": "http://link.springer.com/10.1007/978-3-319-50115-4_6",
-    "author": [
-      {
-        "family": "Koh",
-        "given": "Je-sung"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel M"
-      },
-      {
-        "family": "Araki",
-        "given": "Brandon"
-      },
-      {
-        "family": "Pohorecky",
-        "given": "Sarah"
-      },
-      {
-        "family": "Mulgaonkar",
-        "given": "Yash"
-      },
-      {
-        "family": "Tolley",
-        "given": "Michael T"
-      },
-      {
-        "family": "Kumar",
-        "given": "Vijay"
-      },
-      {
-        "family": "Rus",
-        "given": "Daniela"
-      },
-      {
-        "family": "Wood",
-        "given": "Robert J"
-      }
-    ],
-    "collection-title": "Springer proceedings in advanced robotics",
-    "container-title": "International symposium on experimental robotics",
-    "editor": [
-      {
-        "family": "Kuli─ç",
-        "given": "Dana"
-      },
-      {
-        "family": "Nakamura",
-        "given": "Yoshihiko"
-      },
-      {
-        "family": "Khatib",
-        "given": "Oussama"
-      },
-      {
-        "family": "Venture",
-        "given": "Gentiane"
-      }
-    ],
-    "id": "koh2016modular",
-    "issued": {
-      "date-parts": [
-        [
-          2017
-        ]
-      ]
-    },
-    "keyword": "folded laminate devices,multi-modal lo-,printable robots",
-    "page": "59-70",
-    "publisher": "Springer, Cham; Springer International Publishing",
-    "title": "<span class=\"nocase\">A Modular Folded Laminate Robot Capable of Multi Modal Locomotion</span>",
-    "type": "paper-conference",
-    "volume": "1"
+  "title": "<span class=\"nocase\">The process of conceptualizing and creating the Engineering Faculty Impact Collaborative to support faculty development and mentorship</span>",
+  "type": "paper-conference"
+ },
+ {
+  "author": [
+   {
+    "family": "Bagheri",
+    "given": "H"
+   },
+   {
+    "family": "Cummings",
+    "given": "S"
+   },
+   {
+    "family": "Roy",
+    "given": "C"
+   },
+   {
+    "family": "Casleton",
+    "given": "R"
+   },
+   {
+    "family": "Wan",
+    "given": "A"
+   },
+   {
+    "family": "Erjavic",
+    "given": "N"
+   },
+   {
+    "family": "Hu",
+    "given": "A"
+   },
+   {
+    "family": "Berman",
+    "given": "S"
+   },
+   {
+    "family": "Peet",
+    "given": "M"
+   },
+   {
+    "family": "Aukes",
+    "given": "D"
+   },
+   {
+    "family": "He",
+    "given": "X"
+   },
+   {
+    "family": "Fisher",
+    "given": "RE"
+   },
+   {
+    "family": "Marvi",
+    "given": "H"
+   }
+  ],
+  "container-title": "Society for integrative and comparative biology meeting",
+  "id": "Bagheri2019b",
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     1,
+     1
+    ]
+   ]
   },
-  {
-    "author": [
-      {
-        "family": "Huerta",
-        "given": "Mark"
-      },
-      {
-        "family": "Bekki",
-        "given": "Jennifer"
-      },
-      {
-        "family": "Carberry",
-        "given": "Adam"
-      },
-      {
-        "family": "Brunhaver",
-        "given": "Samantha"
-      },
-      {
-        "family": "Lichtenstein",
-        "given": "Gary"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel"
-      },
-      {
-        "family": "Holloway",
-        "given": "Julianne"
-      },
-      {
-        "family": "Melton",
-        "given": "Doug"
-      },
-      {
-        "family": "McKenna",
-        "given": "Ann"
-      }
-    ],
-    "container-title": "2019 asee annual conference and exposition",
-    "id": "Huerta2019",
-    "issued": {
-      "date-parts": [
-        [
-          2019
-        ]
-      ]
-    },
-    "title": "<span class=\"nocase\">The process of conceptualizing and creating the Engineering Faculty Impact Collaborative to support faculty development and mentorship</span>",
-    "type": "paper-conference"
+  "publisher-place": "Tampa, FL",
+  "title": "<span class=\"nocase\">Octopus suckers: functionality and control</span>",
+  "type": "paper-conference"
+ },
+ {
+  "author": [
+   {
+    "family": "Xu",
+    "given": "Y."
+   },
+   {
+    "family": "Sun",
+    "given": "M."
+   },
+   {
+    "family": "Zhao",
+    "given": "R. Y."
+   },
+   {
+    "family": "Qian",
+    "given": "X."
+   },
+   {
+    "family": "Berman",
+    "given": "S."
+   },
+   {
+    "family": "Peet",
+    "given": "M."
+   },
+   {
+    "family": "Fisher",
+    "given": "R. E."
+   },
+   {
+    "family": "Marvi",
+    "given": "H."
+   },
+   {
+    "family": "Aukes",
+    "given": "D."
+   },
+   {
+    "family": "He",
+    "given": "X."
+   }
+  ],
+  "container-title": "Materials research society spring meeting",
+  "id": "Xu2018",
+  "issued": {
+   "date-parts": [
+    [
+     2018,
+     1,
+     1
+    ]
+   ]
   },
-  {
-    "URL": "http://arxiv.org/abs/1706.01977",
-    "author": [
-      {
-        "family": "Luck",
-        "given": "Kevin Sebastian"
-      },
-      {
-        "family": "Campbell",
-        "given": "Joseph"
-      },
-      {
-        "family": "Jansen",
-        "given": "Michael"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel McConnell"
-      },
-      {
-        "family": "Ben Amor",
-        "given": "Heni"
-      }
-    ],
-    "container-title": "Proceedings of robotics: Science and systems",
-    "id": "Luck2017",
-    "issued": {
-      "date-parts": [
-        [
-          2017,
-          7
-        ]
-      ]
-    },
-    "publisher-place": "Cambridge, Massachusetts",
-    "title": "<span class=\"nocase\">From the Lab to the Desert: Fast Prototyping and Learning of Robot Locomotion</span>",
-    "type": "paper-conference"
+  "publisher-place": "Phoenix, AZ",
+  "title": "<span class=\"nocase\">Multi-responsive Tactile Hydrogels as Soft Robotic Materials</span>",
+  "type": "paper-conference"
+ },
+ {
+  "author": [
+   {
+    "family": "Bagheri",
+    "given": "H."
+   },
+   {
+    "family": "Gendt",
+    "given": "A."
+   },
+   {
+    "family": "Subramanian",
+    "given": "S."
+   },
+   {
+    "family": "Berman",
+    "given": "S."
+   },
+   {
+    "family": "Peet",
+    "given": "M."
+   },
+   {
+    "family": "Aukes",
+    "given": "D."
+   },
+   {
+    "family": "He",
+    "given": "X."
+   },
+   {
+    "family": "Fisher",
+    "given": "R. E."
+   },
+   {
+    "family": "Marvi",
+    "given": "H."
+   }
+  ],
+  "container-title": "Materials research society spring meeting",
+  "id": "Bagheri2018a",
+  "issued": {
+   "date-parts": [
+    [
+     2018,
+     1,
+     1
+    ]
+   ]
   },
-  {
-    "DOI": "10.1117/12.2177576",
-    "URL": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.2177576",
-    "abstract": "Recent advances in laminate manufacturing techniques have driven the development of new classes of millimeter-scale sensorized medical devices, robots capable of terrestrial locomotion and sustained flight, and new techniques for sensing and actuation. Recently, the analysis of laminate micro-devices has focused more manufacturability concerns and not on mechanics. Considering the nature of such devices, we draw from existing research in composites, origami kinematics, and finite element methods in order to identify issues related to sequential assembly and self-folding prior to fabrication as well as the stiffness of composite folded systems during operation. These techniques can be useful for understanding how such devices will bend and flex under normal operating conditions, and when added to new design tools like popupCAD, will give designers another means to develop better devices throughout the design process.",
-    "author": [
-      {
-        "family": "Aukes",
-        "given": "Daniel M."
-      },
-      {
-        "family": "Wood",
-        "given": "Robert J."
-      }
-    ],
-    "collection-number": "May 2015",
-    "container-title": "SPIE.DSS",
-    "editor": [
-      {
-        "family": "George",
-        "given": "Thomas"
-      },
-      {
-        "family": "Dutta",
-        "given": "Achyut K."
-      },
-      {
-        "family": "Islam",
-        "given": "M. Saif"
-      }
-    ],
-    "id": "Aukes2015a",
-    "issued": {
-      "date-parts": [
-        [
-          2015,
-          5
-        ]
-      ]
-    },
-    "keyword": "design,dynamics,finite element method,manufacturing,robotics,stiffness",
-    "page": "94671B",
-    "title": "<span class=\"nocase\">PopupCAD: a tool for automated design, fabrication, and analysis of laminate devices</span>",
-    "type": "paper-conference"
+  "publisher-place": "Phoenix, AZ",
+  "title": "<span class=\"nocase\">Switchable Fibrillar Adhesives Under Different Degrees of Saturation</span>",
+  "type": "paper-conference"
+ },
+ {
+  "author": [
+   {
+    "family": "Bagheri",
+    "given": "H."
+   },
+   {
+    "family": "Gendt",
+    "given": "A."
+   },
+   {
+    "family": "Cummings",
+    "given": "S."
+   },
+   {
+    "family": "Subramanian",
+    "given": "S."
+   },
+   {
+    "family": "Berman",
+    "given": "S."
+   },
+   {
+    "family": "Peet",
+    "given": "M."
+   },
+   {
+    "family": "Aukes",
+    "given": "D."
+   },
+   {
+    "family": "He",
+    "given": "X."
+   },
+   {
+    "family": "Fisher",
+    "given": "R. E."
+   },
+   {
+    "family": "Marvi",
+    "given": "H."
+   }
+  ],
+  "container-title": "Society for integrative and comparative biology",
+  "id": "Bagheri2018b",
+  "issued": {
+   "date-parts": [
+    [
+     2018,
+     1,
+     1
+    ]
+   ]
   },
-  {
-    "author": [
-      {
-        "family": "Doroudchi",
-        "given": "Azadeh"
-      },
-      {
-        "family": "Khodambashi",
-        "given": "Roozbeh"
-      },
-      {
-        "family": "Sharifzadeh",
-        "given": "Mohammad"
-      },
-      {
-        "family": "Li",
-        "given": "Dongting"
-      },
-      {
-        "family": "Berman",
-        "given": "Spring"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel M."
-      }
-    ],
-    "container-title": "IEEE Robotics and Automation Letters (submitted)",
-    "id": "Doroudchi2020",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "title": "<span class=\"nocase\">Tracking Control of a Miniature 2-DOF Manipulator withHydrogel Actuators</span>",
-    "type": "article-journal"
+  "title": "<span class=\"nocase\">Octopus Sucker Adhesion and Suction Performance Under Various Environmental Conditions</span>",
+  "type": "paper-conference"
+ },
+ {
+  "DOI": "10.1109/CDC.2018.8619036",
+  "ISBN": "978-1-5386-1395-5",
+  "URL": "https://ieeexplore.ieee.org/document/8619036/",
+  "author": [
+   {
+    "family": "Doroudchi",
+    "given": "Azadeh"
+   },
+   {
+    "family": "Shivakumar",
+    "given": "Sachin"
+   },
+   {
+    "family": "Fisher",
+    "given": "Rebecca E."
+   },
+   {
+    "family": "Marvi",
+    "given": "Hamid"
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel"
+   },
+   {
+    "family": "He",
+    "given": "Ximin"
+   },
+   {
+    "family": "Berman",
+    "given": "Spring"
+   },
+   {
+    "family": "Peet",
+    "given": "Matthew M."
+   }
+  ],
+  "container-title": "2018 ieee conference on decision and control (cdc)",
+  "id": "Doroudchi2018a",
+  "issued": {
+   "date-parts": [
+    [
+     2018,
+     12,
+     1
+    ]
+   ]
   },
-  {
-    "DOI": "10.1109/ICRA.2013.6630854",
-    "ISBN": "978-1-4673-5643-5",
-    "ISSN": "10504729",
-    "URL": "http://ieeexplore.ieee.org/document/6630854/",
-    "annote": "From Duplicate 1 (Simulation-based tools for evaluating underactuated hand designs - Aukes, Daniel McConnell; Cutkosky, Mark R)From Duplicate 1 (Simulation-Based Tools For Evaluating Underactuated Hand Designs - Aukes, Daniel McConnell; Cutkosky, Mark R)From Duplicate 2 (Simulation-Based Tools For Evaluating Underactuated Hand Designs- Aukes, Daniel McConnell; Cutkosky, Mark R )From Duplicate 1 (Simulation-Based Tools For Evaluating Underactuated Hand Designs- Aukes, Daniel McConnell; Cutkosky, Mark R )From Duplicate 2 (Simulation-based tools for evaluating underactuated hand designs - Aukes, Daniel McConnell; Cutkosky, Mark R)From Duplicate 1 (Simulation-Based Tools For Evaluating Underactuated Hand Designs - Aukes, Daniel McConnell; Cutkosky, Mark R)From Duplicate 2 (Simulation-Based Tools For Evaluating Underactuated Hand Designs- Aukes, Daniel McConnell; Cutkosky, Mark R )From Duplicate 1 (Simulation-Based Tools For Evaluating Underactuated Hand Designs- Aukes, Daniel McConnell; Cutkosky, Mark R )",
-    "author": [
-      {
-        "family": "Aukes",
-        "given": "Daniel McConnell"
-      },
-      {
-        "family": "Cutkosky",
-        "given": "Mark R"
-      }
-    ],
-    "container-title": "2013 ieee international conference on robotics and automation",
-    "id": "Aukes2013",
-    "issued": {
-      "date-parts": [
-        [
-          2013,
-          5
-        ]
-      ]
-    },
-    "page": "2067-2073",
-    "publisher": "IEEE",
-    "title": "<span class=\"nocase\">Simulation-based tools for evaluating underactuated hand designs</span>",
-    "type": "paper-conference"
+  "page": "7002-7009",
+  "publisher": "IEEE",
+  "publisher-place": "Miami Beach, FL",
+  "title": "<span class=\"nocase\">Decentralized Control of Distributed Actuation in a Segmented Soft Robot Arm</span>",
+  "type": "paper-conference"
+ },
+ {
+  "DOI": "10.1115/DETC2018-86359",
+  "ISBN": "978-0-7918-5181-4",
+  "URL": "http://arxiv.org/abs/1808.03697 http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?doi=10.1115/DETC2018-86359 https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings/IDETC-CIE2018/51814/Quebec City, Quebec, Canada/276122",
+  "abstract": "Laminate mechanisms are a reliable concept in producing lowcost robots for educational and commercial purposes. These mechanisms are produced using low-cost manufacturing techniques which have improved significantly during recent years and are more accessible to novices and hobbyists. However, iterating through the design space to come up with the best design for a robot is still a time consuming and rather expensive task and therefore, there is still a need for model-based analysis before manufacturing. Until now, there has been no integrated design and analysis software for laminate robots. This paper addresses some of the issues surrounding laminate analysis by introducing a companion to an existing laminate design tool that automates the generation of dynamic equations and produces simulation results via rendered plots and videos. We have validated the accuracy of the software by comparing the position, velocity and acceleration of the simulated mechanisms with the measurements taken from physical laminate prototypes using a motion capture system.",
+  "author": [
+   {
+    "family": "Khodambashi",
+    "given": "Roozbeh"
+   },
+   {
+    "family": "Sharifzadeh",
+    "given": "Mohammad"
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel M."
+   }
+  ],
+  "container-title": "Volume 5B: 42nd mechanisms and robotics conference",
+  "id": "Khodambashi2018",
+  "issued": {
+   "date-parts": [
+    [
+     2018,
+     8,
+     1
+    ]
+   ]
   },
-  {
-    "author": [
-      {
-        "family": "Mesa",
-        "given": "Olga"
-      },
-      {
-        "family": "Mhatre",
-        "given": "Saurabh"
-      },
-      {
-        "family": "Singh",
-        "given": "Malika"
-      },
-      {
-        "family": "Aukes",
-        "given": "Dan"
-      }
-    ],
-    "container-title": "Architecture in the age of the 4th industrial revolution - proceedings of the 37th eCAADe and 23rd sigradi conference",
-    "editor": [
-      {
-        "family": "Sousa",
-        "given": "JP"
-      },
-      {
-        "family": "Xavier",
-        "given": "JP"
-      },
-      {
-        "family": "Castro Henriques",
-        "given": "G"
-      }
-    ],
-    "id": "Mesa2019",
-    "issued": {
-      "date-parts": [
-        [
-          2019
-        ]
-      ]
-    },
-    "page": "1-10",
-    "publisher-place": "Porto, Portugal",
-    "title": "CREASE: Synchronized Gait Through Folded Geometry",
-    "type": "paper-conference"
+  "page": "V05BT07A068",
+  "publisher": "American Society of Mechanical Engineers",
+  "title": "<span class=\"nocase\">An Integrated Design and Simulation Environment for Rapid Prototyping of Laminate Robotic Mechanisms</span>",
+  "type": "paper-conference"
+ },
+ {
+  "DOI": "10.1115/DETC2018-85594",
+  "ISBN": "978-0-7918-5180-7",
+  "URL": "http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?doi=10.1115/DETC2018-85594 https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings/IDETC-CIE2018/51807/Quebec City, Quebec, Canada/275160",
+  "abstract": "Many different robots have been designed and built to work under water. In many cases, researchers have chosen to use bio-inspired platforms. In most cases, the main goal of the fish inspired robots has been set to autonomously swim and maneuver in an environment spacious compared to the fish\u2019s size. In this paper, the identification & control of a low-cost fish-inspired robot is studied with goal of building a mechanism to not only swim in water but able to interact with its narrow environment. The robotic fish under study uses tail propulsion as main loco-motion. Moreover, proper propulsion regimes are identified and used to model and control thrust generated by propulsion.",
+  "author": [
+   {
+    "family": "Sharifzadeh",
+    "given": "Mohammad"
+   },
+   {
+    "family": "Khodambashi",
+    "given": "Roozbeh"
+   },
+   {
+    "family": "Zhang",
+    "given": "Wenlong"
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel"
+   }
+  ],
+  "container-title": "Volume 5A: 42nd mechanisms and robotics conference",
+  "id": "Sharifzadeh2018a",
+  "issued": {
+   "date-parts": [
+    [
+     2018,
+     8,
+     1
+    ]
+   ]
   },
-  {
-    "DOI": "10.1109/LRA.2020.2976328",
-    "ISSN": "2377-3766",
-    "URL": "https://ieeexplore.ieee.org/document/9013079/",
-    "author": [
-      {
-        "family": "Lafmejani",
-        "given": "Amir Salimi"
-      },
-      {
-        "family": "Doroudchi",
-        "given": "Azadeh"
-      },
-      {
-        "family": "Farivarnejad",
-        "given": "Hamed"
-      },
-      {
-        "family": "He",
-        "given": "Ximin"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel"
-      },
-      {
-        "family": "Peet",
-        "given": "Matthew M."
-      },
-      {
-        "family": "Marvi",
-        "given": "Hamidreza"
-      },
-      {
-        "family": "Fisher",
-        "given": "Rebecca E."
-      },
-      {
-        "family": "Berman",
-        "given": "Spring"
-      }
-    ],
-    "container-title": "IEEE Robotics and Automation Letters",
-    "id": "Lafmejani2020",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2020,
-          4
-        ]
-      ]
-    },
-    "page": "3460-3467",
-    "title": "<span class=\"nocase\">Kinematic Modeling and Trajectory Tracking Control of an Octopus-Inspired Hyper-Redundant Robot</span>",
-    "type": "article-journal",
-    "volume": "5"
+  "keyword": "bio-inspired robot,control,experimental identification,laminated robots,robotic fish",
+  "page": "V05AT07A071",
+  "publisher": "American Society of Mechanical Engineers",
+  "title": "<span class=\"nocase\">On Locomotion of a Laminated Fish-Inspired Robot in a Small-to-Size Environment</span>",
+  "type": "paper-conference"
+ },
+ {
+  "author": [
+   {
+    "family": "Qin",
+    "given": "M."
+   },
+   {
+    "family": "Sun",
+    "given": "M."
+   },
+   {
+    "family": "Qian",
+    "given": "X."
+   },
+   {
+    "family": "Xu",
+    "given": "Y."
+   },
+   {
+    "family": "Berman",
+    "given": "S."
+   },
+   {
+    "family": "Peet",
+    "given": "M."
+   },
+   {
+    "family": "Fisher",
+    "given": "R. E."
+   },
+   {
+    "family": "Marvi",
+    "given": "H."
+   },
+   {
+    "family": "Aukes",
+    "given": "D."
+   },
+   {
+    "family": "He",
+    "given": "X."
+   }
+  ],
+  "container-title": "9th annual bay area biomedical device conference",
+  "id": "Qin2018",
+  "issued": {
+   "date-parts": [
+    [
+     2018,
+     1,
+     1
+    ]
+   ]
   },
-  {
-    "DOI": "10.1109/ICRA.2016.7487667",
-    "ISBN": "978-1-4673-8026-3",
-    "ISSN": "10504729",
-    "URL": "http://ieeexplore.ieee.org/document/7487667/",
-    "abstract": "The agility and ease of control make a quadrotor aircraft an attractive platform for studying swarm behavior, modeling, and control. The energetics of sustained flight for small aircraft, however, limit typical applications to only a few minutes. Adding payloads and the mechanisms used to manipulate them reduces this flight time even further. In this paper we present the flying monkey, a novel robot platform having three main capabilities: walking, grasping, and flight. This new robotic platform merges one of the worldΓÇÖs smallest quadrotor aircraft with a lightweight, single-degree-of-freedom walking mechanism and an SMA-actuated gripper to enable all three functions in a 30 g package. The main goal and key contribution of this paper is to design and prototype the flying monkey that has increased mission life and capabilities through the combination of the functionalities of legged and aerial robots.",
-    "author": [
-      {
-        "family": "Mulgaonkar",
-        "given": "Yash"
-      },
-      {
-        "family": "Araki",
-        "given": "Brandon"
-      },
-      {
-        "family": "Koh",
-        "given": "Je-sung"
-      },
-      {
-        "family": "Guerrero-Bonilla",
-        "given": "Luis"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel M"
-      },
-      {
-        "family": "Makineni",
-        "given": "Anurag"
-      },
-      {
-        "family": "Tolley",
-        "given": "Michael T"
-      },
-      {
-        "family": "Rus",
-        "given": "Daniela"
-      },
-      {
-        "family": "Wood",
-        "given": "Robert J"
-      },
-      {
-        "family": "Kumar",
-        "given": "Vijay"
-      }
-    ],
-    "container-title": "2016 ieee international conference on robotics and automation (icra)",
-    "id": "Mulgaonkar2016",
-    "issued": {
-      "date-parts": [
-        [
-          2016,
-          5
-        ]
-      ]
-    },
-    "page": "4672-4679",
-    "publisher": "IEEE",
-    "title": "The Flying Monkey: A Mesoscale Robot That Can Run, Fly, And Grasp",
-    "type": "paper-conference",
-    "volume": "2016-June"
+  "publisher-place": "San Jose, CA",
+  "title": "<span class=\"nocase\">Ultra-sensitive, Highly-selective, Real-time Chemical Wearable Sensors and Soft Artificial Muscle</span>",
+  "type": "paper-conference"
+ },
+ {
+  "DOI": "10.1007/978-3-319-63537-8_19",
+  "URL": "http://link.springer.com/10.1007/978-3-319-63537-8_19",
+  "author": [
+   {
+    "family": "Jansen",
+    "given": "Andrew"
+   },
+   {
+    "family": "Luck",
+    "given": "Kevin Sebastian"
+   },
+   {
+    "family": "Campbell",
+    "given": "Joseph"
+   },
+   {
+    "family": "Amor",
+    "given": "Heni Ben"
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel M"
+   }
+  ],
+  "container-title": "Conference on biomimetic and biohybrid systems",
+  "id": "Jansen2017",
+  "issued": {
+   "date-parts": [
+    [
+     2017,
+     1,
+     1
+    ]
+   ]
   },
-  {
-    "author": [
-      {
-        "family": "Aukes",
-        "given": "Daniel M."
-      },
-      {
-        "family": "Wood",
-        "given": "Robert J."
-      }
-    ],
-    "container-title": "MRS spring meeting",
-    "id": "Aukes2014b",
-    "issued": {
-      "date-parts": [
-        [
-          2014
-        ]
-      ]
-    },
-    "publisher-place": "San Francisco",
-    "title": "<span class=\"nocase\">PopupCAD: a New Design Tool for Developing Self-folding Devices</span>",
-    "type": "paper-conference"
+  "keyword": "bio-inspired robots,fabrica-,granular media,kinematics,laminates,locomotion,mobile robots,rapid-prototyping,turtles",
+  "page": "216-229",
+  "publisher": "Springer",
+  "publisher-place": "Stanford, CA",
+  "title": "<span class=\"nocase\">Bio-inspired Robot Design Considering Load-Bearing and Kinematic Ontogeny of Chelonioidea Sea Turtles</span>",
+  "type": "paper-conference"
+ },
+ {
+  "author": [
+   {
+    "family": "Qin",
+    "given": "M."
+   },
+   {
+    "family": "Qian",
+    "given": "X."
+   },
+   {
+    "family": "Sun",
+    "given": "M."
+   },
+   {
+    "family": "Berman",
+    "given": "S."
+   },
+   {
+    "family": "Peet",
+    "given": "M."
+   },
+   {
+    "family": "Fisher",
+    "given": "R. E."
+   },
+   {
+    "family": "Marvi",
+    "given": "H."
+   },
+   {
+    "family": "Aukes",
+    "given": "D."
+   },
+   {
+    "family": "He",
+    "given": "X."
+   }
+  ],
+  "container-title": "Canadian society for chemistry conference and exhibition",
+  "id": "Qin2017",
+  "issued": {
+   "date-parts": [
+    [
+     2017,
+     1,
+     1
+    ]
+   ]
   },
-  {
-    "author": [
-      {
-        "family": "Khodambashi",
-        "given": "Roozbeh"
-      },
-      {
-        "family": "Fisher",
-        "given": "Rebecca E."
-      },
-      {
-        "family": "Marvi",
-        "given": "Hamid"
-      },
-      {
-        "family": "Peet",
-        "given": "Matthew M."
-      },
-      {
-        "family": "He",
-        "given": "Ximin"
-      },
-      {
-        "family": "Berman",
-        "given": "Spring"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel M."
-      }
-    ],
-    "container-title": "Robosoft 2021 (in prep.)",
-    "id": "Khodambashi2020",
-    "issued": {
-      "date-parts": [
-        [
-          2021
-        ]
-      ]
-    },
-    "title": "Soft Voxel Actuators",
-    "type": "article-journal"
+  "publisher-place": "Toronto, Canada",
+  "title": "<span class=\"nocase\">Bioinspired Adaptive Materials for Optical Molecular Sensing and Artificial Phototropism</span>",
+  "type": "paper-conference"
+ },
+ {
+  "URL": "http://arxiv.org/abs/1706.01977",
+  "author": [
+   {
+    "family": "Luck",
+    "given": "Kevin Sebastian"
+   },
+   {
+    "family": "Campbell",
+    "given": "Joseph"
+   },
+   {
+    "family": "Jansen",
+    "given": "Michael"
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel McConnell"
+   },
+   {
+    "family": "Ben Amor",
+    "given": "Heni"
+   }
+  ],
+  "container-title": "Proceedings of robotics: Science and systems",
+  "id": "Luck2017",
+  "issued": {
+   "date-parts": [
+    [
+     2017,
+     7,
+     1
+    ]
+   ]
   },
-  {
-    "DOI": "10.1007/978-3-319-09435-9_1",
-    "ISBN": "9783642315244",
-    "URL": "http://link.springer.com/10.1007/978-3-319-09435-9_1",
-    "author": [
-      {
-        "family": "Aukes",
-        "given": "Daniel M."
-      },
-      {
-        "family": "Ozcan",
-        "given": "├ûnur"
-      },
-      {
-        "family": "Wood",
-        "given": "Robert J."
-      }
-    ],
-    "container-title": "Conference on biomimetic and biohybrid systems",
-    "id": "Aukes2014c",
-    "issued": {
-      "date-parts": [
-        [
-          2014
-        ]
-      ]
-    },
-    "page": "1-10",
-    "publisher": "Springer; Springer International Publishing",
-    "publisher-place": "Milan",
-    "title": "<span class=\"nocase\">Monolithic Design and Fabrication of a 2-DOF Bio-Inspired Leg Transmission</span>",
-    "type": "chapter"
+  "publisher-place": "Cambridge, Massachusetts",
+  "title": "<span class=\"nocase\">From the Lab to the Desert: Fast Prototyping and Learning of Robot Locomotion</span>",
+  "type": "paper-conference"
+ },
+ {
+  "DOI": "http://link.springer.com/10.1007/978-3-319-50115-4_6",
+  "ISBN": "978-3-319-50114-7",
+  "URL": "http://link.springer.com/10.1007/978-3-319-50115-4_6",
+  "author": [
+   {
+    "family": "Koh",
+    "given": "Je-sung"
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel M"
+   },
+   {
+    "family": "Araki",
+    "given": "Brandon"
+   },
+   {
+    "family": "Pohorecky",
+    "given": "Sarah"
+   },
+   {
+    "family": "Mulgaonkar",
+    "given": "Yash"
+   },
+   {
+    "family": "Tolley",
+    "given": "Michael T"
+   },
+   {
+    "family": "Kumar",
+    "given": "Vijay"
+   },
+   {
+    "family": "Rus",
+    "given": "Daniela"
+   },
+   {
+    "family": "Wood",
+    "given": "Robert J"
+   }
+  ],
+  "collection-title": "Springer proceedings in advanced robotics",
+  "container-title": "International symposium on experimental robotics",
+  "editor": [
+   {
+    "family": "Kuli\u0107",
+    "given": "Dana"
+   },
+   {
+    "family": "Nakamura",
+    "given": "Yoshihiko"
+   },
+   {
+    "family": "Khatib",
+    "given": "Oussama"
+   },
+   {
+    "family": "Venture",
+    "given": "Gentiane"
+   }
+  ],
+  "id": "koh2016modular",
+  "issued": {
+   "date-parts": [
+    [
+     2017,
+     1,
+     1
+    ]
+   ]
   },
-  {
-    "author": [
-      {
-        "family": "Li",
-        "given": "Dongting"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel M."
-      }
-    ],
-    "container-title": "(in prep.)",
-    "id": "Li2020",
-    "issued": {
-      "date-parts": [
-        [
-          2021
-        ]
-      ]
-    },
-    "title": "<span class=\"nocase\">Compliance Augmented Granular RFT model, A Case Study of Sand-Burrowing Robot with Soft Actuators</span>",
-    "type": "article-journal"
+  "keyword": "folded laminate devices,multi-modal lo-,printable robots",
+  "page": "59-70",
+  "publisher": "Springer, Cham; Springer International Publishing",
+  "title": "<span class=\"nocase\">A Modular Folded Laminate Robot Capable of Multi Modal Locomotion</span>",
+  "type": "paper-conference",
+  "volume": "1"
+ },
+ {
+  "DOI": "10.1109/ICRA.2016.7487667",
+  "ISBN": "978-1-4673-8026-3",
+  "ISSN": "10504729",
+  "URL": "http://ieeexplore.ieee.org/document/7487667/",
+  "abstract": "The agility and ease of control make a quadrotor aircraft an attractive platform for studying swarm behavior, modeling, and control. The energetics of sustained flight for small aircraft, however, limit typical applications to only a few minutes. Adding payloads and the mechanisms used to manipulate them reduces this flight time even further. In this paper we present the flying monkey, a novel robot platform having three main capabilities: walking, grasping, and flight. This new robotic platform merges one of the world\u2019s smallest quadrotor aircraft with a lightweight, single-degree-of-freedom walking mechanism and an SMA-actuated gripper to enable all three functions in a 30 g package. The main goal and key contribution of this paper is to design and prototype the flying monkey that has increased mission life and capabilities through the combination of the functionalities of legged and aerial robots.",
+  "author": [
+   {
+    "family": "Mulgaonkar",
+    "given": "Yash"
+   },
+   {
+    "family": "Araki",
+    "given": "Brandon"
+   },
+   {
+    "family": "Koh",
+    "given": "Je-sung"
+   },
+   {
+    "family": "Guerrero-Bonilla",
+    "given": "Luis"
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel M"
+   },
+   {
+    "family": "Makineni",
+    "given": "Anurag"
+   },
+   {
+    "family": "Tolley",
+    "given": "Michael T"
+   },
+   {
+    "family": "Rus",
+    "given": "Daniela"
+   },
+   {
+    "family": "Wood",
+    "given": "Robert J"
+   },
+   {
+    "family": "Kumar",
+    "given": "Vijay"
+   }
+  ],
+  "container-title": "2016 ieee international conference on robotics and automation (icra)",
+  "id": "Mulgaonkar2016",
+  "issued": {
+   "date-parts": [
+    [
+     2016,
+     5,
+     1
+    ]
+   ]
   },
-  {
-    "author": [
-      {
-        "family": "Brauer",
-        "given": "Cole"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel M."
-      }
-    ],
-    "container-title": "2020 symposium on computational fabrication",
-    "id": "Brauer2020",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "title": "<span class=\"nocase\">Automated Generation of Multi-Material Structures Using the VoxelFuse Framework</span>",
-    "type": "paper-conference"
+  "page": "4672-4679",
+  "publisher": "IEEE",
+  "title": "The Flying Monkey: A Mesoscale Robot That Can Run, Fly, And Grasp",
+  "type": "paper-conference",
+  "volume": "2016-June"
+ },
+ {
+  "DOI": "10.1109/IROS.2015.7353959",
+  "ISBN": "978-1-4799-9994-1",
+  "URL": "http://ieeexplore.ieee.org/document/7353959/",
+  "author": [
+   {
+    "family": "Doshi",
+    "given": "Neel"
+   },
+   {
+    "family": "Goldberg",
+    "given": "Benjamin"
+   },
+   {
+    "family": "Sahai",
+    "given": "Ranjana"
+   },
+   {
+    "family": "Jafferis",
+    "given": "Noah"
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel"
+   },
+   {
+    "family": "Wood",
+    "given": "Robert J"
+   },
+   {
+    "family": "Paulson",
+    "given": "John A."
+   }
+  ],
+  "container-title": "2015 ieee/rsj international conference on intelligent robots and systems (iros)",
+  "id": "Doshi2015c",
+  "issued": {
+   "date-parts": [
+    [
+     2015,
+     9,
+     1
+    ]
+   ]
   },
-  {
-    "author": [
-      {
-        "family": "Qin",
-        "given": "M."
-      },
-      {
-        "family": "Qian",
-        "given": "X."
-      },
-      {
-        "family": "Sun",
-        "given": "M."
-      },
-      {
-        "family": "Berman",
-        "given": "S."
-      },
-      {
-        "family": "Peet",
-        "given": "M."
-      },
-      {
-        "family": "Fisher",
-        "given": "R. E."
-      },
-      {
-        "family": "Marvi",
-        "given": "H."
-      },
-      {
-        "family": "Aukes",
-        "given": "D."
-      },
-      {
-        "family": "He",
-        "given": "X."
-      }
-    ],
-    "container-title": "Canadian society for chemistry conference and exhibition",
-    "id": "Qin2017",
-    "issued": {
-      "date-parts": [
-        [
-          2017
-        ]
-      ]
-    },
-    "publisher-place": "Toronto, Canada",
-    "title": "<span class=\"nocase\">Bioinspired Adaptive Materials for Optical Molecular Sensing and Artificial Phototropism</span>",
-    "type": "paper-conference"
+  "page": "4119-4126",
+  "publisher": "IEEE",
+  "title": "<span class=\"nocase\">Model Driven Design For Flexure-based Microrobots</span>",
+  "type": "paper-conference"
+ },
+ {
+  "DOI": "10.1117/12.2177576",
+  "URL": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.2177576",
+  "abstract": "Recent advances in laminate manufacturing techniques have driven the development of new classes of millimeter-scale sensorized medical devices, robots capable of terrestrial locomotion and sustained flight, and new techniques for sensing and actuation. Recently, the analysis of laminate micro-devices has focused more manufacturability concerns and not on mechanics. Considering the nature of such devices, we draw from existing research in composites, origami kinematics, and finite element methods in order to identify issues related to sequential assembly and self-folding prior to fabrication as well as the stiffness of composite folded systems during operation. These techniques can be useful for understanding how such devices will bend and flex under normal operating conditions, and when added to new design tools like popupCAD, will give designers another means to develop better devices throughout the design process.",
+  "author": [
+   {
+    "family": "Aukes",
+    "given": "Daniel M."
+   },
+   {
+    "family": "Wood",
+    "given": "Robert J."
+   }
+  ],
+  "collection-number": "May 2015",
+  "container-title": "SPIE.DSS",
+  "editor": [
+   {
+    "family": "George",
+    "given": "Thomas"
+   },
+   {
+    "family": "Dutta",
+    "given": "Achyut K."
+   },
+   {
+    "family": "Islam",
+    "given": "M. Saif"
+   }
+  ],
+  "id": "Aukes2015a",
+  "issued": {
+   "date-parts": [
+    [
+     2015,
+     5,
+     1
+    ]
+   ]
   },
-  {
-    "author": [
-      {
-        "family": "Xu",
-        "given": "Y."
-      },
-      {
-        "family": "Sun",
-        "given": "M."
-      },
-      {
-        "family": "Zhao",
-        "given": "R. Y."
-      },
-      {
-        "family": "Qian",
-        "given": "X."
-      },
-      {
-        "family": "Berman",
-        "given": "S."
-      },
-      {
-        "family": "Peet",
-        "given": "M."
-      },
-      {
-        "family": "Fisher",
-        "given": "R. E."
-      },
-      {
-        "family": "Marvi",
-        "given": "H."
-      },
-      {
-        "family": "Aukes",
-        "given": "D."
-      },
-      {
-        "family": "He",
-        "given": "X."
-      }
-    ],
-    "container-title": "Materials research society spring meeting",
-    "id": "Xu2018",
-    "issued": {
-      "date-parts": [
-        [
-          2018
-        ]
-      ]
-    },
-    "publisher-place": "Phoenix, AZ",
-    "title": "<span class=\"nocase\">Multi-responsive Tactile Hydrogels as Soft Robotic Materials</span>",
-    "type": "paper-conference"
+  "keyword": "design,dynamics,finite element method,manufacturing,robotics,stiffness",
+  "page": "94671B",
+  "title": "<span class=\"nocase\">PopupCAD: a tool for automated design, fabrication, and analysis of laminate devices</span>",
+  "type": "paper-conference"
+ },
+ {
+  "DOI": "10.1007/978-3-319-09435-9_1",
+  "ISBN": "9783642315244",
+  "URL": "http://link.springer.com/10.1007/978-3-319-09435-9_1",
+  "author": [
+   {
+    "family": "Aukes",
+    "given": "Daniel M."
+   },
+   {
+    "family": "Ozcan",
+    "given": "\u00d6nur"
+   },
+   {
+    "family": "Wood",
+    "given": "Robert J."
+   }
+  ],
+  "container-title": "Conference on biomimetic and biohybrid systems",
+  "id": "Aukes2014c",
+  "issued": {
+   "date-parts": [
+    [
+     2014,
+     1,
+     1
+    ]
+   ]
   },
-  {
-    "DOI": "10.1109/IROS.2015.7353959",
-    "ISBN": "978-1-4799-9994-1",
-    "URL": "http://ieeexplore.ieee.org/document/7353959/",
-    "author": [
-      {
-        "family": "Doshi",
-        "given": "Neel"
-      },
-      {
-        "family": "Goldberg",
-        "given": "Benjamin"
-      },
-      {
-        "family": "Sahai",
-        "given": "Ranjana"
-      },
-      {
-        "family": "Jafferis",
-        "given": "Noah"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel"
-      },
-      {
-        "family": "Wood",
-        "given": "Robert J"
-      },
-      {
-        "family": "Paulson",
-        "given": "John A."
-      }
-    ],
-    "container-title": "2015 ieee/rsj international conference on intelligent robots and systems (iros)",
-    "id": "Doshi2015c",
-    "issued": {
-      "date-parts": [
-        [
-          2015,
-          9
-        ]
-      ]
-    },
-    "page": "4119-4126",
-    "publisher": "IEEE",
-    "title": "<span class=\"nocase\">Model Driven Design For Flexure-based Microrobots</span>",
-    "type": "paper-conference"
+  "page": "1-10",
+  "publisher": "Springer; Springer International Publishing",
+  "publisher-place": "Milan",
+  "title": "<span class=\"nocase\">Monolithic Design and Fabrication of a 2-DOF Bio-Inspired Leg Transmission</span>",
+  "type": "chapter"
+ },
+ {
+  "DOI": "10.1109/ICRA.2014.6907045",
+  "ISBN": "978-1-4799-3685-4",
+  "ISSN": "10504729",
+  "URL": "http://ieeexplore.ieee.org/document/6907045/",
+  "abstract": "This paper presents an end-to-end approach for creating 3D shapes by self-folding planar sheets activated by uniform heating. These shapes can be used as the mechanical bodies of robots. The input to this process is a 3D geometry (e.g. an OBJ file). The output is a physical object with the specified geometry. We describe an algorithm pipeline that (1) identifies the overall geometry of the input, (2) computes a crease pattern that causes the sheet to self-fold into the desired 3D geometry when activated by uniform heating, (3) automatically generates the design of a 2D sheet with the desired pattern and (4) automatically generates the design files required to fabricate the 2D structure. We demonstrate these algorithms by applying them to complex 3D shapes. We demonstrate the fabrication of a self-folding object with over 50 faces from automatically generated design files.",
+  "author": [
+   {
+    "family": "An",
+    "given": "Byoungkwon"
+   },
+   {
+    "family": "Miyashita",
+    "given": "Shuhei"
+   },
+   {
+    "family": "Tolley",
+    "given": "Michael T."
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel M."
+   },
+   {
+    "family": "Meeker",
+    "given": "Laura"
+   },
+   {
+    "family": "Demaine",
+    "given": "Erik D."
+   },
+   {
+    "family": "Demaine",
+    "given": "Martin L."
+   },
+   {
+    "family": "Wood",
+    "given": "Robert J."
+   },
+   {
+    "family": "Rus",
+    "given": "Daniela"
+   }
+  ],
+  "container-title": "2014 ieee international conference on robotics and automation (icra)",
+  "id": "An2014",
+  "issued": {
+   "date-parts": [
+    [
+     2014,
+     5,
+     1
+    ]
+   ]
   },
-  {
-    "author": [
-      {
-        "family": "Knaup",
-        "given": "Jacob W"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel M"
-      }
-    ],
-    "container-title": "ASME 2019 international design engineering technical conferences and computers and information in engineering conference",
-    "id": "Knaup2019",
-    "issued": {
-      "date-parts": [
-        [
-          2019
-        ]
-      ]
-    },
-    "title": "Design, Modeling, And Optimization Of A Hopping Robot Platform",
-    "type": "paper-conference"
+  "page": "1466-1473",
+  "publisher": "IEEE",
+  "publisher-place": "Hong Kong",
+  "title": "<span class=\"nocase\">An end-to-end approach to making self-folded 3D surface shapes by uniform heating</span>",
+  "type": "paper-conference"
+ },
+ {
+  "DOI": "10.1115/SMASIS2014-7442",
+  "ISBN": "978-0-7918-4614-8",
+  "URL": "http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?doi=10.1115/SMASIS2014-7442",
+  "author": [
+   {
+    "family": "Aukes",
+    "given": "Daniel M."
+   },
+   {
+    "family": "Wood",
+    "given": "Robert J."
+   }
+  ],
+  "container-title": "Volume 1: Development and characterization of multifunctional materials; modeling, simulation and control of adaptive systems; structural health monitoring; keynote presentation",
+  "id": "Aukes2014a",
+  "issued": {
+   "date-parts": [
+    [
+     2014,
+     9,
+     1
+    ]
+   ]
   },
-  {
-    "author": [
-      {
-        "family": "Sharifzadeh",
-        "given": "Mohammad"
-      },
-      {
-        "family": "Jiang",
-        "given": "Yuhao"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel M."
-      }
-    ],
-    "container-title": "IEEE Robotics and Automation Letters (submitted)",
-    "id": "Sharifzadeh2020",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "title": "<span class=\"nocase\">Reconfigurable Curved Beams for Selectable Swimming Gaits in an Underwater Robot</span>",
-    "type": "article-journal"
+  "page": "V001T01A005",
+  "publisher": "ASME",
+  "publisher-place": "Newport, RI, USA",
+  "title": "<span class=\"nocase\">Algorithms for Rapid Development of Inherently-Manufacturable Laminate Devices</span>",
+  "type": "paper-conference",
+  "volume": "1"
+ },
+ {
+  "author": [
+   {
+    "family": "Aukes",
+    "given": "Daniel M."
+   },
+   {
+    "family": "Wood",
+    "given": "Robert J."
+   }
+  ],
+  "container-title": "MRS spring meeting",
+  "id": "Aukes2014b",
+  "issued": {
+   "date-parts": [
+    [
+     2014,
+     1,
+     1
+    ]
+   ]
   },
-  {
-    "author": [
-      {
-        "family": "Jiang",
-        "given": "Yuhao"
-      },
-      {
-        "family": "Sharifzadeh",
-        "given": "Mohammad"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel M."
-      }
-    ],
-    "container-title": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
-    "id": "Jiang2020",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "title": "<span class=\"nocase\">Reconfigurable Soft Flexure Hinges via Pinched Tubes</span>",
-    "type": "article-journal"
+  "publisher-place": "San Francisco",
+  "title": "<span class=\"nocase\">PopupCAD: a New Design Tool for Developing Self-folding Devices</span>",
+  "type": "paper-conference"
+ },
+ {
+  "DOI": "10.1109/ICRA.2014.6907847",
+  "ISBN": "978-1-4799-3685-4",
+  "ISSN": "10504729",
+  "URL": "http://ieeexplore.ieee.org/document/6907847/",
+  "author": [
+   {
+    "family": "Stuart",
+    "given": "Hannah S"
+   },
+   {
+    "family": "Wang",
+    "given": "Shiquan"
+   },
+   {
+    "family": "Gardineer",
+    "given": "Bayard"
+   },
+   {
+    "family": "Christensen",
+    "given": "David L"
+   },
+   {
+    "family": "Aukes",
+    "given": "Daniel M"
+   },
+   {
+    "family": "Cutkosky",
+    "given": "Mark"
+   }
+  ],
+  "container-title": "2014 ieee international conference on robotics and automation (icra)",
+  "id": "Stuart2014",
+  "issued": {
+   "date-parts": [
+    [
+     2014,
+     5,
+     1
+    ]
+   ]
   },
-  {
-    "DOI": "10.1109/IROS.2011.6095078",
-    "ISBN": "978-1-61284-456-5",
-    "URL": "http://ieeexplore.ieee.org/document/6095078/",
-    "author": [
-      {
-        "family": "Aukes",
-        "given": "Daniel"
-      },
-      {
-        "family": "Heyneman",
-        "given": "Barrett"
-      },
-      {
-        "family": "Duchaine",
-        "given": "Vincent"
-      },
-      {
-        "family": "Cutkosky",
-        "given": "Mark R."
-      }
-    ],
-    "container-title": "2011 ieee/rsj international conference on intelligent robots and systems",
-    "id": "Aukes2011",
-    "issued": {
-      "date-parts": [
-        [
-          2011,
-          9
-        ]
-      ]
-    },
-    "page": "1373-1379",
-    "publisher": "IEEE",
-    "title": "<span class=\"nocase\">Varying spring preloads to select grasp strategies in an adaptive hand</span>",
-    "type": "paper-conference"
+  "page": "6691-6697",
+  "publisher": "IEEE",
+  "publisher-place": "Hong Kong",
+  "title": "<span class=\"nocase\">A compliant underactuated hand with suction flow for underwater mobile manipulation</span>",
+  "type": "paper-conference"
+ },
+ {
+  "DOI": "10.1109/ICRA.2013.6630854",
+  "ISBN": "978-1-4673-5643-5",
+  "ISSN": "10504729",
+  "URL": "http://ieeexplore.ieee.org/document/6630854/",
+  "annote": "From Duplicate 1 (Simulation-based tools for evaluating underactuated hand designs - Aukes, Daniel McConnell; Cutkosky, Mark R)From Duplicate 1 (Simulation-Based Tools For Evaluating Underactuated Hand Designs - Aukes, Daniel McConnell; Cutkosky, Mark R)From Duplicate 2 (Simulation-Based Tools For Evaluating Underactuated Hand Designs- Aukes, Daniel McConnell; Cutkosky, Mark R )From Duplicate 1 (Simulation-Based Tools For Evaluating Underactuated Hand Designs- Aukes, Daniel McConnell; Cutkosky, Mark R )From Duplicate 2 (Simulation-based tools for evaluating underactuated hand designs - Aukes, Daniel McConnell; Cutkosky, Mark R)From Duplicate 1 (Simulation-Based Tools For Evaluating Underactuated Hand Designs - Aukes, Daniel McConnell; Cutkosky, Mark R)From Duplicate 2 (Simulation-Based Tools For Evaluating Underactuated Hand Designs- Aukes, Daniel McConnell; Cutkosky, Mark R )From Duplicate 1 (Simulation-Based Tools For Evaluating Underactuated Hand Designs- Aukes, Daniel McConnell; Cutkosky, Mark R )",
+  "author": [
+   {
+    "family": "Aukes",
+    "given": "Daniel McConnell"
+   },
+   {
+    "family": "Cutkosky",
+    "given": "Mark R"
+   }
+  ],
+  "container-title": "2013 ieee international conference on robotics and automation",
+  "id": "Aukes2013",
+  "issued": {
+   "date-parts": [
+    [
+     2013,
+     5,
+     1
+    ]
+   ]
   },
-  {
-    "author": [
-      {
-        "family": "Shuch",
-        "given": "Benjamin D"
-      },
-      {
-        "family": "Rogers",
-        "given": "Eric"
-      },
-      {
-        "family": "Shafa",
-        "given": "Taha"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel M"
-      }
-    ],
-    "container-title": "ASME 2019 international design engineering technical conferences and computers and information in engineering conference",
-    "id": "Shuch2019",
-    "issued": {
-      "date-parts": [
-        [
-          2019
-        ]
-      ]
-    },
-    "publisher-place": "Anaheim, CA, USA",
-    "title": "Design Of A Two Dof Laminate Leg Transmission For Creating Walking Robot Platforms",
-    "type": "paper-conference"
+  "page": "2067-2073",
+  "publisher": "IEEE",
+  "title": "<span class=\"nocase\">Simulation-based tools for evaluating underactuated hand designs</span>",
+  "type": "paper-conference"
+ },
+ {
+  "DOI": "10.1109/ICRA.2012.6224738",
+  "ISBN": "978-1-4673-1405-3",
+  "URL": "http://ieeexplore.ieee.org/document/6224738/",
+  "author": [
+   {
+    "family": "Aukes",
+    "given": "Daniel"
+   },
+   {
+    "family": "Kim",
+    "given": "Susan"
+   },
+   {
+    "family": "Garcia",
+    "given": "Pablo"
+   },
+   {
+    "family": "Edsinger",
+    "given": "Aaron"
+   },
+   {
+    "family": "Cutkosky",
+    "given": "Mark R"
+   }
+  ],
+  "container-title": "2012 ieee international conference on robotics and automation",
+  "id": "Aukes2012",
+  "issued": {
+   "date-parts": [
+    [
+     2012,
+     5,
+     1
+    ]
+   ]
   },
-  {
-    "DOI": "10.1109/ICRA.2014.6907847",
-    "ISBN": "978-1-4799-3685-4",
-    "ISSN": "10504729",
-    "URL": "http://ieeexplore.ieee.org/document/6907847/",
-    "author": [
-      {
-        "family": "Stuart",
-        "given": "Hannah S"
-      },
-      {
-        "family": "Wang",
-        "given": "Shiquan"
-      },
-      {
-        "family": "Gardineer",
-        "given": "Bayard"
-      },
-      {
-        "family": "Christensen",
-        "given": "David L"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel M"
-      },
-      {
-        "family": "Cutkosky",
-        "given": "Mark"
-      }
-    ],
-    "container-title": "2014 ieee international conference on robotics and automation (icra)",
-    "id": "Stuart2014",
-    "issued": {
-      "date-parts": [
-        [
-          2014,
-          5
-        ]
-      ]
-    },
-    "page": "6691-6697",
-    "publisher": "IEEE",
-    "publisher-place": "Hong Kong",
-    "title": "<span class=\"nocase\">A compliant underactuated hand with suction flow for underwater mobile manipulation</span>",
-    "type": "paper-conference"
+  "page": "2824-2829",
+  "publisher": "IEEE",
+  "title": "<span class=\"nocase\">Selectively compliant underactuated hand for mobile manipulation</span>",
+  "type": "paper-conference"
+ },
+ {
+  "DOI": "10.1109/IROS.2011.6095078",
+  "ISBN": "978-1-61284-456-5",
+  "URL": "http://ieeexplore.ieee.org/document/6095078/",
+  "author": [
+   {
+    "family": "Aukes",
+    "given": "Daniel"
+   },
+   {
+    "family": "Heyneman",
+    "given": "Barrett"
+   },
+   {
+    "family": "Duchaine",
+    "given": "Vincent"
+   },
+   {
+    "family": "Cutkosky",
+    "given": "Mark R."
+   }
+  ],
+  "container-title": "2011 ieee/rsj international conference on intelligent robots and systems",
+  "id": "Aukes2011",
+  "issued": {
+   "date-parts": [
+    [
+     2011,
+     9,
+     1
+    ]
+   ]
   },
-  {
-    "DOI": "10.1115/DETC2019-98103",
-    "ISBN": "978-0-7918-5918-6",
-    "URL": "https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings/IDETC-CIE2019/59186/Anaheim, California, USA/1069808",
-    "author": [
-      {
-        "family": "Brauer",
-        "given": "Cole"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel M."
-      }
-    ],
-    "container-title": "Volume 2A: 45th design automation conference",
-    "id": "Brauer2019",
-    "issued": {
-      "date-parts": [
-        [
-          2019,
-          8
-        ]
-      ]
-    },
-    "publisher": "American Society of Mechanical Engineers",
-    "title": "<span class=\"nocase\">Voxel-Based CAD Framework for Planning Functionally Graded and Multi-Step Rapid Fabrication Processes</span>",
-    "type": "paper-conference"
-  },
-  {
-    "author": [
-      {
-        "family": "CASLETON",
-        "given": "R"
-      },
-      {
-        "family": "MORGENTHALER",
-        "given": "M"
-      },
-      {
-        "family": "SHAIKH",
-        "given": "S"
-      },
-      {
-        "family": "SORGE",
-        "given": "M"
-      },
-      {
-        "family": "TUCKER",
-        "given": "B"
-      },
-      {
-        "family": "ESSENDRUP",
-        "given": "I"
-      },
-      {
-        "family": "BERMAN",
-        "given": "S"
-      },
-      {
-        "family": "PEET",
-        "given": "MM"
-      },
-      {
-        "family": "AUKES",
-        "given": "DM"
-      },
-      {
-        "family": "HE",
-        "given": "X"
-      },
-      {
-        "family": "MARVI",
-        "given": "H"
-      },
-      {
-        "family": "FISHER",
-        "given": "RE"
-      }
-    ],
-    "container-title": "SICB 2019",
-    "id": "CASLETON",
-    "issued": {
-      "date-parts": [
-        [
-          2019
-        ]
-      ]
-    },
-    "title": "<span class=\"nocase\">Chemoreception in Octopus bimaculoides</span>",
-    "type": "paper-conference"
-  },
-  {
-    "DOI": "10.1115/DETC2020-22757",
-    "ISBN": "978-0-7918-8399-0",
-    "URL": "https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings/IDETC-CIE2020/83990/Virtual, Online/1090179",
-    "author": [
-      {
-        "family": "Sharifzadeh",
-        "given": "Mohammad"
-      },
-      {
-        "family": "Jiang",
-        "given": "Yuhao"
-      },
-      {
-        "family": "Khodambashi",
-        "given": "Roozbeh"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel"
-      }
-    ],
-    "container-title": "Volume 10: 44th mechanisms and robotics conference (mr)",
-    "id": "Sharifzadeha",
-    "issued": {
-      "date-parts": [
-        [
-          2020,
-          8
-        ]
-      ]
-    },
-    "publisher": "American Society of Mechanical Engineers",
-    "title": "<span class=\"nocase\">Increasing the Life Span of Foldable Manipulators With Fabric</span>",
-    "type": "paper-conference"
-  },
-  {
-    "DOI": "10.1109/CDC.2018.8619036",
-    "ISBN": "978-1-5386-1395-5",
-    "URL": "https://ieeexplore.ieee.org/document/8619036/",
-    "author": [
-      {
-        "family": "Doroudchi",
-        "given": "Azadeh"
-      },
-      {
-        "family": "Shivakumar",
-        "given": "Sachin"
-      },
-      {
-        "family": "Fisher",
-        "given": "Rebecca E."
-      },
-      {
-        "family": "Marvi",
-        "given": "Hamid"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel"
-      },
-      {
-        "family": "He",
-        "given": "Ximin"
-      },
-      {
-        "family": "Berman",
-        "given": "Spring"
-      },
-      {
-        "family": "Peet",
-        "given": "Matthew M."
-      }
-    ],
-    "container-title": "2018 ieee conference on decision and control (cdc)",
-    "id": "Doroudchi2018a",
-    "issued": {
-      "date-parts": [
-        [
-          2018,
-          12
-        ]
-      ]
-    },
-    "page": "7002-7009",
-    "publisher": "IEEE",
-    "publisher-place": "Miami Beach, FL",
-    "title": "<span class=\"nocase\">Decentralized Control of Distributed Actuation in a Segmented Soft Robot Arm</span>",
-    "type": "paper-conference"
-  },
-  {
-    "DOI": "10.1115/DETC2018-86359",
-    "ISBN": "978-0-7918-5181-4",
-    "URL": "http://arxiv.org/abs/1808.03697 http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?doi=10.1115/DETC2018-86359 https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings/IDETC-CIE2018/51814/Quebec City, Quebec, Canada/276122",
-    "abstract": "Laminate mechanisms are a reliable concept in producing lowcost robots for educational and commercial purposes. These mechanisms are produced using low-cost manufacturing techniques which have improved significantly during recent years and are more accessible to novices and hobbyists. However, iterating through the design space to come up with the best design for a robot is still a time consuming and rather expensive task and therefore, there is still a need for model-based analysis before manufacturing. Until now, there has been no integrated design and analysis software for laminate robots. This paper addresses some of the issues surrounding laminate analysis by introducing a companion to an existing laminate design tool that automates the generation of dynamic equations and produces simulation results via rendered plots and videos. We have validated the accuracy of the software by comparing the position, velocity and acceleration of the simulated mechanisms with the measurements taken from physical laminate prototypes using a motion capture system.",
-    "author": [
-      {
-        "family": "Khodambashi",
-        "given": "Roozbeh"
-      },
-      {
-        "family": "Sharifzadeh",
-        "given": "Mohammad"
-      },
-      {
-        "family": "Aukes",
-        "given": "Daniel M."
-      }
-    ],
-    "container-title": "Volume 5B: 42nd mechanisms and robotics conference",
-    "id": "Khodambashi2018",
-    "issued": {
-      "date-parts": [
-        [
-          2018,
-          8
-        ]
-      ]
-    },
-    "page": "V05BT07A068",
-    "publisher": "American Society of Mechanical Engineers",
-    "title": "<span class=\"nocase\">An Integrated Design and Simulation Environment for Rapid Prototyping of Laminate Robotic Mechanisms</span>",
-    "type": "paper-conference"
-  }
+  "page": "1373-1379",
+  "publisher": "IEEE",
+  "title": "<span class=\"nocase\">Varying spring preloads to select grasp strategies in an adaptive hand</span>",
+  "type": "paper-conference"
+ }
 ]

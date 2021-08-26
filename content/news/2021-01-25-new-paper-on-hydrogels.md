@@ -1,4 +1,6 @@
 ---
+title: New Paper on Hydrogels
+date: 2021-01-25
 ---
 
 Congrats to Roozbeh Khodambashi and the rest of our research team for our new paper in Advanced Materials.

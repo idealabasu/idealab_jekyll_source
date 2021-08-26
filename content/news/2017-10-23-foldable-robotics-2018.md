@@ -2,6 +2,7 @@
 title: EGR598:Foldable Robotics
 description: Professor Aukes will be teaching Foldable Robotics in Spring 2018
 show_title: true
+date: 2017-10-23
 ---
 
 Professor Aukes will be teaching an EGR598 class this Spring called *Foldable Robotics*.
