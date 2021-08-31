@@ -1,7 +1,13 @@
 ---
+title: EGR557 - Spring 2021
 category: egr557-2020
 layout: page
+draft: true
 ---
+
+This course was offered in Spring 2021.
+
+<!--more-->
 
 ## Information
 
