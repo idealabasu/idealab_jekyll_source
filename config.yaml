@@ -44,6 +44,8 @@ params:
 #      link: /conferences
     - name: Download
       link: /download
+    - name: Barrett Info
+      link: /lab-info/barrett/
   - name: Lab News
     link: /news
 #  - name: Teaching
