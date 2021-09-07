@@ -45,6 +45,7 @@
         <div class="row">
         <div class="col-sm-12">
           <h3>News</h3>
+          <ul>
           {{ range where .Site.RegularPages "Section" "news" | first 5 }}
               <li><a href="{{ .RelPermalink }}">{{if .Title }}{{.Title}}{{ else }}{{ .RelPermalink }}{{end}}</a>
                   <div>
@@ -53,6 +54,7 @@
                   </div>
               </li>
           {{ end }}
+          </ul>
           <a href="/news"> More News...</a>
         </div>
         </div>
