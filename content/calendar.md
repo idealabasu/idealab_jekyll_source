@@ -7,3 +7,5 @@ title: Calendar
 [Schedule an appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUczUW5BTnJwQlktfGRlZmF1bHR8MWJkYjgxMDFjOTYxZTRjODNkNjZjODMwOTY0MGUwNDE)  
 
 Add yourself to the [IDEAlab-info](https://groups.google.com/forum/#!forum/idealab-info) listserv to stay up to date on meeting times and location changes.
+
+Check out Dr. Aukes' [calendar](/aukes_calendar/)
