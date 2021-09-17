@@ -1,0 +1,29 @@
+
+{{ define "title" }} Section Title {{ end }}
+
+{{ define "main" }}
+  <main>
+    <h1>{{ .Title }}</h1>
+
+    {{ range .Pages }}
+    <div class="media">
+      <div class="media-left media-middle">
+        <a href="#">
+          <img class="media-object" src="{{ .Params.image }}" alt="">
+        </a>
+      </div>
+      <div class="media-body">
+        <h4><a href="{{.RelPermalink}}">{{ .Title }}</a> <span class="badge">{{.Params.key}}</span></h2>
+          <p>{{ .Params.description }}</p>
+          <p>{{ .Summary }}</p>
+        <p><em>{{ .Params.funding }}</em></p>
+        {{ if .Params.students }}<p>Students: {{ .Params.students }}</p>{{end}}
+      </div>
+    </div>
+    {{ end }}
+
+  {{ .Content }}
+
+
+  </main>
+{{ end }}

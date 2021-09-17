@@ -1,0 +1,24 @@
+
+{{ define "title" }} {{ .Title }} | {{ .Site.Title }} {{ end }}
+
+{{ define "main" }}
+  <main>
+
+  <h1>{{ .Title }}</h1>
+
+  {{ .Content }}
+  
+  <div class="row equal">
+    {{ range $.Site.Data.posters }}
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+        <a href="/{{ .directory }}/{{.file_root}}.{{.file_type}}"><img src="/{{ .directory }}/{{.file_root}}.{{.thumb_type}}"></a>
+        <div class="caption">
+          <h3>{{ .first_author }}</h3>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>  
+  </main>
+{{ end }}
