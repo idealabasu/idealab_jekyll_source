@@ -11,26 +11,20 @@
    {{ partial "head_custom" . }}
     
   </head>
-  <body data-spy="scroll" data-target=".sidebar-nav">
-  <div id="page">
-    {{ partial "asu_header" . }}
-    {{ partial "navigation_outer.html" . }}
-    <span id="skippy" class="sr-only"></span>
-  </div>
-    {{ partial "main_image.html" . }}
+  <body>
+    
 
-<div class="container pad-md">
-
-
-    {{ block "main" . }}
-    {{ end }}
-</div>
-
-
-
-   {{ partial "footer.html" . }}
-   {{ partial "foot.html" . }}
-   {{ partial "foot_custom.html" . }}
+    {{ partial "header-unity.html" . }}
+    {{ partial "footer-unity.html" . }}
+   <script>window['LOGLEVEL'] = "info";
+             
+         
+             
+               window['FRAMEWORK_OPTIONS'] = {};
+             
+         
+             
+               window['FEATURES'] = {"postcss":true};</script><script src="runtime~main.34cee7cf.iframe.bundle.js"></script><script src="vendors~main.07f1a082.iframe.bundle.js"></script><script src="main.d5825012.iframe.bundle.js"></script>
 
   </body>
 </html>
