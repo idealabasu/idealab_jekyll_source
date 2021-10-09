@@ -7,6 +7,9 @@
         
     {{ range .Pages }}
     <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">{{ .Title }}</h3>
+      </div>      
       <div class="panel-body">
     <div class="row equal">
     {{ if .Params.image }}
@@ -19,10 +22,11 @@
     {{else }}
     <div class="col-sm-12">
       {{ end }}
-      <h4><a href="{{.RelPermalink}}">{{ .Title }}</a> <span class="badge">{{.Params.key}}</span></h2>
         <p>{{ .Summary }}</p>
       <p><em>{{ .Params.funding }}</em></p>
-      {{ if .Params.students }}<p>Students: {{ .Params.students }}</p>{{end}}      
+      {{ if .Params.students }}<p>Students: {{ .Params.students }}</p>{{end}}
+      <p><span class="badge">{{.Params.key}}</span></p>
+      <a href="{{.RelPermalink}}"><button type="button" class="btn btn-primary">Learn More...</button></a>
     </div>
     
   </div>
