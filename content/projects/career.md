@@ -3,7 +3,7 @@ publish: x
 students: Fuchen Chen, Cole Brauer
 title: 'CAREER: Dynamic Modeling and Fabrication of Compliant Material Systems for
   On-Demand Specialist Robots'  
-order: 1
+weight: 2
 funding: "This work is supported by NSF Award #1944789"
 ---
 

@@ -14,7 +14,7 @@ params:
   menu:
   - name: Research
     links: 
-    - name: Research Projects & Platforms
+    - name: Research Projects
       link: /projects
     - name: Posters
       link: /posters

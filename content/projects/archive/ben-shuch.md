@@ -1,6 +1,6 @@
 ---
 archived: x
-description: In this project we present a low-cost force-sensing quadrupedal laminate
+summary: In this project we present a low-cost force-sensing quadrupedal laminate
   robot platform. The robot has two degrees of freedom on each of four independent
   legs, allowing for a variety of motion trajectories to be created at each leg,
   thus creating a rich control space to explore on a relatively low-cost robot.

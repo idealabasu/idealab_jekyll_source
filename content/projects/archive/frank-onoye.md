@@ -1,5 +1,5 @@
 ---
-description: "Based on the idea that robots can be made to display many features\
+summary: "Based on the idea that robots can be made to display many features\
   \ of animals such as locomotion, the goal of this thesis is to recreate a tail\
   \ based on the mechanics of a cheetah since the use of its tail is the most effective\
   \ in dynamic stability and test its effectiveness on an inherently unstable object\

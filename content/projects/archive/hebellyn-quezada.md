@@ -1,5 +1,5 @@
 ---
-description: "The purpose of this project is to create a kit that aims to spark\
+summary: "The purpose of this project is to create a kit that aims to spark\
   \ an interest in engineering for preadolescents and investigate what are effective\
   \ methods of doing so. The highlight of this project is the implementation of\
   \ Choice Theory, which proposes that student engagement increases when they are\

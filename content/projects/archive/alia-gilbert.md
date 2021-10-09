@@ -1,5 +1,5 @@
 ---
-description: This project focuses on controlling the altitude of an underwater robot
+summary: This project focuses on controlling the altitude of an underwater robot
   meant to do environmental cleanup of vegetation in a canal. A bladder modeled
   off fish anatomy will be designed containing two bulbs, likely of laminate material,
   with a tube containing a pump. The pump will transfer air between the two bulbs

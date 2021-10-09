@@ -1,6 +1,6 @@
 ---
 archived: x
-description: This project explores the design and development of a robotic gripper
+summary: This project explores the design and development of a robotic gripper
   using low cost materials. It uses a four-bar mechanism to grasp objects. The system
   is back driven until the finger makes contact with an object. The servo continues
   to drive over coming the force of a spring holding the gripper in a open position

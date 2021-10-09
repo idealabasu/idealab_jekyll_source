@@ -1,5 +1,5 @@
 ---
-description: We are working to create a framework for design, rapid prototyping
+summary: We are working to create a framework for design, rapid prototyping
     and control of robust, energy-efficient, autonomous soft arms with octopus-inspired
     distributed neuromuscular sensing and actuation. The arms will be capable of continuous
     deformation through the use of hydrogel "muscles" and distributed sensing through
