@@ -5,4 +5,26 @@
   {{ .Params.description }}
 
   {{ .Content }}
+
+
+  {{ if .Params.videos}}
+  
+  <h2>Videos</h2>
+  
+  <div class="row equal">
+    {{ range .Params.videos }}
+    <div class="col-sm-6">
+      <div class="thumbnail">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe src="{{.link}}" allowfullscreen></iframe>
+        </div>
+        <div class="caption">
+        {{.caption}}
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+
 {{ end }}

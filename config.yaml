@@ -13,15 +13,13 @@ params:
   email: danaukes@asu.edu
   menu:
   - name: Research
-    links: 
-    - name: Research Projects
-      link: /projects
-    - name: Posters
-      link: /posters
-    - name: Kaiteki Project
-      link: /kaiteki
+    link: /projects
   - name: Publications
-    link: /publications
+    links: 
+      - name: Papers
+        link: /publications
+      - name: Posters
+        link: /posters
   - name: Videos
     link: /videos
   - name: Lab Info

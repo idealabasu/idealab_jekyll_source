@@ -3,6 +3,7 @@ funding: 'This work is supported by NSF Award #1935324'
 title: "SCRAMS: Soft, Curved, Reconfigurable, Anisotropic Mechanisms"
 weight: 1
 image: /assets/images/research/efri-tubes.png
+bibFile: data/mypapers.json # path relative to project root
 ---
 
 ## Pinched Tubes
@@ -37,6 +38,22 @@ Mohammad Sharifzadeh
 ## Websites
 
 [scrambots.com](https://www.scrambots.com)
+
+## Journal Papers
+
+* Sharifzadeh, M., & Aukes, D. M. (2021). Curvature-Induced Buckling for Flapping-Wing Vehicles. IEEE/ASME Transactions on Mechatronics, 26(1), 503–514. https://doi.org/10.1109/TMECH.2020.3034659
+* Sharifzadeh, M., Jiang, Y., & Aukes, D. M. (2021). Reconfigurable Curved Beams for Selectable Swimming Gaits in an Underwater Robot. IEEE Robotics and Automation Letters, 6(2), 3437–3444. https://doi.org/10.1109/LRA.2021.3063961
+
+## Conference Presentations
+
+* Jiang, Y., Sharifzadeh, M., & Aukes, D. M. (2020). Reconfigurable Soft Flexure Hinges via Pinched Tubes. IEEE/RSJ Intenational Conference on Intelligent Robots and Systems (IROS), 8843–8850. https://doi.org/10.1109/IROS45743.2020.9341109
+* Jiang, Y., Sharifzadeh, M., & Aukes, D. M. (2021). Shape Change Propagation Through Soft Curved Materials for Dynamically-Tuned Paddling Robots. 2021 IEEE 4th International Conference on Soft Robotics (RoboSoft), 230–237. https://doi.org/10.1109/RoboSoft51838.2021.9479208
+* Sharifzadeh, M., & Aukes, D. M. (2021). Curvature-Induced Buckling for Flapping-Wing Vehicles. IEEE/ASME Transactions on Mechatronics, 26(1), 503–514. https://doi.org/10.1109/TMECH.2020.3034659
+
+## Poster Presentations
+
+* Sharifzadeh, M., Jiang, Y., & Aukes, D. (2021). Curved Beams’ Preferential Buckling for Locomotion. Breaking the Mold: Challenging Current Paradigms in Soft Robotics (Robosoft 2021 Workshop).
+* Jiang, Y., Sharifzadeh, M., & Aukes, D. M. (2021). Shape Change Propagation Through Soft Curved Materials for Dynamically-Tuned Paddling Robots. Breaking the Mold: Challenging Current Paradigms in Soft Robotics (Robosoft 2021 Workshop).
 
 ## Funding
 
