@@ -2,7 +2,7 @@
 funding: 'This work is supported by NSF Award #1935324'
 title: "SCRAMS: Soft, Curved, Reconfigurable, Anisotropic Mechanisms"
 weight: 1
-image: /assets/images/research/efri-tubes.png
+image: /assets/images/research/efri/intro.png
 bibFile: data/mypapers.json # path relative to project root
 ---
 
