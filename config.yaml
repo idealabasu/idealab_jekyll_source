@@ -38,6 +38,8 @@ params:
       link: /research-opportunities
     - name: Hiring
       link: /hiring
+    - name: Lab Meeting Schedule
+      link: /lab-info/meeting-schedule
 #    - name: Conferences
 #      link: /conferences
     - name: Download
