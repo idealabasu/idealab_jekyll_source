@@ -2,6 +2,6 @@
 title: News
 menu:
   main:
-    weight: 9
+    weight: 5
 ---
 
