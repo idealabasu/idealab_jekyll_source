@@ -2,6 +2,10 @@
 title: Equipment and Facilities
 image:
   feature: "/assets/images/equipment/image2.jpg"
+menu:
+  main:
+    weight: 4
+    parent: Lab Info
 ---
 
 The IDEAlab at Arizona State University's Polytechnic School has a wide variety of equipment available for designing, prototyping, modeling, analyzing, simulating, and testing a variety of robotic devices made using less-traditional materials.

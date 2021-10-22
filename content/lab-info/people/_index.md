@@ -1,7 +1,7 @@
 ---
-title: Press
+title: People
 menu:
   main:
-    weight: 5
+    weight: 1
     parent: Lab Info
 ---

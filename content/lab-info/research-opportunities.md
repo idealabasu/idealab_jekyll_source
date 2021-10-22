@@ -1,5 +1,9 @@
 ---
 title: Research Opportunities
+menu:
+  main:
+    weight: 6
+    parent: Lab Info
 ---
 
 The IDEAlab at ASU is always looking for researchers in the field of robotics, design, and manufacturing.  Get involved by coming to lab meetings and assisting on one of our existing projects.

@@ -1,5 +1,9 @@
 ---
 title: Contact and Location
+menu:
+  main:
+    weight: 3
+    parent: Lab Info
 ---
 
 ## Contact
