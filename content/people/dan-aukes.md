@@ -7,7 +7,7 @@ title: Daniel M. Aukes, PhD
 
 [CV]()
 
-[Calendar](/aukes_calendar)
+[Calendar](/lab-info/aukes_calendar)
 
 Daniel M. Aukes is an Assistant Professor at Arizona State University, and is the Principal Investigator of the IDEAlab.  His research investigates the nexus of design, manufacturing, and data-driven decision-making towards the development of robots that can operate in niche environments, with a focus on affordability and accessibility.  He is a former Technology Development Fellow at the Wyss Institute at Harvard University and completed post-doctoral research in the Harvard MicroRobotics Lab with Rob Wood, developing manufacturing planning software for origami-inspired robots.  Dr. Aukes received his PhD and Masters degrees in Mechanical Engineering from Stanford University, studying the design of underactuated robotics hands under Mark Cutkosky.  He received his BS in Mechanical Engineering from Northwestern University.  Dr. Aukes’s industry experiences have focused on manufacturing automation across a wide range of industries including automotive, pharmaceutical, and food-processing.
 
