@@ -1,6 +1,8 @@
 ---
 title: The Efficiency of Spine Stiffness in regards to Anguilliform Locomotion  
 students: Anson Kwan
+weight: 11
+funding: This project is funded as part of a Barrett Honors thesis.
 ---
 
 Fish come in varying shapes, sizes, and ecosystems that lead to a multitude of different modes of swimming. To categorizes these different methods, fish are separated by fin and body motion. In particular the order of fish Anguilliformes or ‘eel-like’ locomotion utilizes a large portion of their body to produce thrust while swimming known as undulatory locomotion [1]. Due to the developments of high-speed video capture, research with in the past two decades have been able to understand eel locomotion, kinematics, and hydrodynamics. These results have given us more accurate models for Anguilliformes and data about the efficiency, stiffness, and kinematics of their swimming behaviors. 

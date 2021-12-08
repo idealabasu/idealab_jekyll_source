@@ -1,6 +1,6 @@
 ---
 archived: x
-description: Standard robotic arms are limited by their cost, size, and lack of
+summary: Standard robotic arms are limited by their cost, size, and lack of
   flexibility. These factors make standard robotic arms difficult to apply in complex
   scenarios. While traditional, rigid  robotic arms are used in factories and plants,
   they require meticulous planning, spacious locations, heavy funding, and can only

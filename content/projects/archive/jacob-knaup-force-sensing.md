@@ -1,6 +1,6 @@
 ---
 archived: x
-description: Force control offers numerous benefits to robots over other control
+summary: Force control offers numerous benefits to robots over other control
   schemes such as more natural movements and increased sensitivity to the surrounding
   environment, but it is typically only available to high-end robots. This research
   aims to develop a modular force control solution for low-cost robots. The solution

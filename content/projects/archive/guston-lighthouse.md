@@ -1,6 +1,6 @@
 ---
 archived: x
-description: 'This project investigates the impact curvature, buckling, and anisotropy
+summary: 'This project investigates the impact curvature, buckling, and anisotropy
   play when used passively to enhance jumping capability. In this project we employ
   a curved structure to allow a rigid link to collapse preferentially in one direction
   when it encounters aerodynamic drag forces. A model was constructed in Python

@@ -1,5 +1,5 @@
 ---
-description: "Currently, a lot of focus previously for laminate robots has been\
+summary: "Currently, a lot of focus previously for laminate robots has been\
     \ on design, but more complex applications require higher level design. The aim\
     \ of my project is to demonstrate that laminate robots can be utilized for higher\
     \ level design by designing a laminate biped with model-based controls that can\

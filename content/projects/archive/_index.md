@@ -1,4 +1,6 @@
 ---
 title: Archive
-order: 4
+weight: 100
 ---
+
+Older projects that are currently inactive.

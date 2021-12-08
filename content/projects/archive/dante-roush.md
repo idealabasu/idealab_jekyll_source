@@ -1,5 +1,5 @@
 ---
-description: "I am expanding the work done by previous Master\u2019s Student Ben\
+summary: "I am expanding the work done by previous Master\u2019s Student Ben\
     \ Shuch in the field of Quadrupedal Robotic Locomotion. I am utilizing force sensing\
     \ to calculate the center of balance of a quadrupedal laminate robot with the\
     \ end goal of implementing a controls system capable of adapting in real time\

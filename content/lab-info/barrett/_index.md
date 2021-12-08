@@ -1,5 +1,9 @@
 ---
 title: Barrett Information
+menu:
+  main:
+    weight: 10
+    parent: Lab Info
 ---
 
 # Program information

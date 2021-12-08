@@ -1,6 +1,6 @@
 ---
 archived: x
-description: 'The objective of this research is to further the development of the
+summary: 'The objective of this research is to further the development of the
   bio-inspired fish being and constructed by Dr. Aukes and his team of student researchers
   by designing an inexpensive, reliable, and effective cutting tool to be used in
   conjunction with the robotic fish to cut and reduce the number of underwater vegetation

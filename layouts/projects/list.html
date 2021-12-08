@@ -1,29 +1,40 @@
-
-{{ define "title" }} Section Title {{ end }}
+{{ define "title" }} {{ .Title }} | {{ .Site.Title }} {{ end }}
 
 {{ define "main" }}
   <main>
     <h1>{{ .Title }}</h1>
 
+        
     {{ range .Pages }}
-    <div class="media">
-      <div class="media-left media-middle">
-        <a href="#">
-          <img class="media-object" src="{{ .Params.image }}" alt="">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">{{ .Title }}</h3>
+      </div>      
+      <div class="panel-body">
+    <div class="row equal">
+    {{ if .Params.image }}
+    <div class="col-sm-3">
+        <a href="{{.RelPermalink}}">
+        <img class="img-responsive" src="{{ .Params.image }}" alt="">
         </a>
-      </div>
-      <div class="media-body">
-        <h4><a href="{{.RelPermalink}}">{{ .Title }}</a> <span class="badge">{{.Params.key}}</span></h2>
-          <p>{{ .Params.description }}</p>
-          <p>{{ .Summary }}</p>
-        <p><em>{{ .Params.funding }}</em></p>
-        {{ if .Params.students }}<p>Students: {{ .Params.students }}</p>{{end}}
-      </div>
     </div>
-    {{ end }}
+    <div class="col-sm-9">
+    {{else }}
+    <div class="col-sm-12">
+      {{ end }}
+        <p>{{ .Summary }}</p>
+      <p><em>{{ .Params.funding }}</em></p>
+      {{ if .Params.students }}<p>Students: {{ .Params.students }}</p>{{end}}
+      <p><span class="badge">{{.Params.key}}</span></p>
+      <a href="{{.RelPermalink}}"><button type="button" class="btn btn-primary">Learn More...</button></a>
+    </div>
+    
+  </div>
+</div>
+</div>
+{{ end }}
 
   {{ .Content }}
-
 
   </main>
 {{ end }}

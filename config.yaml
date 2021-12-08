@@ -3,6 +3,48 @@ languageCode: "en-us"
 title: "IDEAlab"
 theme:
  - hugo-cite
+
+menu:
+#  - name: Research
+#    link: /projects
+#  - name: Publications
+#    links: 
+#      - name: Papers
+#        link: /publications
+#      - name: Posters
+#        link: /posters
+#  - name: Videos
+#    link: /videos
+#  - name: Lab Info
+#    links:
+#    - name: People
+#      link: /people
+#    - name: Calendar
+#      link: /calendar
+#    - name: Contact & Location
+#      link: /contact-and-location
+#    - name: Equipment & Facilities
+#      link: /equipment
+#    - name: Press
+#      link: /press
+#    - name: Research Opportunities
+#      link: /research-opportunities
+#    - name: Hiring
+#      link: /hiring
+##    - name: Conferences
+##      link: /conferences
+#    - name: Download
+#      link: /download
+#    - name: Barrett Info
+#      link: /lab-info/barrett/
+#  - name: Lab News
+#    link: /news
+#  - name: Teaching
+#    link: /teaching
+  - name: Slack(internal)
+    URL: https://idealab-asu.slack.com/
+    weight: 10
+  
 params:
   github_repo: "https://github.com/idealabasu/idealabasu.github.io"
   github_edit_branch: main
@@ -11,51 +53,10 @@ params:
   author: Daniel M. Aukes
   description: IDEAlab Homepage
   email: danaukes@asu.edu
-  menu:
-  - name: Research
-    links: 
-    - name: Research Projects & Platforms
-      link: /projects
-    - name: Posters
-      link: /posters
-    - name: Kaiteki Project
-      link: /kaiteki
-  - name: Publications
-    link: /publications
-  - name: Videos
-    link: /videos
-  - name: Lab Info
-    links:
-    - name: People
-      link: /people
-    - name: Calendar
-      link: /calendar
-    - name: Contact & Location
-      link: /contact-and-location
-    - name: Equipment & Facilities
-      link: /equipment
-    - name: Press
-      link: /press
-    - name: Research Opportunities
-      link: /research-opportunities
-    - name: Hiring
-      link: /hiring
-#    - name: Conferences
-#      link: /conferences
-    - name: Download
-      link: /download
-    - name: Barrett Info
-      link: /lab-info/barrett/
-  - name: Lab News
-    link: /news
-#  - name: Teaching
-#    link: /teaching
-  - name: Slack(internal)
-    link: https://idealab-asu.slack.com/
-    external: true
-  
+
 ignorefiles:
   - ignore/*
+  - content/teaching/*
 
 markup:
   goldmark:

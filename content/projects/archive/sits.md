@@ -1,5 +1,5 @@
 ---
-description: What's inside the ground leaves us a mystery, and we are trying to
+summary: What's inside the ground leaves us a mystery, and we are trying to
     use the self-boring robot nodes to collect signals underground. Currently, we
     are focusing on the soft material-granular media contacting behavior, adding material
     compliance into granular media RFT model. With a sand-burrowing robot platform
