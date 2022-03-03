@@ -1,7 +1,8 @@
-----
+---
 title: Congratulations to Mohammad Sharifzadeh and Yuhao Jiang
+description: ...on their paper being accepted to ICRA2022
 date: 2022-02-15
-----
+---
 
 Dr. Mohammad Sharifzadeh and Doctoral Student Yuhao Jiang just got their paper accepted to ICRA 2022. We'll see you there in May!
 
