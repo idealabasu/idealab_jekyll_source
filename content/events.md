@@ -4,7 +4,7 @@ title: Events
 
 ## Foldable Robotics Camp
 
-[Register Now](https://specialevents.asu.edu/672513)
+<a href="https://specialevents.asu.edu/672513"> <button type="button" class="btn btn-primary">Register Now</button></a>
 
 * June 13-17, 2022
 * $250/student
