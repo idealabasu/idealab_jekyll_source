@@ -4,7 +4,7 @@ title: Events
 
 ## Foldable Robotics Camp
 
-<a href="https://specialevents.asu.edu/672513"> <button type="button" class="btn btn-primary">Register Now</button></a>
+<a href="https://specialevents.asu.edu/foldable-robotics-camp"> <button type="button" class="btn btn-primary">Register Now</button></a>
 
 * June 13-17, 2022
 * $250/student
@@ -21,4 +21,4 @@ Participants will learn:
 
 This week-long, hands-on, project-based approach will emphasize problem identification, brainstorming, problem solving, rapid prototyping, teamwork, and communication. The camp will culminate with a final build -- that students can program to move through the environment -- along with an exposition for parents.
 
-For more info, contact <danaukes@asu.edu> or visit our [registration page](https://specialevents.asu.edu/672513)
+For more info, contact <danaukes@asu.edu> or visit our [registration page](https://specialevents.asu.edu/foldable-robotics-camp)
