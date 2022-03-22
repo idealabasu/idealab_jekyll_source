@@ -1,5 +1,8 @@
 ---
 title: Events
+menu:
+  main:
+    weight: 6
 ---
 
 ## Foldable Robotics Camp
