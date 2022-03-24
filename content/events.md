@@ -24,4 +24,14 @@ Participants will learn:
 
 This week-long, hands-on, project-based approach will emphasize problem identification, brainstorming, problem solving, rapid prototyping, teamwork, and communication. The camp will culminate with a final build -- that students can program to move through the environment -- along with an exposition for parents.
 
+Students will be able to take their development kits home with them at the end of the week.  Example parts & materials include:
+
+* Programmable microcontroller
+* Breadboard & wire
+* RC Servo
+* Sensor(s)
+* LEDs
+* Rechargeable Battery and Charger
+* Craft essentials: scissors, stapler, tape, brads, rubber bands
+
 For more info, contact <danaukes@asu.edu> or visit our [registration page](https://specialevents.asu.edu/foldable-robotics-camp)
