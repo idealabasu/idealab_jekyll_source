@@ -5,6 +5,8 @@ menu:
     weight: 6
 ---
 
+<img src="/assets/images/poster2022.jpg" width="500px">
+
 ## Foldable Robotics Camp
 
 <a href="https://specialevents.asu.edu/foldable-robotics-camp"> <button type="button" class="btn btn-primary">Register Now</button></a>
