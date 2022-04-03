@@ -12,7 +12,7 @@ menu:
 <a href="https://specialevents.asu.edu/foldable-robotics-camp"> <button type="button" class="btn btn-primary">Register Now</button></a>
 
 * June 13-17, 2022
-* $250/student
+* $250/student ($275 after 5/13/22 early deadline)
 * ASU Polytechnic Campus
 
 In this exciting hands-on, day camp for high schoolers, participants will be introduced to the principles of robot design through origami -- the art of paper folding -- to prototype, ideate, and get a hands-on sense of the physics of robots.
