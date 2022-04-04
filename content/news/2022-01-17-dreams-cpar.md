@@ -1,6 +1,6 @@
 --- 
-title: DREAMS/CPAR Seminar
-description: Dr. Aukes recently presented recent work at the DREAMS/CPAR Seminar at Berkeley
+title: "DREAMS/CPAR Seminar"
+description: "Dr. Aukes recently presented recent work at the DREAMS/CPAR Seminar at Berkeley"
 date: 2022-01-24
 ---
 
