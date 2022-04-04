@@ -45,7 +45,7 @@ We propose a wearable hybrid robotic system that assists, enhances, and augments
 <div class="thumbnail">
 <img class="img-responsive" src="/assets/images/kaiteki_headshots/hyunglae.jpg">
 <h3>Hyunglae Lee</h3>
-<p>Assistant Professor<br>Ira A. Fulton Schools of Engineering</p>
+<p>Associate Professor<br>Ira A. Fulton Schools of Engineering</p>
 <p>
 </p>
 </div>
@@ -65,7 +65,7 @@ We propose a wearable hybrid robotic system that assists, enhances, and augments
 <div class="thumbnail">
 <img class="img-responsive" src="/assets/images/kaiteki_headshots/wenlong.jpg">
 <h3>Wenlong Zhang</h3>
-<p>Assistant Professor<br>Ira A. Fulton Schools of Engineering</p>
+<p>Associate Professor<br>Ira A. Fulton Schools of Engineering</p>
 <p>
 </p>
 </div>
