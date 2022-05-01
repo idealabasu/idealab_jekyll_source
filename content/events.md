@@ -11,6 +11,7 @@ menu:
 
 <a href="https://specialevents.asu.edu/foldable-robotics-camp"> <button type="button" class="btn btn-primary">Register Now</button></a>
 
+* Registration Ends May 31, 2022
 * June 13-17, 2022, 9am-4pm each day.
 * $250/student ($275 after 5/13/22 early deadline)
 * High School Students 15+
