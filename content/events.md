@@ -17,7 +17,7 @@ menu:
 * High School Students 14+
 * ASU Polytechnic Campus
 
-In this exciting hands-on, day camp for high schoolers 15+, participants will be introduced to the principles of robot design through origami -- the art of paper folding -- to prototype, ideate, and get a hands-on sense of the physics of robots.
+In this exciting hands-on, day camp for high schoolers 14+, participants will be introduced to the principles of robot design through origami -- the art of paper folding -- to prototype, ideate, and get a hands-on sense of the physics of robots.
 
 Participants will learn:
 
