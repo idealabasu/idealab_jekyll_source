@@ -13,8 +13,8 @@ menu:
 
 * Registration Ends May 31, 2022
 * June 13-17, 2022, 9am-4pm each day.
-* $250/student ($275 after 5/13/22 early deadline)
-* High School Students 15+
+* $250/student
+* High School Students 14+
 * ASU Polytechnic Campus
 
 In this exciting hands-on, day camp for high schoolers 15+, participants will be introduced to the principles of robot design through origami -- the art of paper folding -- to prototype, ideate, and get a hands-on sense of the physics of robots.
