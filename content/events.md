@@ -5,7 +5,7 @@ menu:
     weight: 6
 ---
 
-<img src="/assets/images/poster2022.jpg" width="500px">
+<img src="/assets/images/poster2022-shrunk.png" width="500px">
 
 ## Foldable Robotics Day Camp
 
