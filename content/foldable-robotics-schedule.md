@@ -2,28 +2,37 @@
 title: Foldable Robotics Camp Schedule
 ---
 
+Other Pages:
+
+* [General Info](/foldable-robotics-info/)
+
+This Page
+
+* [Daily Schedule](#daily-schedule)
+* [Weeklong Lesson Plan](#weeklong-lesson-plan)
+
 ## Daily Schedule
 
-| Time*      | Description           | Location                        |
+| Time*     | Description           | Location                        |
 |:----------|:----------------------|:--------------------------------|
-| **9:00**  | **Morning Session**   | **Peralta 103**                 |
-| 9:00      | Doors Open            | Peralta 103                     |
+| **9:00**  | **Doors Open**        | **Peralta 103**                 |
+| 9:00      | Morning Session       | Peralta 103                     |
 | 9:15      | Topic 1               | Peralta 103                     |
 | 10:30     | Bio Break             | Peralta                         |
 | 10:35     | Topic 2               | Peralta 103                     |
-| 11:45     | Documentation         | Peralta 103                     |
+| 11:45     | Lab Journal           | Peralta 103                     |
 | **12:00** | **Lunch Break**       | **Citrus Cafe / Student Union** |
 | **1:00**  | **Afternoon Session** | **Peralta 103**                 |
 | 1:00      | Topic 3               | Peralta 103                     |
 | 2:15      | Bio Break             | Peralta                         |
 | 2:20      | Topic 4               | Peralta 103                     |
-| 3:30      | Documentation         | Peralta 103                     |
+| 3:30      | Lab Journal           | Peralta 103                     |
 | 3:45      | Cleanup               | Peralta 103                     |
 | **4:00**  | **Doors Close**       | **Peralta 103**                 |
 
 \* All times approximate
 
-## Weekly Lesson Plan
+## Weeklong Lesson Plan
 
 ### Monday
 
@@ -39,11 +48,7 @@ Other Tasks
 * document day's work
 * build & label kit boxes
 
-Tonight:
-
-
 ### Tuesday
-
 
 Topic 1:  ESP32  
 Topic 2:  Python  
@@ -68,7 +73,7 @@ Topic 4:  Experimentation
 Topic 1:  Leg Re-Design  
 Topic 2:  Subsystem Prototyping  
 Topic 3:  Circuits & Sensors   
-Topic 4:  Advanced Control
+Topic 4:  Advanced Control w/ ESP32
 
 Other Tasks:
 
