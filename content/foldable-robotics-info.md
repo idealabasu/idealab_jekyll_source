@@ -17,9 +17,9 @@ This Page:
 
 **Daily Schedule:**  The camp will run 9am-4pm, Monday thru Friday.  We will hold a **student showcase** from **3-4pm on Friday, June 17**.  Please review the [parking](#parking) information below if you plan to stop by.
 
-## Locations
-
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1cQP-eOreyKksLptAO4uZlAtTsAmwj8ql&ehbc=2E312F" width="100%" height="600"></iframe>
+
+## Locations
 
 ### Classroom 
 
