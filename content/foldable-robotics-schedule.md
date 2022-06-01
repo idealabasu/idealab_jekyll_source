@@ -36,7 +36,7 @@ This Page
 
 ## Weeklong Lesson Plan
 
-### Monday
+### Monday, June 13
 
 Topic 1: Origami & Folding  
 Topic 2: Making Session  
@@ -50,7 +50,7 @@ Other Tasks
 * document day's work
 * build & label kit boxes
 
-### Tuesday
+### Tuesday, June 14
 
 Topic 1:  ESP32  
 Topic 2:  Python  
@@ -63,14 +63,14 @@ Tasks:
 * document day's work
 
 
-### Wednesday
+### Wednesday, June 15
 
 Topic 1:  Vinyl Cutters & Manufacturing  
 Topic 2:  Designing, Programming and Making Session  
 Topic 3:  Physics and Modeling  
 Topic 4:  Experimentation
 
-### Thursday
+### Thursday, June 16
 
 Topic 1:  Leg Re-Design  
 Topic 2:  Subsystem Prototyping  
@@ -81,7 +81,7 @@ Other Tasks:
 
 * Tour?
 
-### Friday
+### Friday, June 17
 
 Topic 1:  Final Build Session  
 Topic 2:  Final Assembly Session  

@@ -15,11 +15,11 @@ This Page:
 
 ## Overview
 
-**Daily Schedule:**  The camp will run 9am-4pm, Monday thru Friday.  We will hold a **student showcase** from **3-4pm on Friday, June 17**.  Please review the [parking](#parking) information below if you plan to stop by.
+**Daily Schedule:**  The camp will run 9am-4pm, Monday thru Friday June 13-17, 2022.  We will hold a **student showcase** from **3-4pm on Friday, June 17**.  Please review the [parking](#parking) information below if you plan to stop by.
 
 ## Check-in / Check-Out
 
-It is highly encouraged that you drop your student off each day rather than have them drive and pay for parking, as it is the most economical option (Parking information [below](#parking)).  Lot 30 is the closest and easiest dropoff location.  There are 20-minute pickup/dropoff spots located [here](https://goo.gl/maps/8kuUE78uMdwYcMw57).
+It is highly encouraged that you drop your student off each day rather than have them drive and pay for parking, as it is the most economical option (Parking information [below](#parking)).  Lot 30 is the closest and easiest dropoff location.  There are 2 _free_ 20-minute pickup/dropoff spots located [here](https://goo.gl/maps/8kuUE78uMdwYcMw57).
 
 We ask that you bring an ID each day, as our check-in/check-out procedure requires that we release students to an approved individual.  We will be sending out a [check-in/check-out preference form](https://secure.na4.documents.adobe.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhBTdMqDJKyWL08TAOE3kqMM2tPyi8PM7hp6NUI8ndqLMROCPEqWtGI4IjFYXxQXy-I*) if you would prefer to have your child drive or if you would like to add other responsible adults who have your permission to check your student in and out.
 
