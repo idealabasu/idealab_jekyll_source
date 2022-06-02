@@ -43,12 +43,11 @@ Topic 2: Making Session
 Topic 3: Biomechanics and Bioinspiration  
 Topic 4: Making Session
 
-Other Tasks
+#### Tasks
 
-* establish Teams
-* create github account and website
-* document day's work
-* build & label kit boxes
+* Establish Teams
+* Create github account and website
+* Build & label kit boxes
 
 ### Tuesday, June 14
 
@@ -57,11 +56,9 @@ Topic 2:  Python
 Topic 3:  Servos  
 Topic 4:  Body Module Prototyping  
 
-Tasks:
+#### Tasks
 
-* Install anaconda, Thonny
-* document day's work
-
+* Install Anaconda, Thonny
 
 ### Wednesday, June 15
 
@@ -77,9 +74,9 @@ Topic 2:  Subsystem Prototyping
 Topic 3:  Circuits & Sensors   
 Topic 4:  Advanced Control w/ ESP32
 
-Other Tasks:
+#### Tasks
 
-* Tour?
+* Lab Tour (tentative)
 
 ### Friday, June 17
 
