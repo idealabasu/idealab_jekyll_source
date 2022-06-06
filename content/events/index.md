@@ -32,10 +32,9 @@ Students will be able to take their development kits home with them at the end o
 
 * Programmable microcontroller
 * Breadboard & wire
-* RC Servo
+* RC Servo(s)
 * Sensor(s)
-* LEDs
-* Rechargeable Battery and Charger
-* Craft essentials: scissors, stapler, tape, brads, rubber bands
+* High-current power supply
+* Craft essentials: scissors, stapler, tape, rubber bands
 
 For more info, contact <danaukes@asu.edu> or visit our [registration page](https://specialevents.asu.edu/foldable-robotics-camp)
