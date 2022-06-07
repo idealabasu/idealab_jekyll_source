@@ -32,6 +32,12 @@ We ask that you bring an ID each day, as our check-in/check-out procedure requir
 
 It is highly encouraged that students bring their lunch as it is the most economical option, but food is available for purchase on campus.  There are _no easily accessible fridges_ nearby to the classroom, so please remember to bring an ice-pack to keep lunches fresh through the morning.
 
+Available Food Options:
+
+* Subway
+* Starbucks 
+* Polytechnic Marketplace (convenience store)
+
 Students should bring their own snacks and a personal water bottle.
 
 ## Daily Checklist
@@ -88,10 +94,12 @@ Room 103
 7171 E Sonoran Arroyo Mall  
 Mesa, AZ 85212  
 
+<!--
 ### Citrus Dining Pavilion
 
 7290 East Sun Devil Mall  
 Mesa, AZ 85212
+-->
 
 ### Polytechnic Student Union
 
