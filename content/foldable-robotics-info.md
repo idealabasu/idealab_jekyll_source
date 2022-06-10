@@ -9,7 +9,7 @@ Other Pages:
 This Page:
 
 * [Overview](#quick-overview)
-* [Check-in/Check-out](#updated-check-in-check-out)
+* [Check-in/Check-out](#updated-check-in--check-out)
 * [Evaluation & Permission Form](#new-evaluation-permission-form)
 * [Food/Water/Snacks](#updated-food-water-snacks)
 * [Daily Checklist](#daily-checklist)
