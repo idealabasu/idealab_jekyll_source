@@ -13,7 +13,7 @@ This Page:
 * [Evaluation & Permission Form](#new-evaluation-permission-form)
 * [Food/Water/Snacks](#updated-food-water-snacks)
 * [Daily Checklist](#daily-checklist)
-* [Software](#new-software)
+* [Laptops and Software](#new-laptops-and-software)
 * [Instructor Information](#instructor-information)
 * [Locations](#updated-locations)
 
@@ -62,11 +62,11 @@ Students should bring their own snacks and a personal water bottle.
 
 * Backpack
 * Lunch _or_ Lunch Money
+* Phone / Camera (for data collection)
+* Laptop (recommended; see [below](#new-laptops-and-software) for more info) 
 * Water Bottle
 * Personal Snacks
 * Notebook & Pen
-* Phone / Camera (for data collection)
-* Laptop (suggested, not required) 
 * Driver's License or official ID (for check-in and check-out)
 
 ### First Day
@@ -82,7 +82,7 @@ Students should bring their own snacks and a personal water bottle.
 
 * Take your kits home!
 
-## (NEW) Software
+## (NEW) Laptops and Software
 
 We encourage students to bring their own laptop.  We are able to support the following*:
 
