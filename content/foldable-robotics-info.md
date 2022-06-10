@@ -10,7 +10,7 @@ This Page:
 
 * [Overview](#quick-overview)
 * [Check-in/Check-out](#updated-check-in--check-out)
-* [Evaluation & Permission Form](#new-evaluation-permission-form)
+* [Evaluation & Permission Form](#new-evaluation--permission-form)
 * [Food/Water/Snacks](#updated-food-water-snacks)
 * [Daily Checklist](#daily-checklist)
 * [Laptops and Software](#new-laptops-and-software)
@@ -84,7 +84,7 @@ Students should bring their own snacks and a personal water bottle.
 
 ## (NEW) Laptops and Software
 
-We encourage students to bring their own laptop.  We are able to support the following*:
+We encourage students to bring their own laptop.  We are able to support the following operating systems*:
 
 * Windows
 * Mac
@@ -98,6 +98,8 @@ If you are bringing a laptop, please ensure your student has the proper user per
 * [Silabs cp210x driver](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
 * [Tracker](https://physlets.org/tracker/)
 * [CreateSpace](https://techsupport.signwarehouse.com/create-space-software-support-resources/)
+
+There are also a number of PCs in the classroom that will be available.
 
 ## (UPDATED) Instructor Information
 
