@@ -32,7 +32,7 @@ It is highly encouraged that you drop your student off each day rather than have
 
 We ask that you bring an ID each day, as our check-in/check-out procedure requires that we release students to an approved individual.  We will be emailing a request for you to fill out a check-in/check-out preference form to indicate if you would prefer to have your child drive or if you would like to add other responsible adults who have your permission to check your student in and out.
 
-**_Please remember to bring your ID._**  If your student is driving themself, _**they**_ should bring their driver's license.
+**_Please remember to bring your ID._**  If your student is driving themself, _**they**_ should bring their driver's license or school ID.
 
 ## (NEW) Evaluation & Permission Form
 
@@ -76,7 +76,7 @@ Students should bring their own snacks and a personal water bottle.
 * Emergency Contact Info (if you did not yet complete it)
 * **Adult** driver's license (for adult check-in and check-out)  
     _or_  
-    **Student** drivers's license (for student check-in and check-out)
+    **Student** driver's license (for student check-in and check-out)
 
 ### Last Day
 
