@@ -28,7 +28,7 @@ This Page
 | 2:15      | Bio Break             | Peralta                         |
 | 2:20      | Topic 4               | Peralta 103                     |
 | 3:30      | Lab Journal           | Peralta 103                     |
-| 3:40      | Vote for Shwag           | Peralta 103                     |
+| 3:40      | Vote for Shwag        | Peralta 103                     |
 | 3:45      | Cleanup               | Peralta 103                     |
 | 3:45-4:00 | Check-out             | Peralta 103                     |
 | **4:00**  | **Doors Close**       | **Peralta 103**                 |
