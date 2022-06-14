@@ -61,6 +61,7 @@ Students should bring their own snacks and a personal water bottle.
 ### Each Day
 
 * Backpack
+* Close-Toed Shoes
 * Lunch _or_ Lunch Money
 * Phone / Camera (for data collection)
 * Laptop (recommended; see [below](#new-laptops-and-software) for more info) 
