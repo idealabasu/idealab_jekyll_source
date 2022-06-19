@@ -1,15 +1,19 @@
 ---
-title: Events
-menu:
-  main:
-    weight: 6
+title: Foldable Robotics Day Camp 2022
+image: /assets/images/webimage2022-shrunk-passed.jpg
+weight: 2
+summary: In this exciting hands-on, day camp, participants will be introduced to the principles of robot design through origami -- the art of paper folding -- to prototype, ideate, and get a hands-on sense of the physics of robots.
 ---
 
-<img src="/assets/images/poster2022-shrunk.png" width="500px">
+<img src="/assets/images/webimage2022-shrunk-passed.jpg" width="500px">
 
-## Foldable Robotics Day Camp
+## About
 
+<a href="#"> <button type="button" class="btn btn-primary">Registration Complete</button></a>
+
+<!--
 <a href="https://specialevents.asu.edu/foldable-robotics-camp"> <button type="button" class="btn btn-primary">Register Now</button></a>
+-->
 
 * Registration Ends May 31, 2022
 * June 13-17, 2022, 9am-4pm each day.
@@ -37,4 +41,4 @@ Students will be able to take their development kits home with them at the end o
 * High-current power supply
 * Craft essentials: scissors, stapler, tape, rubber bands
 
-For more info, contact <danaukes@asu.edu> or visit our [registration page](https://specialevents.asu.edu/foldable-robotics-camp)
+For more info, contact <danaukes@asu.edu> or visit our [registration page](#)<!--[registration page](https://specialevents.asu.edu/foldable-robotics-camp)-->
