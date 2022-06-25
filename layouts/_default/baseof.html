@@ -4,20 +4,25 @@
   <head>
     <meta charset="utf-8">
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+
     <meta name="description" content="{{ .Site.Params.description }}">
     <meta name="author" content="{{ .Site.Params.author }}">
+
+  <link href='assets/fontawesome/css/fontawesome.css' rel='stylesheet' type='text/css' />
+
+   {{ $sass := resources.Get "bootstrap4-theme/scss/bootstrap-asu.scss" }}
+   {{ $style := $sass | resources.ToCSS | resources.Fingerprint }}   
+   <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">   
 
    {{ partial "head" . }}
    {{ partial "head_custom" . }}
     
   </head>
   <body data-spy="scroll" data-target=".sidebar-nav">
-  <div id="page">
-    {{ partial "asu_header" . }}
-    {{ partial "navigation_outer.html" . }}
-    <span id="skippy" class="sr-only"></span>
-  </div>
-    {{ partial "main_image.html" . }}
+
+    {{ partial "asu_header4.html" . }}
+<!--
+-->
 
 <div class="container pad-md">
 
@@ -28,7 +33,7 @@
 
 
 
-   {{ partial "footer.html" . }}
+   {{ partial "footer4.html" . }}
    {{ partial "foot.html" . }}
    {{ partial "foot_custom.html" . }}
 
