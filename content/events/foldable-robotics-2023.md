@@ -5,9 +5,10 @@ weight: 1
 summary: In this exciting hands-on, day camp, participants will be introduced to the principles of robot design through origami -- the art of paper folding -- to prototype, ideate, and get a hands-on sense of the physics of robots.
 ---
 
-<!--
-<a href="#"> <button type="button" class="btn btn-primary">Registration Not Yet Available</button></a>
--->
+<div class="text-center">
+<img src="/assets/images/webimage2023-shrunk2.jpg" width="400px">
+</div>
+
 
 <a href="https://specialevents.asu.edu/foldable-robotics-camp-2023"> <button type="button" class="btn btn-primary">Register</button></a>
 
@@ -42,3 +43,7 @@ Students will be able to take their development kits home with them at the end o
 * Craft essentials: scissors, stapler, tape, rubber bands
 
 For more info, contact <danaukes@asu.edu> or visit our [registration page](https://specialevents.asu.edu/foldable-robotics-camp-2023)
+
+<!--
+<a href="#"> <button type="button" class="btn btn-primary">Registration Not Yet Available</button></a>
+-->
