@@ -1,6 +1,6 @@
 ---
 title: Foldable Robotics Day Camp 2023
-image: /assets/images/webimage2023-shrunk1.jpg
+image: /assets/images/webimage2023-shrunk2.jpg
 weight: 1
 summary: In this exciting hands-on, day camp, participants will be introduced to the principles of robot design through origami -- the art of paper folding -- to prototype, ideate, and get a hands-on sense of the physics of robots.
 ---
@@ -9,7 +9,7 @@ summary: In this exciting hands-on, day camp, participants will be introduced to
 <a href="#"> <button type="button" class="btn btn-primary">Registration Not Yet Available</button></a>
 -->
 
-<a href="https://specialevents.asu.edu/foldable-robotics-camp-2023"> <button type="button" class="btn btn-primary">Register Now</button></a>
+<a href="https://specialevents.asu.edu/foldable-robotics-camp-2023"> <button type="button" class="btn btn-primary">Register</button></a>
 
 ## About
 
