@@ -19,7 +19,7 @@ summary: In this exciting hands-on, day camp, participants will be introduced to
 * Early Registration Ends May 15, 2023
 * June 12-16, 2023, 9am-4pm each day.
 * \$250 per student (\$275 after May 15)
-* Open to Students 13-17
+* Open to Students entering grades 7-12 (ages 12-17)
 
 In this exciting hands-on, day camp, participants will be introduced to the principles of robot design through origami -- the art of paper folding -- to prototype, ideate, and get a hands-on sense of the physics of robots.
 
