@@ -10,7 +10,7 @@ summary: In this exciting hands-on, day camp, participants will be introduced to
 </div>
 
 
-<a href="https://specialevents.asu.edu/foldable-robotics-camp-2023"> <button type="button" class="btn btn-primary">Register</button></a>
+<a href="https://specialevents.asu.edu/foldable-robotics-camp-2023"> <button type="button" class="btn btn-primary">Registration Open!</button></a>
 
 ## About
 
