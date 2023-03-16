@@ -18,7 +18,7 @@ summary: In this exciting hands-on, day camp, participants will be introduced to
 * Registration Opening March 15, 2023
 * Early Registration Ends May 15, 2023
 * June 12-16, 2023, 9am-4pm each day.
-* \$250 per student (\$275 after May 15)
+* \$275 per student (\$300 after May 15)
 * Open to Students entering grades 7-12 (ages 12-17)
 
 In this exciting hands-on, day camp, participants will be introduced to the principles of robot design through origami -- the art of paper folding -- to prototype, ideate, and get a hands-on sense of the physics of robots.
@@ -42,7 +42,7 @@ Students will be able to take their development kits home with them at the end o
 * Sensor(s)
 * Craft essentials: scissors, stapler, tape, rubber bands
 
-For more info, contact <danaukes@asu.edu> or visit our [registration page](https://specialevents.asu.edu/foldable-robotics-camp-2023)
+For more info, contact <danaukes@asu.edu> or visit our [registration page](https://specialevents.asu.edu/foldable-robotics-camp-2023).    If you are unable to afford registration, please [email me](danaukes@asu.edu).
 
 <!--
 <a href="#"> <button type="button" class="btn btn-primary">Registration Not Yet Available</button></a>
