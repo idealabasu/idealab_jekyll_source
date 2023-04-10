@@ -42,7 +42,7 @@ Students will be able to take their development kits home with them at the end o
 * Sensor(s)
 * Craft essentials: scissors, stapler, tape, rubber bands
 
-For more info, contact <danaukes@asu.edu> or visit our [registration page](https://specialevents.asu.edu/foldable-robotics-camp-2023).    If you are unable to afford registration, please [email me](danaukes@asu.edu).
+For more info, contact <danaukes@asu.edu> or visit our [registration page](https://specialevents.asu.edu/foldable-robotics-camp-2023).    Please email [danaukes@asu.edu](danaukes@asu.edu) with questions regarding financial aid..
 
 <!--
 <a href="#"> <button type="button" class="btn btn-primary">Registration Not Yet Available</button></a>
