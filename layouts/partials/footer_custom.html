@@ -22,14 +22,5 @@
     <li><a class="footer-link" href="https://fullcircle.asu.edu/?s=robotics" target="_blank">Full Circle Robotics News</a></li>
     <li><a class="footer-link" href="http://www.popupcad.org" target="_blank">popupCAD.org</a></li>
     <li><a class="footer-link" href="http://robotics.asu.edu" target="_blank">robotics.asu.edu</a></li>
-    {{ if .Site.Params.github_repo }}
-    {{ if .Site.Params.github_edit_branch  }}
-    {{ if .File.Path }}
-    {{ $fp:=.File.Path }}
-    <li><a class="footer-link" href="{{ .Site.Params.github_repo }}/edit/{{ .Site.Params.github_edit_branch  }}/content/{{replace $fp "\\" "/"}}" target="_blank">edit</a></li>
-    {{ end }}
-    {{ end }}
-    {{ end }}
-    
   </ul>
 </div>
