@@ -1,12 +1,12 @@
 ---
 title: Foldable Robotics Day Camp 2023
-image: /assets/images/webimage2023-shrunk2.jpg
-weight: 1
+image: /assets/images/webimage2023-shrunk1-passed.png
+weight: 2
 summary: In this exciting hands-on, day camp, participants will be introduced to the principles of robot design through origami -- the art of paper folding -- to prototype, ideate, and get a hands-on sense of the physics of robots.
 ---
 
 <div class="text-center">
-<img src="/assets/images/webimage2023-shrunk2.jpg" width="400px">
+<img src="/assets/images/webimage2023-shrunk1-passed.png" width="400px">
 </div>
 
 

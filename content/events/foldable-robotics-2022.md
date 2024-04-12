@@ -1,7 +1,7 @@
 ---
 title: Foldable Robotics Day Camp 2022
 image: /assets/images/webimage2022-shrunk-passed.jpg
-weight: 2
+weight: 3
 summary: In this exciting hands-on, day camp, participants will be introduced to the principles of robot design through origami -- the art of paper folding -- to prototype, ideate, and get a hands-on sense of the physics of robots.
 ---
 
